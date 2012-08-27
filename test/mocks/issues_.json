@@ -1,0 +1,3002 @@
+{"number_of_page_results":100, "status_code":1, "error":"OK", "results":[
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/6/",
+        "site_detail_url":"http://www.comicvine.com/chamber-of-chills-magazine-man-in-the-hood-the-lost-race-the-man-germ-the-things/37-6/",
+        "description":"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/7-1487-6-1-chamber-of-chills_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/7-1487-6-1-chamber-of-chills_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/7-1487-6-1-chamber-of-chills_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/7-1487-6-1-chamber-of-chills_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/7-1487-6-1-chamber-of-chills_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/7-1487-6-1-chamber-of-chills_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/7-1487-6-1-chamber-of-chills_super.jpg"
+        },
+        "date_last_updated":"2009-01-27 12:47:44",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1487/",
+            "id":1487,
+            "name":"Chamber of Chills Magazine"
+        },
+        "issue_number":"13.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:16",
+        "publish_day":null,
+        "publish_month":10,
+        "id":6,
+        "name":"Man In the Hood;  The Lost Race; The Man Germ;  The Things; "
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/7/",
+        "site_detail_url":"http://www.comicvine.com/fighting-fronts-/37-7/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/8-1488-7-1-fighting-fronts-_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/8-1488-7-1-fighting-fronts-_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/8-1488-7-1-fighting-fronts-_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/8-1488-7-1-fighting-fronts-_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/8-1488-7-1-fighting-fronts-_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/8-1488-7-1-fighting-fronts-_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/8-1488-7-1-fighting-fronts-_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1488/",
+            "id":1488,
+            "name":"Fighting Fronts!"
+        },
+        "issue_number":"3.00",
+        "publish_year":0,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:16",
+        "publish_day":null,
+        "publish_month":0,
+        "id":7,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/8/",
+        "site_detail_url":"http://www.comicvine.com/tomb-of-terror-/37-8/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/9-1489-8-1-tomb-of-terror_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/9-1489-8-1-tomb-of-terror_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/9-1489-8-1-tomb-of-terror_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/9-1489-8-1-tomb-of-terror_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/9-1489-8-1-tomb-of-terror_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/9-1489-8-1-tomb-of-terror_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/9-1489-8-1-tomb-of-terror_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1489/",
+            "id":1489,
+            "name":"Tomb of Terror"
+        },
+        "issue_number":"5.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:16",
+        "publish_day":null,
+        "publish_month":10,
+        "id":8,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/9/",
+        "site_detail_url":"http://www.comicvine.com/witches-tales-/37-9/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/10-1418-9-1-witches-tales_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/10-1418-9-1-witches-tales_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/10-1418-9-1-witches-tales_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/10-1418-9-1-witches-tales_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/10-1418-9-1-witches-tales_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/10-1418-9-1-witches-tales_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/10-1418-9-1-witches-tales_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1418/",
+            "id":1418,
+            "name":"Witches Tales"
+        },
+        "issue_number":"15.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:05",
+        "publish_day":null,
+        "publish_month":10,
+        "id":9,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/10/",
+        "site_detail_url":"http://www.comicvine.com/airboy-comics-/37-10/",
+        "description":"<p>Volume 7 Issue 02</p><p>Stories In This Issue...</p><p>Airboy</p><p>Yermak - Of the Steppers</p><p>The Breaks of the Game</p><p>Championship Stuff</p><p>The Heap</p>",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/11-1069-10-1-airboy-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/11-1069-10-1-airboy-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/11-1069-10-1-airboy-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/11-1069-10-1-airboy-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/11-1069-10-1-airboy-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/11-1069-10-1-airboy-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/11-1069-10-1-airboy-comics_super.jpg"
+        },
+        "date_last_updated":"2012-05-28 05:53:16",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1069/",
+            "id":1069,
+            "name":"Airboy Comics"
+        },
+        "issue_number":"73.00",
+        "publish_year":1950,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:36",
+        "publish_day":null,
+        "publish_month":3,
+        "id":10,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/11/",
+        "site_detail_url":"http://www.comicvine.com/black-diamond-western-/37-11/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/12-1253-11-1-black-diamond-wester_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/12-1253-11-1-black-diamond-wester_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/12-1253-11-1-black-diamond-wester_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/12-1253-11-1-black-diamond-wester_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/12-1253-11-1-black-diamond-wester_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/12-1253-11-1-black-diamond-wester_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/12-1253-11-1-black-diamond-wester_super.jpg"
+        },
+        "date_last_updated":"2012-06-29 11:20:33",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1253/",
+            "id":1253,
+            "name":"Black Diamond Western"
+        },
+        "issue_number":"39.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:51",
+        "publish_day":null,
+        "publish_month":10,
+        "id":11,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/12/",
+        "site_detail_url":"http://www.comicvine.com/boy-comics-/37-12/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/13-942-12-1-boy-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/13-942-12-1-boy-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/13-942-12-1-boy-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/13-942-12-1-boy-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/13-942-12-1-boy-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/13-942-12-1-boy-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/13-942-12-1-boy-comics_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/942/",
+            "id":942,
+            "name":"Boy Comics"
+        },
+        "issue_number":"82.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:30",
+        "publish_day":null,
+        "publish_month":10,
+        "id":12,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/13/",
+        "site_detail_url":"http://www.comicvine.com/best-of-the-west-/37-13/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/14-1441-13-1-best-of-the-west_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/14-1441-13-1-best-of-the-west_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/14-1441-13-1-best-of-the-west_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/14-1441-13-1-best-of-the-west_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/14-1441-13-1-best-of-the-west_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/14-1441-13-1-best-of-the-west_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/14-1441-13-1-best-of-the-west_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1441/",
+            "id":1441,
+            "name":"Best of the West"
+        },
+        "issue_number":"5.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:07",
+        "publish_day":null,
+        "publish_month":10,
+        "id":13,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/15/",
+        "site_detail_url":"http://www.comicvine.com/tim-holt-/37-15/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/16-1223-15-1-tim-holt_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/16-1223-15-1-tim-holt_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/16-1223-15-1-tim-holt_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/16-1223-15-1-tim-holt_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/16-1223-15-1-tim-holt_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/16-1223-15-1-tim-holt_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/16-1223-15-1-tim-holt_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1223/",
+            "id":1223,
+            "name":"Tim Holt"
+        },
+        "issue_number":"32.00",
+        "publish_year":0,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:47",
+        "publish_day":null,
+        "publish_month":0,
+        "id":15,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/16/",
+        "site_detail_url":"http://www.comicvine.com/journey-into-mystery-hands-off/37-16/",
+        "description":"<h2>Four Mysterious stories in this issue: </h2><ul class=\"plain-list\"> <li><p><em>Revenge From Beyond</em></p> </li> <li><p><em>The corpse!</em></p> </li> <li><p><em>I didn't see a thing!</em></p> </li> <li><p><em>The stroke of midnight!</em></p> </li></ul>",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/17-1497-16-1-journey-into-mystery_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/17-1497-16-1-journey-into-mystery_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/17-1497-16-1-journey-into-mystery_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/17-1497-16-1-journey-into-mystery_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/17-1497-16-1-journey-into-mystery_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/17-1497-16-1-journey-into-mystery_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/17-1497-16-1-journey-into-mystery_super.jpg"
+        },
+        "date_last_updated":"2009-11-25 08:53:37",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1497/",
+            "id":1497,
+            "name":"Journey Into Mystery"
+        },
+        "issue_number":"3.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:16",
+        "publish_day":null,
+        "publish_month":10,
+        "id":16,
+        "name":"Hands Off!"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/17/",
+        "site_detail_url":"http://www.comicvine.com/spy-cases-the-kidnaping-of-general-syin/37-17/",
+        "description":"<u><b>Features Include:</b></u><br />The Kidnaping Of General Syin!<br />Soup's On<br />Revenge<br />Last Request!<br />Forest of Terror ",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/18-1433-17-1-spy-cases_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/18-1433-17-1-spy-cases_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/18-1433-17-1-spy-cases_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/18-1433-17-1-spy-cases_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/18-1433-17-1-spy-cases_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/18-1433-17-1-spy-cases_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/18-1433-17-1-spy-cases_super.jpg"
+        },
+        "date_last_updated":"2010-04-09 14:27:13",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1433/",
+            "id":1433,
+            "name":"Spy Cases"
+        },
+        "issue_number":"13.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:07",
+        "publish_day":null,
+        "publish_month":10,
+        "id":17,
+        "name":"The Kidnaping Of General Syin!"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/20/",
+        "site_detail_url":"http://www.comicvine.com/wild-western-/37-20/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/21-1213-20-1-wild-western_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/21-1213-20-1-wild-western_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/21-1213-20-1-wild-western_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/21-1213-20-1-wild-western_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/21-1213-20-1-wild-western_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/21-1213-20-1-wild-western_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/21-1213-20-1-wild-western_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1213/",
+            "id":1213,
+            "name":"Wild Western"
+        },
+        "issue_number":"24.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:46",
+        "publish_day":null,
+        "publish_month":10,
+        "id":20,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/23/",
+        "site_detail_url":"http://www.comicvine.com/blackhawk-slavery-in-siberia/37-23/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/22-989-23-1-blackhawk_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/22-989-23-1-blackhawk_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/22-989-23-1-blackhawk_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/22-989-23-1-blackhawk_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/22-989-23-1-blackhawk_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/22-989-23-1-blackhawk_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/22-989-23-1-blackhawk_super.jpg"
+        },
+        "date_last_updated":"2010-10-08 22:34:37",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/989/",
+            "id":989,
+            "name":"Blackhawk"
+        },
+        "issue_number":"57.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:32",
+        "publish_day":null,
+        "publish_month":10,
+        "id":23,
+        "name":"Slavery In Siberia "
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/26/",
+        "site_detail_url":"http://www.comicvine.com/blue-bolt-weird-tales-of-terror-/37-26/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/25-1399-26-1-blue-bolt-weird-tale_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/25-1399-26-1-blue-bolt-weird-tale_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/25-1399-26-1-blue-bolt-weird-tale_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/25-1399-26-1-blue-bolt-weird-tale_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/25-1399-26-1-blue-bolt-weird-tale_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/25-1399-26-1-blue-bolt-weird-tale_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/25-1399-26-1-blue-bolt-weird-tale_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1399/",
+            "id":1399,
+            "name":"Blue Bolt Weird Tales of Terror"
+        },
+        "issue_number":"115.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:02",
+        "publish_day":null,
+        "publish_month":10,
+        "id":26,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/28/",
+        "site_detail_url":"http://www.comicvine.com/gi-joe-/37-28/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/27-1457-28-1-g-i-joe_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/27-1457-28-1-g-i-joe_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/27-1457-28-1-g-i-joe_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/27-1457-28-1-g-i-joe_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/27-1457-28-1-g-i-joe_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/27-1457-28-1-g-i-joe_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/27-1457-28-1-g-i-joe_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1457/",
+            "id":1457,
+            "name":"G.I. Joe"
+        },
+        "issue_number":"16.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:09",
+        "publish_day":null,
+        "publish_month":10,
+        "id":28,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/29/",
+        "site_detail_url":"http://www.comicvine.com/uncanny-tales-/37-29/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/28-1503-29-1-uncanny-tales_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/28-1503-29-1-uncanny-tales_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/28-1503-29-1-uncanny-tales_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/28-1503-29-1-uncanny-tales_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/28-1503-29-1-uncanny-tales_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/28-1503-29-1-uncanny-tales_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/28-1503-29-1-uncanny-tales_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1503/",
+            "id":1503,
+            "name":"Uncanny Tales"
+        },
+        "issue_number":"3.00",
+        "publish_year":0,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:19",
+        "publish_day":null,
+        "publish_month":0,
+        "id":29,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/30/",
+        "site_detail_url":"http://www.comicvine.com/sparkler-comics-/37-30/",
+        "description":"1. Nancy&nbsp;<br />&nbsp;<br />2. Captain and the Kids&nbsp;<br />&nbsp;<br />3. Casey Ruggles",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/29-874-30-1-sparkler-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/29-874-30-1-sparkler-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/29-874-30-1-sparkler-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/29-874-30-1-sparkler-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/29-874-30-1-sparkler-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/29-874-30-1-sparkler-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/29-874-30-1-sparkler-comics_super.jpg"
+        },
+        "date_last_updated":"2010-11-06 14:01:23",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/874/",
+            "id":874,
+            "name":"Sparkler Comics"
+        },
+        "issue_number":"107.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:18",
+        "publish_day":null,
+        "publish_month":10,
+        "id":30,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/31/",
+        "site_detail_url":"http://www.comicvine.com/marvel-tales-a-sight-for-sore-eyes/37-31/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/30-1283-31-1-marvel-tales_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/30-1283-31-1-marvel-tales_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/30-1283-31-1-marvel-tales_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/30-1283-31-1-marvel-tales_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/30-1283-31-1-marvel-tales_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/30-1283-31-1-marvel-tales_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/30-1283-31-1-marvel-tales_super.jpg"
+        },
+        "date_last_updated":"2011-01-09 17:32:04",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1283/",
+            "id":1283,
+            "name":"Marvel Tales"
+        },
+        "issue_number":"109.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:53",
+        "publish_day":null,
+        "publish_month":10,
+        "id":31,
+        "name":"A Sight For Sore Eyes"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/32/",
+        "site_detail_url":"http://www.comicvine.com/battle-surrender-hell/37-32/",
+        "description":"<h2> Five amazing war stories!!  </h2><br />Surrender, Hell!<br />The Deadliest Enemy - Text story<br />Troop Movement<br />Surprise Attack!<br />Barbed Wire",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/31-1423-32-1-battle_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/31-1423-32-1-battle_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/31-1423-32-1-battle_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/31-1423-32-1-battle_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/31-1423-32-1-battle_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/31-1423-32-1-battle_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/31-1423-32-1-battle_super.jpg"
+        },
+        "date_last_updated":"2009-11-24 19:36:33",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1423/",
+            "id":1423,
+            "name":"Battle"
+        },
+        "issue_number":"13.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:05",
+        "publish_day":null,
+        "publish_month":10,
+        "id":32,
+        "name":"Surrender, Hell!"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/33/",
+        "site_detail_url":"http://www.comicvine.com/the-lone-ranger-/37-33/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/32-1172-33-1-lone-ranger-the_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/32-1172-33-1-lone-ranger-the_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/32-1172-33-1-lone-ranger-the_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/32-1172-33-1-lone-ranger-the_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/32-1172-33-1-lone-ranger-the_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/32-1172-33-1-lone-ranger-the_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/32-1172-33-1-lone-ranger-the_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1172/",
+            "id":1172,
+            "name":"The Lone Ranger"
+        },
+        "issue_number":"52.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:41",
+        "publish_day":null,
+        "publish_month":10,
+        "id":33,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/35/",
+        "site_detail_url":"http://www.comicvine.com/space-adventures-/37-35/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/34-1534-35-1-space-adventures_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/34-1534-35-1-space-adventures_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/34-1534-35-1-space-adventures_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/34-1534-35-1-space-adventures_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/34-1534-35-1-space-adventures_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/34-1534-35-1-space-adventures_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/34-1534-35-1-space-adventures_super.jpg"
+        },
+        "date_last_updated":"2010-06-14 12:52:08",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1534/",
+            "id":1534,
+            "name":"Space Adventures"
+        },
+        "issue_number":"3.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:20",
+        "publish_day":null,
+        "publish_month":11,
+        "id":35,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/37/",
+        "site_detail_url":"http://www.comicvine.com/forbidden-worlds-/37-37/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/36-1446-37-1-forbidden-worlds_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/36-1446-37-1-forbidden-worlds_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/36-1446-37-1-forbidden-worlds_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/36-1446-37-1-forbidden-worlds_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/36-1446-37-1-forbidden-worlds_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/36-1446-37-1-forbidden-worlds_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/36-1446-37-1-forbidden-worlds_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1446/",
+            "id":1446,
+            "name":"Forbidden Worlds"
+        },
+        "issue_number":"11.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:08",
+        "publish_day":null,
+        "publish_month":11,
+        "id":37,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/38/",
+        "site_detail_url":"http://www.comicvine.com/operation-peril-/37-38/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/37-1379-38-1-operation-peril_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/37-1379-38-1-operation-peril_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/37-1379-38-1-operation-peril_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/37-1379-38-1-operation-peril_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/37-1379-38-1-operation-peril_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/37-1379-38-1-operation-peril_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/37-1379-38-1-operation-peril_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1379/",
+            "id":1379,
+            "name":"Operation: Peril"
+        },
+        "issue_number":"13.00",
+        "publish_year":0,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:02",
+        "publish_day":null,
+        "publish_month":0,
+        "id":38,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/39/",
+        "site_detail_url":"http://www.comicvine.com/out-of-the-night-/37-39/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/38-1513-39-1-out-of-the-night_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/38-1513-39-1-out-of-the-night_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/38-1513-39-1-out-of-the-night_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/38-1513-39-1-out-of-the-night_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/38-1513-39-1-out-of-the-night_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/38-1513-39-1-out-of-the-night_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/38-1513-39-1-out-of-the-night_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1513/",
+            "id":1513,
+            "name":"Out of the Night"
+        },
+        "issue_number":"5.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:19",
+        "publish_day":null,
+        "publish_month":10,
+        "id":39,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/40/",
+        "site_detail_url":"http://www.comicvine.com/mister-mystery-/37-40/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/39-1458-40-1-mister-mystery_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/39-1458-40-1-mister-mystery_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/39-1458-40-1-mister-mystery_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/39-1458-40-1-mister-mystery_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/39-1458-40-1-mister-mystery_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/39-1458-40-1-mister-mystery_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/39-1458-40-1-mister-mystery_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1458/",
+            "id":1458,
+            "name":"Mister Mystery"
+        },
+        "issue_number":"8.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:09",
+        "publish_day":null,
+        "publish_month":11,
+        "id":40,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/44/",
+        "site_detail_url":"http://www.comicvine.com/weird-terror-/37-44/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/43-1536-44-1-weird-terror_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/43-1536-44-1-weird-terror_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/43-1536-44-1-weird-terror_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/43-1536-44-1-weird-terror_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/43-1536-44-1-weird-terror_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/43-1536-44-1-weird-terror_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/43-1536-44-1-weird-terror_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1536/",
+            "id":1536,
+            "name":"Weird Terror"
+        },
+        "issue_number":"2.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:20",
+        "publish_day":null,
+        "publish_month":11,
+        "id":44,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/45/",
+        "site_detail_url":"http://www.comicvine.com/the-adventures-of-rex-the-wonder-dog-/37-45/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/2/23749/742375-61905_20060908110829_large_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/2/23749/742375-61905_20060908110829_large_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/2/23749/742375-61905_20060908110829_large_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/2/23749/742375-61905_20060908110829_large_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/2/23749/742375-61905_20060908110829_large_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/2/23749/742375-61905_20060908110829_large_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/2/23749/742375-61905_20060908110829_large_super.jpg"
+        },
+        "date_last_updated":"2010-10-06 21:24:30",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1468/",
+            "id":1468,
+            "name":"The Adventures of Rex the Wonder Dog"
+        },
+        "issue_number":"4.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:10",
+        "publish_day":null,
+        "publish_month":7,
+        "id":45,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/47/",
+        "site_detail_url":"http://www.comicvine.com/big-town-/37-47/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/46-1404-47-1-big-town_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/46-1404-47-1-big-town_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/46-1404-47-1-big-town_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/46-1404-47-1-big-town_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/46-1404-47-1-big-town_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/46-1404-47-1-big-town_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/46-1404-47-1-big-town_super.jpg"
+        },
+        "date_last_updated":"2012-02-01 20:58:35",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1404/",
+            "id":1404,
+            "name":"Big Town"
+        },
+        "issue_number":"18.00",
+        "publish_year":0,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:03",
+        "publish_day":null,
+        "publish_month":0,
+        "id":47,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/49/",
+        "site_detail_url":"http://www.comicvine.com/mr-district-attorney-/37-49/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/48-1169-49-1-mr-district-attorne_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/48-1169-49-1-mr-district-attorne_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/48-1169-49-1-mr-district-attorne_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/48-1169-49-1-mr-district-attorne_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/48-1169-49-1-mr-district-attorne_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/48-1169-49-1-mr-district-attorne_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/48-1169-49-1-mr-district-attorne_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1169/",
+            "id":1169,
+            "name":"Mr. District Attorney"
+        },
+        "issue_number":"30.00",
+        "publish_year":0,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:41",
+        "publish_day":null,
+        "publish_month":0,
+        "id":49,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/50/",
+        "site_detail_url":"http://www.comicvine.com/our-army-at-war-/37-50/",
+        "description":"<h4>Last Man!</h4><p><i>At first glance he looked like any other dogface fighting up and down the 38th parallel. He wore the same uniform, ate the same food, fired the same weapons -- and yet, there was something about him that marked him apart from every soldier...</i></p><div class=\"js-item-cage\" rel=\"image\" title=\"image\" id=\"2334863\"><div class=\"wiki-img-center\"><div class=\"wiki-img-super\"><a href=\"http://media.comicvine.com/uploads/9/98528/2334863-armyatwar.jpg\" title=\"\"><img id=\"2334863\" src=\"http://media.comicvine.com/uploads/9/98528/2334863-armyatwar_super.jpg\" alt=\"\" /></a><div class=\"item-caption\"></div></div></div></div><h4>Replacement!</h4><p><i>In a combat zone, there are three things a man worries about: his life, equipment, and the time when he will be rotated back home. The first two he can take care of himself -- the last depends on his replacement!</i></p><div class=\"js-item-cage\" rel=\"image\" title=\"image\" id=\"2334864\"><div class=\"wiki-img-center\"><div class=\"wiki-img-super\"><img id=\"2334864\" src=\"http://media.comicvine.com/uploads/9/98528/2334864-armyatwar_super.jpg\" alt=\"\" /><div class=\"item-caption\"></div></div></div></div>",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/49-1472-50-1-our-army-at-war_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/49-1472-50-1-our-army-at-war_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/49-1472-50-1-our-army-at-war_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/49-1472-50-1-our-army-at-war_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/49-1472-50-1-our-army-at-war_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/49-1472-50-1-our-army-at-war_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/49-1472-50-1-our-army-at-war_super.jpg"
+        },
+        "date_last_updated":"2012-05-08 16:48:05",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1472/",
+            "id":1472,
+            "name":"Our Army At War"
+        },
+        "issue_number":"4.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:11",
+        "publish_day":null,
+        "publish_month":11,
+        "id":50,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/51/",
+        "site_detail_url":"http://www.comicvine.com/sensation-mystery-/37-51/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/50-1474-51-1-sensation-mystery_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/50-1474-51-1-sensation-mystery_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/50-1474-51-1-sensation-mystery_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/50-1474-51-1-sensation-mystery_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/50-1474-51-1-sensation-mystery_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/50-1474-51-1-sensation-mystery_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/50-1474-51-1-sensation-mystery_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1474/",
+            "id":1474,
+            "name":"Sensation Mystery"
+        },
+        "issue_number":"112.00",
+        "publish_year":0,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:14",
+        "publish_day":null,
+        "publish_month":0,
+        "id":51,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/52/",
+        "site_detail_url":"http://www.comicvine.com/star-spangled-war-stories-/37-52/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/51-1543-52-1-star-spangled-war-st_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/51-1543-52-1-star-spangled-war-st_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/51-1543-52-1-star-spangled-war-st_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/51-1543-52-1-star-spangled-war-st_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/51-1543-52-1-star-spangled-war-st_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/51-1543-52-1-star-spangled-war-st_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/51-1543-52-1-star-spangled-war-st_super.jpg"
+        },
+        "date_last_updated":"2012-01-20 06:30:22",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1543/",
+            "id":1543,
+            "name":"Star Spangled War Stories"
+        },
+        "issue_number":"3.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:21",
+        "publish_day":null,
+        "publish_month":11,
+        "id":52,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/53/",
+        "site_detail_url":"http://www.comicvine.com/strange-adventures-/37-53/",
+        "description":"<br />",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/52-1328-53-1-strange-adventures_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/52-1328-53-1-strange-adventures_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/52-1328-53-1-strange-adventures_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/52-1328-53-1-strange-adventures_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/52-1328-53-1-strange-adventures_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/52-1328-53-1-strange-adventures_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/52-1328-53-1-strange-adventures_super.jpg"
+        },
+        "date_last_updated":"2012-04-15 01:57:46",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1328/",
+            "id":1328,
+            "name":"Strange Adventures"
+        },
+        "issue_number":"26.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:56",
+        "publish_day":null,
+        "publish_month":11,
+        "id":53,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/54/",
+        "site_detail_url":"http://www.comicvine.com/superman-citadel-of-doom/37-54/",
+        "description":"&nbsp;<ol><li> <i>Citadel of Doom</i> (Superman vs Lex Luthor) <br /><p>\"Only  Luthor, the Man of Steel's arch-foe offers a safe haven against  catastrophe in his 'Citadel of Doom!'\"Lex Luthor: You see, even Superman  is helpless against these meteors and other disasters that will destroy  Metropolis!</p></li><li><i>The End of the Planet! </i>(Superman, Lois  Lane, Jimmy Olsen, Perry White / written by Edmond Hamilton) - When John  Wilton, a rival newspaperman buys the Daily Planet and shuts it down,  the entire staff is out of work!</li><li><i>Can Everybody Speak the Same?</i> (full text article by Dick Keene)<br /></li><li><i>The Revenge That Took Three Hundred Years</i> (Superman, Inspector Hawkins / written by Alvin Schwartz) </li></ol>",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/53-773-54-1-superman_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/53-773-54-1-superman_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/53-773-54-1-superman_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/53-773-54-1-superman_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/53-773-54-1-superman_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/53-773-54-1-superman_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/53-773-54-1-superman_super.jpg"
+        },
+        "date_last_updated":"2010-12-30 10:02:07",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/773/",
+            "id":773,
+            "name":"Superman"
+        },
+        "issue_number":"79.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:05",
+        "publish_day":null,
+        "publish_month":12,
+        "id":54,
+        "name":"Citadel of Doom"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/55/",
+        "site_detail_url":"http://www.comicvine.com/tomahawk-/37-55/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/54-1329-55-1-tomahawk_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/54-1329-55-1-tomahawk_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/54-1329-55-1-tomahawk_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/54-1329-55-1-tomahawk_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/54-1329-55-1-tomahawk_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/54-1329-55-1-tomahawk_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/54-1329-55-1-tomahawk_super.jpg"
+        },
+        "date_last_updated":"2010-11-04 03:15:17",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1329/",
+            "id":1329,
+            "name":"Tomahawk"
+        },
+        "issue_number":"14.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:58",
+        "publish_day":null,
+        "publish_month":11,
+        "id":55,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/56/",
+        "site_detail_url":"http://www.comicvine.com/western-comics-duel-in-the-dark/37-56/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/55-1171-56-1-western-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/55-1171-56-1-western-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/55-1171-56-1-western-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/55-1171-56-1-western-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/55-1171-56-1-western-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/55-1171-56-1-western-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/55-1171-56-1-western-comics_super.jpg"
+        },
+        "date_last_updated":"2012-07-02 08:45:34",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1171/",
+            "id":1171,
+            "name":"Western Comics"
+        },
+        "issue_number":"36.00",
+        "publish_year":0,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:41",
+        "publish_day":null,
+        "publish_month":0,
+        "id":56,
+        "name":"Duel in the Dark!"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/59/",
+        "site_detail_url":"http://www.comicvine.com/tarzan-/37-59/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/58-1176-59-1-tarzan_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/58-1176-59-1-tarzan_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/58-1176-59-1-tarzan_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/58-1176-59-1-tarzan_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/58-1176-59-1-tarzan_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/58-1176-59-1-tarzan_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/58-1176-59-1-tarzan_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1176/",
+            "id":1176,
+            "name":"Tarzan"
+        },
+        "issue_number":"38.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:43",
+        "publish_day":null,
+        "publish_month":11,
+        "id":59,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/60/",
+        "site_detail_url":"http://www.comicvine.com/tom-corbett-space-cadet-/37-60/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/59-1562-60-1-tom-corbett-space-c_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/59-1562-60-1-tom-corbett-space-c_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/59-1562-60-1-tom-corbett-space-c_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/59-1562-60-1-tom-corbett-space-c_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/59-1562-60-1-tom-corbett-space-c_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/59-1562-60-1-tom-corbett-space-c_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/59-1562-60-1-tom-corbett-space-c_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1562/",
+            "id":1562,
+            "name":"Tom Corbett, Space Cadet"
+        },
+        "issue_number":"4.00",
+        "publish_year":0,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:24",
+        "publish_day":null,
+        "publish_month":11,
+        "id":60,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/61/",
+        "site_detail_url":"http://www.comicvine.com/tom-jerry-comics-/37-61/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/60-1247-61-1-tom-amp-jerry-comi_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/60-1247-61-1-tom-amp-jerry-comi_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/60-1247-61-1-tom-amp-jerry-comi_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/60-1247-61-1-tom-amp-jerry-comi_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/60-1247-61-1-tom-amp-jerry-comi_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/60-1247-61-1-tom-amp-jerry-comi_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/60-1247-61-1-tom-amp-jerry-comi_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1247/",
+            "id":1247,
+            "name":"Tom & Jerry Comics"
+        },
+        "issue_number":"100.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:49",
+        "publish_day":null,
+        "publish_month":11,
+        "id":61,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/62/",
+        "site_detail_url":"http://www.comicvine.com/walter-lantz-new-funnies-/37-62/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/61-1098-62-1-walter-lantz-new-fun_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/61-1098-62-1-walter-lantz-new-fun_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/61-1098-62-1-walter-lantz-new-fun_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/61-1098-62-1-walter-lantz-new-fun_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/61-1098-62-1-walter-lantz-new-fun_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/61-1098-62-1-walter-lantz-new-fun_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/61-1098-62-1-walter-lantz-new-fun_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1098/",
+            "id":1098,
+            "name":"Walter Lantz New Funnies"
+        },
+        "issue_number":"189.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:36",
+        "publish_day":null,
+        "publish_month":11,
+        "id":62,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/63/",
+        "site_detail_url":"http://www.comicvine.com/frontline-combat-/37-63/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/62-1443-63-1-frontline-combat_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/62-1443-63-1-frontline-combat_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/62-1443-63-1-frontline-combat_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/62-1443-63-1-frontline-combat_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/62-1443-63-1-frontline-combat_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/62-1443-63-1-frontline-combat_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/62-1443-63-1-frontline-combat_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1443/",
+            "id":1443,
+            "name":"Frontline Combat"
+        },
+        "issue_number":"9.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:08",
+        "publish_day":null,
+        "publish_month":11,
+        "id":63,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/64/",
+        "site_detail_url":"http://www.comicvine.com/haunt-of-fear-/37-64/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/63-1398-64-1-haunt-of-fear_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/63-1398-64-1-haunt-of-fear_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/63-1398-64-1-haunt-of-fear_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/63-1398-64-1-haunt-of-fear_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/63-1398-64-1-haunt-of-fear_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/63-1398-64-1-haunt-of-fear_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/63-1398-64-1-haunt-of-fear_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1398/",
+            "id":1398,
+            "name":"Haunt of Fear"
+        },
+        "issue_number":"16.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:02",
+        "publish_day":null,
+        "publish_month":11,
+        "id":64,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/65/",
+        "site_detail_url":"http://www.comicvine.com/captain-marvel-adventures-/37-65/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/64-898-65-1-captain-marvel-adven_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/64-898-65-1-captain-marvel-adven_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/64-898-65-1-captain-marvel-adven_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/64-898-65-1-captain-marvel-adven_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/64-898-65-1-captain-marvel-adven_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/64-898-65-1-captain-marvel-adven_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/64-898-65-1-captain-marvel-adven_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/898/",
+            "id":898,
+            "name":"Captain Marvel Adventures"
+        },
+        "issue_number":"138.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:21",
+        "publish_day":null,
+        "publish_month":11,
+        "id":65,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/66/",
+        "site_detail_url":"http://www.comicvine.com/captain-marvel-jr-the-mad-mongol-monster/37-66/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/65-953-66-1-captain-marvel-jr-_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/65-953-66-1-captain-marvel-jr-_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/65-953-66-1-captain-marvel-jr-_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/65-953-66-1-captain-marvel-jr-_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/65-953-66-1-captain-marvel-jr-_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/65-953-66-1-captain-marvel-jr-_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/65-953-66-1-captain-marvel-jr-_super.jpg"
+        },
+        "date_last_updated":"2011-04-16 13:36:45",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/953/",
+            "id":953,
+            "name":"Captain Marvel, Jr."
+        },
+        "issue_number":"115.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:32",
+        "publish_day":null,
+        "publish_month":11,
+        "id":66,
+        "name":"The Mad Mongol Monster"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/67/",
+        "site_detail_url":"http://www.comicvine.com/the-marvel-family-the-beastman-strikes/37-67/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/66-1066-67-1-marvel-family-the_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/66-1066-67-1-marvel-family-the_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/66-1066-67-1-marvel-family-the_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/66-1066-67-1-marvel-family-the_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/66-1066-67-1-marvel-family-the_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/66-1066-67-1-marvel-family-the_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/66-1066-67-1-marvel-family-the_super.jpg"
+        },
+        "date_last_updated":"2011-04-09 11:58:57",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1066/",
+            "id":1066,
+            "name":"The Marvel Family"
+        },
+        "issue_number":"77.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:36",
+        "publish_day":null,
+        "publish_month":11,
+        "id":67,
+        "name":"The Beastman Strikes"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/68/",
+        "site_detail_url":"http://www.comicvine.com/whiz-comics-/37-68/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/67-843-68-1-whiz-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/67-843-68-1-whiz-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/67-843-68-1-whiz-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/67-843-68-1-whiz-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/67-843-68-1-whiz-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/67-843-68-1-whiz-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/67-843-68-1-whiz-comics_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/843/",
+            "id":843,
+            "name":"Whiz Comics"
+        },
+        "issue_number":"151.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:18",
+        "publish_day":null,
+        "publish_month":11,
+        "id":68,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/71/",
+        "site_detail_url":"http://www.comicvine.com/chamber-of-chills-magazine-/37-71/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/70-1487-71-1-chamber-of-chills_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/70-1487-71-1-chamber-of-chills_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/70-1487-71-1-chamber-of-chills_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/70-1487-71-1-chamber-of-chills_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/70-1487-71-1-chamber-of-chills_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/70-1487-71-1-chamber-of-chills_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/70-1487-71-1-chamber-of-chills_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1487/",
+            "id":1487,
+            "name":"Chamber of Chills Magazine"
+        },
+        "issue_number":"14.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:16",
+        "publish_day":null,
+        "publish_month":11,
+        "id":71,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/72/",
+        "site_detail_url":"http://www.comicvine.com/tomb-of-terror-/37-72/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/71-1489-72-1-tomb-of-terror_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/71-1489-72-1-tomb-of-terror_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/71-1489-72-1-tomb-of-terror_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/71-1489-72-1-tomb-of-terror_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/71-1489-72-1-tomb-of-terror_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/71-1489-72-1-tomb-of-terror_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/71-1489-72-1-tomb-of-terror_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1489/",
+            "id":1489,
+            "name":"Tomb of Terror"
+        },
+        "issue_number":"6.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:16",
+        "publish_day":null,
+        "publish_month":11,
+        "id":72,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/73/",
+        "site_detail_url":"http://www.comicvine.com/witches-tales-/37-73/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/72-1418-73-1-witches-tales_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/72-1418-73-1-witches-tales_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/72-1418-73-1-witches-tales_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/72-1418-73-1-witches-tales_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/72-1418-73-1-witches-tales_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/72-1418-73-1-witches-tales_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/72-1418-73-1-witches-tales_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1418/",
+            "id":1418,
+            "name":"Witches Tales"
+        },
+        "issue_number":"16.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:05",
+        "publish_day":null,
+        "publish_month":11,
+        "id":73,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/74/",
+        "site_detail_url":"http://www.comicvine.com/airboy-comics-/37-74/",
+        "description":"<br />",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/73-1069-74-1-airboy-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/73-1069-74-1-airboy-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/73-1069-74-1-airboy-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/73-1069-74-1-airboy-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/73-1069-74-1-airboy-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/73-1069-74-1-airboy-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/73-1069-74-1-airboy-comics_super.jpg"
+        },
+        "date_last_updated":"2011-04-09 07:50:21",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1069/",
+            "id":1069,
+            "name":"Airboy Comics"
+        },
+        "issue_number":"105.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:36",
+        "publish_day":null,
+        "publish_month":11,
+        "id":74,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/75/",
+        "site_detail_url":"http://www.comicvine.com/black-diamond-western-/37-75/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/74-1253-75-1-black-diamond-wester_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/74-1253-75-1-black-diamond-wester_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/74-1253-75-1-black-diamond-wester_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/74-1253-75-1-black-diamond-wester_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/74-1253-75-1-black-diamond-wester_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/74-1253-75-1-black-diamond-wester_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/74-1253-75-1-black-diamond-wester_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1253/",
+            "id":1253,
+            "name":"Black Diamond Western"
+        },
+        "issue_number":"40.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:51",
+        "publish_day":null,
+        "publish_month":11,
+        "id":75,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/76/",
+        "site_detail_url":"http://www.comicvine.com/boy-comics-/37-76/",
+        "description":"<br />",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/75-942-76-1-boy-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/75-942-76-1-boy-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/75-942-76-1-boy-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/75-942-76-1-boy-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/75-942-76-1-boy-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/75-942-76-1-boy-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/75-942-76-1-boy-comics_super.jpg"
+        },
+        "date_last_updated":"2009-05-21 04:18:36",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/942/",
+            "id":942,
+            "name":"Boy Comics"
+        },
+        "issue_number":"83.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:30",
+        "publish_day":null,
+        "publish_month":11,
+        "id":76,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/77/",
+        "site_detail_url":"http://www.comicvine.com/daredevil-comics-/37-77/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/76-886-77-1-daredevil-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/76-886-77-1-daredevil-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/76-886-77-1-daredevil-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/76-886-77-1-daredevil-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/76-886-77-1-daredevil-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/76-886-77-1-daredevil-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/76-886-77-1-daredevil-comics_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/886/",
+            "id":886,
+            "name":"Daredevil Comics"
+        },
+        "issue_number":"92.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:18",
+        "publish_day":null,
+        "publish_month":11,
+        "id":77,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/78/",
+        "site_detail_url":"http://www.comicvine.com/astonishing-/37-78/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/77-1422-78-1-astonishing_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/77-1422-78-1-astonishing_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/77-1422-78-1-astonishing_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/77-1422-78-1-astonishing_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/77-1422-78-1-astonishing_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/77-1422-78-1-astonishing_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/77-1422-78-1-astonishing_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1422/",
+            "id":1422,
+            "name":"Astonishing"
+        },
+        "issue_number":"19.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:05",
+        "publish_day":null,
+        "publish_month":11,
+        "id":78,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/79/",
+        "site_detail_url":"http://www.comicvine.com/kid-colt-outlaw-/37-79/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/78-1199-79-1-kid-colt-outlaw_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/78-1199-79-1-kid-colt-outlaw_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/78-1199-79-1-kid-colt-outlaw_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/78-1199-79-1-kid-colt-outlaw_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/78-1199-79-1-kid-colt-outlaw_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/78-1199-79-1-kid-colt-outlaw_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/78-1199-79-1-kid-colt-outlaw_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1199/",
+            "id":1199,
+            "name":"Kid Colt: Outlaw"
+        },
+        "issue_number":"23.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:44",
+        "publish_day":null,
+        "publish_month":11,
+        "id":79,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/81/",
+        "site_detail_url":"http://www.comicvine.com/war-combat-combat-casey/37-81/",
+        "description":"<u><b>Features Include:</b></u><br />Combat Casey<br />Second Chance<br />The Bookworm<br />The Red Horde! ",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/80-1506-81-1-war-combat_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/80-1506-81-1-war-combat_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/80-1506-81-1-war-combat_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/80-1506-81-1-war-combat_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/80-1506-81-1-war-combat_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/80-1506-81-1-war-combat_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/80-1506-81-1-war-combat_super.jpg"
+        },
+        "date_last_updated":"2010-02-16 09:13:37",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1506/",
+            "id":1506,
+            "name":"War Combat"
+        },
+        "issue_number":"5.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:19",
+        "publish_day":null,
+        "publish_month":11,
+        "id":81,
+        "name":"Combat Casey"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/85/",
+        "site_detail_url":"http://www.comicvine.com/blackhawk-king-cobra/37-85/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/84-989-85-1-blackhawk_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/84-989-85-1-blackhawk_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/84-989-85-1-blackhawk_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/84-989-85-1-blackhawk_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/84-989-85-1-blackhawk_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/84-989-85-1-blackhawk_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/84-989-85-1-blackhawk_super.jpg"
+        },
+        "date_last_updated":"2010-10-09 00:45:47",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/989/",
+            "id":989,
+            "name":"Blackhawk"
+        },
+        "issue_number":"58.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:32",
+        "publish_day":null,
+        "publish_month":11,
+        "id":85,
+        "name":"King Cobra"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/88/",
+        "site_detail_url":"http://www.comicvine.com/weird-tales-of-the-future-/37-88/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/87-1539-88-1-weird-tales-of-the-f_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/87-1539-88-1-weird-tales-of-the-f_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/87-1539-88-1-weird-tales-of-the-f_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/87-1539-88-1-weird-tales-of-the-f_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/87-1539-88-1-weird-tales-of-the-f_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/87-1539-88-1-weird-tales-of-the-f_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/87-1539-88-1-weird-tales-of-the-f_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1539/",
+            "id":1539,
+            "name":"Weird Tales of the Future"
+        },
+        "issue_number":"4.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:21",
+        "publish_day":null,
+        "publish_month":11,
+        "id":88,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/89/",
+        "site_detail_url":"http://www.comicvine.com/tales-of-horror-/37-89/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/88-1523-89-1-tales-of-horror_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/88-1523-89-1-tales-of-horror_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/88-1523-89-1-tales-of-horror_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/88-1523-89-1-tales-of-horror_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/88-1523-89-1-tales-of-horror_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/88-1523-89-1-tales-of-horror_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/88-1523-89-1-tales-of-horror_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1523/",
+            "id":1523,
+            "name":"Tales of Horror"
+        },
+        "issue_number":"3.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:20",
+        "publish_day":null,
+        "publish_month":11,
+        "id":89,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/92/",
+        "site_detail_url":"http://www.comicvine.com/battle-the-anger-of-colonel-wu-san/37-92/",
+        "description":"<h2> Five amazing war stories!!</h2>&nbsp; <br />The Anger of Colonel Wu-San<br />Report From Korea - Text story<br />Hang Fire!<br />The Death of Aunt Maggie<br />Spearhead!",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/90-1423-92-1-battle_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/90-1423-92-1-battle_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/90-1423-92-1-battle_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/90-1423-92-1-battle_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/90-1423-92-1-battle_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/90-1423-92-1-battle_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/90-1423-92-1-battle_super.jpg"
+        },
+        "date_last_updated":"2009-11-24 19:37:33",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1423/",
+            "id":1423,
+            "name":"Battle"
+        },
+        "issue_number":"14.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:05",
+        "publish_day":null,
+        "publish_month":11,
+        "id":92,
+        "name":"The Anger Of Colonel Wu-San"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/93/",
+        "site_detail_url":"http://www.comicvine.com/strange-mysteries-/37-93/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/91-1461-93-1-strange-mysteries_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/91-1461-93-1-strange-mysteries_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/91-1461-93-1-strange-mysteries_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/91-1461-93-1-strange-mysteries_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/91-1461-93-1-strange-mysteries_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/91-1461-93-1-strange-mysteries_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/91-1461-93-1-strange-mysteries_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1461/",
+            "id":1461,
+            "name":"Strange Mysteries"
+        },
+        "issue_number":"8.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:09",
+        "publish_day":null,
+        "publish_month":11,
+        "id":93,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/94/",
+        "site_detail_url":"http://www.comicvine.com/the-lone-ranger-/37-94/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/92-1172-94-1-lone-ranger-the_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/92-1172-94-1-lone-ranger-the_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/92-1172-94-1-lone-ranger-the_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/92-1172-94-1-lone-ranger-the_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/92-1172-94-1-lone-ranger-the_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/92-1172-94-1-lone-ranger-the_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/92-1172-94-1-lone-ranger-the_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1172/",
+            "id":1172,
+            "name":"The Lone Ranger"
+        },
+        "issue_number":"53.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:42",
+        "publish_day":null,
+        "publish_month":11,
+        "id":94,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/96/",
+        "site_detail_url":"http://www.comicvine.com/cisco-kid-/37-96/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/94-1408-96-1-cisco-kid-the_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/94-1408-96-1-cisco-kid-the_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/94-1408-96-1-cisco-kid-the_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/94-1408-96-1-cisco-kid-the_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/94-1408-96-1-cisco-kid-the_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/94-1408-96-1-cisco-kid-the_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/94-1408-96-1-cisco-kid-the_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1408/",
+            "id":1408,
+            "name":"Cisco Kid"
+        },
+        "issue_number":"12.00",
+        "publish_year":0,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:04",
+        "publish_day":null,
+        "publish_month":0,
+        "id":96,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/100/",
+        "site_detail_url":"http://www.comicvine.com/forbidden-worlds-/37-100/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/97-1446-100-1-forbidden-worlds_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/97-1446-100-1-forbidden-worlds_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/97-1446-100-1-forbidden-worlds_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/97-1446-100-1-forbidden-worlds_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/97-1446-100-1-forbidden-worlds_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/97-1446-100-1-forbidden-worlds_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/97-1446-100-1-forbidden-worlds_super.jpg"
+        },
+        "date_last_updated":"2012-08-10 10:11:24",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1446/",
+            "id":1446,
+            "name":"Forbidden Worlds"
+        },
+        "issue_number":"12.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:08",
+        "publish_day":null,
+        "publish_month":12,
+        "id":100,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/101/",
+        "site_detail_url":"http://www.comicvine.com/skeleton-hand-in-secrets-of-the-supernatural-/37-101/",
+        "description":"1.&nbsp;The Were-Snake of Karnak: A reporter and his photographer girlfriend parachute into Egypt to looking into reports of a cult of snake worshipers, there they find the Cult of Seta, a 4,000 year old snake goddess who has the power to turn her followers into poisonous snakes. However because the intrepid pair is not from around there she is unable to transform the two magazine reporters from New York. Later one of the reporters does her in via the use of anti-venom, and letting himself be bitten.&nbsp;&nbsp;&nbsp;<br /><br />2.&nbsp;The Brain and the Bat: A woman kills a bat that flies though the window of her home and this causes a vampire to say it\u2019s now connected to the woman\u2019s brain and will come every night to creep her out until her husband throws a silver knife that he conveniently has into his heart.&nbsp;<br /><br />3.&nbsp;The Unholy Dead: In Egypt a man uncovers a mummy who appears to be a beautiful woman, but causes him, via the \"Creeping Death,\"&nbsp;to start to turn into a dried out mummy himself unless he can get to a talisman of Bese&nbsp;<br /><br />4.&nbsp;True Ghost Experiences: Alleged true ghost tale about a murdered man showing where he was buried \u201cand send us YOUR true ghost story.\u201d<br />&nbsp; &nbsp;",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/98-1514-101-1-skeleton-hand-in-sec_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/98-1514-101-1-skeleton-hand-in-sec_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/98-1514-101-1-skeleton-hand-in-sec_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/98-1514-101-1-skeleton-hand-in-sec_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/98-1514-101-1-skeleton-hand-in-sec_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/98-1514-101-1-skeleton-hand-in-sec_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/98-1514-101-1-skeleton-hand-in-sec_super.jpg"
+        },
+        "date_last_updated":"2010-11-18 09:50:47",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1514/",
+            "id":1514,
+            "name":"Skeleton Hand in Secrets of the Supernatural"
+        },
+        "issue_number":"2.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:20",
+        "publish_day":null,
+        "publish_month":11,
+        "id":101,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/102/",
+        "site_detail_url":"http://www.comicvine.com/fighting-undersea-commandos-/37-102/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/99-1516-102-1-fighting-undersea-co_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/99-1516-102-1-fighting-undersea-co_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/99-1516-102-1-fighting-undersea-co_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/99-1516-102-1-fighting-undersea-co_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/99-1516-102-1-fighting-undersea-co_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/99-1516-102-1-fighting-undersea-co_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/99-1516-102-1-fighting-undersea-co_super.jpg"
+        },
+        "date_last_updated":"2011-08-28 04:11:19",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1516/",
+            "id":1516,
+            "name":"Fighting Undersea Commandos"
+        },
+        "issue_number":"4.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:20",
+        "publish_day":null,
+        "publish_month":12,
+        "id":102,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/104/",
+        "site_detail_url":"http://www.comicvine.com/all-star-western-six-bullets-for-sheriff-triggerthreat-of-the-seneca-frogmanthe-ambush-of-the-painted-wagondangerous-decoy/37-104/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/101-1403-104-1-all-star-western_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/101-1403-104-1-all-star-western_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/101-1403-104-1-all-star-western_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/101-1403-104-1-all-star-western_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/101-1403-104-1-all-star-western_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/101-1403-104-1-all-star-western_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/101-1403-104-1-all-star-western_super.jpg"
+        },
+        "date_last_updated":"2012-02-01 20:45:47",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1403/",
+            "id":1403,
+            "name":"All-Star Western"
+        },
+        "issue_number":"68.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:02",
+        "publish_day":null,
+        "publish_month":12,
+        "id":104,
+        "name":"Six Bullets For Sheriff Trigger/Threat Of The Seneca Frogman/The Ambush Of The Painted Wagon/Dangerous Decoy"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/107/",
+        "site_detail_url":"http://www.comicvine.com/mystery-in-space-/37-107/",
+        "description":"<p>\"The Unknown Spaceman,\"&nbsp;&nbsp;&nbsp;<br />&nbsp;\"S.O.S. in Space,\"&nbsp;&nbsp;<br />\"Cosmic Capsule,\"&nbsp;&nbsp;<br />\"Rocketeer For Hire\" (pencils by Carmine Infantino).&nbsp;&nbsp;<br />Superman stars in a one-page public service announcement, \"UNICEF Spells Help for the Children of the World!\" </p>",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/103-1406-107-1-mystery-in-space_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/103-1406-107-1-mystery-in-space_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/103-1406-107-1-mystery-in-space_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/103-1406-107-1-mystery-in-space_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/103-1406-107-1-mystery-in-space_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/103-1406-107-1-mystery-in-space_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/103-1406-107-1-mystery-in-space_super.jpg"
+        },
+        "date_last_updated":"2012-01-08 21:43:45",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1406/",
+            "id":1406,
+            "name":"Mystery In Space"
+        },
+        "issue_number":"11.00",
+        "publish_year":1953,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:03",
+        "publish_day":null,
+        "publish_month":1,
+        "id":107,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/109/",
+        "site_detail_url":"http://www.comicvine.com/the-phantom-stranger-ghosts-for-saleunicef-spells-help-for-the-children-of-the-worlddead-mans-handhow-to-spot-a-witchthe-man-who-carved-deaththe-eerie-eddysthe-day-of-destiny/37-109/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/104-1473-109-1-phantom-stranger-th_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/104-1473-109-1-phantom-stranger-th_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/104-1473-109-1-phantom-stranger-th_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/104-1473-109-1-phantom-stranger-th_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/104-1473-109-1-phantom-stranger-th_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/104-1473-109-1-phantom-stranger-th_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/104-1473-109-1-phantom-stranger-th_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1473/",
+            "id":1473,
+            "name":"The Phantom Stranger"
+        },
+        "issue_number":"3.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:14",
+        "publish_day":null,
+        "publish_month":12,
+        "id":109,
+        "name":"Ghosts for Sale/UNICEF Spells Help for the Children of the World!/Dead Man's Hand/How to Spot a Witch/The Man Who Carved Death/The Eerie Eddys/The Day of Destiny"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/110/",
+        "site_detail_url":"http://www.comicvine.com/star-spangled-war-stories-/37-110/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/105-1543-110-1-star-spangled-war-st_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/105-1543-110-1-star-spangled-war-st_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/105-1543-110-1-star-spangled-war-st_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/105-1543-110-1-star-spangled-war-st_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/105-1543-110-1-star-spangled-war-st_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/105-1543-110-1-star-spangled-war-st_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/105-1543-110-1-star-spangled-war-st_super.jpg"
+        },
+        "date_last_updated":"2012-01-20 06:30:43",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1543/",
+            "id":1543,
+            "name":"Star Spangled War Stories"
+        },
+        "issue_number":"4.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:21",
+        "publish_day":null,
+        "publish_month":12,
+        "id":110,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/111/",
+        "site_detail_url":"http://www.comicvine.com/strange-adventures-/37-111/",
+        "description":"<br />",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/106-1328-111-1-strange-adventures_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/106-1328-111-1-strange-adventures_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/106-1328-111-1-strange-adventures_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/106-1328-111-1-strange-adventures_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/106-1328-111-1-strange-adventures_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/106-1328-111-1-strange-adventures_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/106-1328-111-1-strange-adventures_super.jpg"
+        },
+        "date_last_updated":"2012-04-15 01:58:49",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1328/",
+            "id":1328,
+            "name":"Strange Adventures"
+        },
+        "issue_number":"27.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:56",
+        "publish_day":null,
+        "publish_month":12,
+        "id":111,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/113/",
+        "site_detail_url":"http://www.comicvine.com/looney-tunes-and-merrie-melodies-/37-113/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/3125/161642-6575-113-2-looney-tunes-and-mer_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/3125/161642-6575-113-2-looney-tunes-and-mer_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/3125/161642-6575-113-2-looney-tunes-and-mer_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/3125/161642-6575-113-2-looney-tunes-and-mer_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/3125/161642-6575-113-2-looney-tunes-and-mer_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/3125/161642-6575-113-2-looney-tunes-and-mer_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/3125/161642-6575-113-2-looney-tunes-and-mer_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:47:00",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/6575/",
+            "id":6575,
+            "name":"Looney Tunes and Merrie Melodies"
+        },
+        "issue_number":"134.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:17:47",
+        "publish_day":null,
+        "publish_month":12,
+        "id":113,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/114/",
+        "site_detail_url":"http://www.comicvine.com/popeye-/37-114/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/108-1174-114-1-popeye_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/108-1174-114-1-popeye_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/108-1174-114-1-popeye_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/108-1174-114-1-popeye_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/108-1174-114-1-popeye_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/108-1174-114-1-popeye_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/108-1174-114-1-popeye_super.jpg"
+        },
+        "date_last_updated":"2012-06-07 07:16:19",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1174/",
+            "id":1174,
+            "name":"Popeye"
+        },
+        "issue_number":"22.00",
+        "publish_year":0,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:42",
+        "publish_day":null,
+        "publish_month":10,
+        "id":114,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/115/",
+        "site_detail_url":"http://www.comicvine.com/tarzan-/37-115/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/109-1176-115-1-tarzan_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/109-1176-115-1-tarzan_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/109-1176-115-1-tarzan_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/109-1176-115-1-tarzan_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/109-1176-115-1-tarzan_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/109-1176-115-1-tarzan_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/109-1176-115-1-tarzan_super.jpg"
+        },
+        "date_last_updated":"2008-06-13 13:11:45",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1176/",
+            "id":1176,
+            "name":"Tarzan"
+        },
+        "issue_number":"39.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:43",
+        "publish_day":null,
+        "publish_month":12,
+        "id":115,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/116/",
+        "site_detail_url":"http://www.comicvine.com/tom-jerry-comics-/37-116/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/110-1247-116-1-tom-amp-jerry-comi_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/110-1247-116-1-tom-amp-jerry-comi_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/110-1247-116-1-tom-amp-jerry-comi_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/110-1247-116-1-tom-amp-jerry-comi_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/110-1247-116-1-tom-amp-jerry-comi_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/110-1247-116-1-tom-amp-jerry-comi_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/110-1247-116-1-tom-amp-jerry-comi_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1247/",
+            "id":1247,
+            "name":"Tom & Jerry Comics"
+        },
+        "issue_number":"101.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:49",
+        "publish_day":null,
+        "publish_month":12,
+        "id":116,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/117/",
+        "site_detail_url":"http://www.comicvine.com/tom-jerry-winter-carnival-/37-117/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/111-1479-117-1-tom-amp-jerry-wint_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/111-1479-117-1-tom-amp-jerry-wint_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/111-1479-117-1-tom-amp-jerry-wint_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/111-1479-117-1-tom-amp-jerry-wint_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/111-1479-117-1-tom-amp-jerry-wint_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/111-1479-117-1-tom-amp-jerry-wint_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/111-1479-117-1-tom-amp-jerry-wint_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1479/",
+            "id":1479,
+            "name":"Tom & Jerry Winter Carnival"
+        },
+        "issue_number":"1.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:15",
+        "publish_day":null,
+        "publish_month":12,
+        "id":117,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/118/",
+        "site_detail_url":"http://www.comicvine.com/walter-lantz-new-funnies-/37-118/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/112-1098-118-1-walter-lantz-new-fun_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/112-1098-118-1-walter-lantz-new-fun_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/112-1098-118-1-walter-lantz-new-fun_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/112-1098-118-1-walter-lantz-new-fun_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/112-1098-118-1-walter-lantz-new-fun_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/112-1098-118-1-walter-lantz-new-fun_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/112-1098-118-1-walter-lantz-new-fun_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1098/",
+            "id":1098,
+            "name":"Walter Lantz New Funnies"
+        },
+        "issue_number":"190.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:36",
+        "publish_day":null,
+        "publish_month":12,
+        "id":118,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/120/",
+        "site_detail_url":"http://www.comicvine.com/two-fisted-tales-/37-120/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/114-1376-120-1-two-fisted-tales_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/114-1376-120-1-two-fisted-tales_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/114-1376-120-1-two-fisted-tales_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/114-1376-120-1-two-fisted-tales_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/114-1376-120-1-two-fisted-tales_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/114-1376-120-1-two-fisted-tales_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/114-1376-120-1-two-fisted-tales_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1376/",
+            "id":1376,
+            "name":"Two-Fisted Tales"
+        },
+        "issue_number":"30.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:02",
+        "publish_day":null,
+        "publish_month":11,
+        "id":120,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/121/",
+        "site_detail_url":"http://www.comicvine.com/weird-fantasy-/37-121/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/115-1444-121-1-weird-fantasy_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/115-1444-121-1-weird-fantasy_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/115-1444-121-1-weird-fantasy_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/115-1444-121-1-weird-fantasy_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/115-1444-121-1-weird-fantasy_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/115-1444-121-1-weird-fantasy_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/115-1444-121-1-weird-fantasy_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1444/",
+            "id":1444,
+            "name":"Weird Fantasy"
+        },
+        "issue_number":"16.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:08",
+        "publish_day":null,
+        "publish_month":11,
+        "id":121,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/123/",
+        "site_detail_url":"http://www.comicvine.com/captain-marvel-adventures-/37-123/",
+        "description":"<br />",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/117-898-123-1-captain-marvel-adven_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/117-898-123-1-captain-marvel-adven_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/117-898-123-1-captain-marvel-adven_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/117-898-123-1-captain-marvel-adven_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/117-898-123-1-captain-marvel-adven_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/117-898-123-1-captain-marvel-adven_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/117-898-123-1-captain-marvel-adven_super.jpg"
+        },
+        "date_last_updated":"2009-07-30 14:14:35",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/898/",
+            "id":898,
+            "name":"Captain Marvel Adventures"
+        },
+        "issue_number":"139.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:21",
+        "publish_day":null,
+        "publish_month":12,
+        "id":123,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/125/",
+        "site_detail_url":"http://www.comicvine.com/the-marvel-family-the-red-vulture-strikes/37-125/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/118-1066-125-1-marvel-family-the_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/118-1066-125-1-marvel-family-the_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/118-1066-125-1-marvel-family-the_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/118-1066-125-1-marvel-family-the_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/118-1066-125-1-marvel-family-the_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/118-1066-125-1-marvel-family-the_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/118-1066-125-1-marvel-family-the_super.jpg"
+        },
+        "date_last_updated":"2011-04-09 12:05:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1066/",
+            "id":1066,
+            "name":"The Marvel Family"
+        },
+        "issue_number":"78.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:36",
+        "publish_day":null,
+        "publish_month":12,
+        "id":125,
+        "name":"The Red Vulture Strikes"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/126/",
+        "site_detail_url":"http://www.comicvine.com/master-comics-/37-126/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/119-839-126-1-master-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/119-839-126-1-master-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/119-839-126-1-master-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/119-839-126-1-master-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/119-839-126-1-master-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/119-839-126-1-master-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/119-839-126-1-master-comics_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/839/",
+            "id":839,
+            "name":"Master Comics"
+        },
+        "issue_number":"131.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:18",
+        "publish_day":null,
+        "publish_month":12,
+        "id":126,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/127/",
+        "site_detail_url":"http://www.comicvine.com/whiz-comics-/37-127/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/120-843-127-1-whiz-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/120-843-127-1-whiz-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/120-843-127-1-whiz-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/120-843-127-1-whiz-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/120-843-127-1-whiz-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/120-843-127-1-whiz-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/120-843-127-1-whiz-comics_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/843/",
+            "id":843,
+            "name":"Whiz Comics"
+        },
+        "issue_number":"152.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:18",
+        "publish_day":null,
+        "publish_month":12,
+        "id":127,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/128/",
+        "site_detail_url":"http://www.comicvine.com/jumbo-comics-/37-128/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/893417-12_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/893417-12_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/893417-12_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/893417-12_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/893417-12_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/893417-12_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/893417-12_super.jpg"
+        },
+        "date_last_updated":"2009-07-27 14:37:41",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/769/",
+            "id":769,
+            "name":"Jumbo Comics"
+        },
+        "issue_number":"165.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:04",
+        "publish_day":null,
+        "publish_month":12,
+        "id":128,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/131/",
+        "site_detail_url":"http://www.comicvine.com/weird-mysteries-/37-131/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/124-1537-131-1-weird-mysteries_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/124-1537-131-1-weird-mysteries_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/124-1537-131-1-weird-mysteries_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/124-1537-131-1-weird-mysteries_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/124-1537-131-1-weird-mysteries_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/124-1537-131-1-weird-mysteries_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/124-1537-131-1-weird-mysteries_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1537/",
+            "id":1537,
+            "name":"Weird Mysteries"
+        },
+        "issue_number":"2.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:21",
+        "publish_day":null,
+        "publish_month":12,
+        "id":131,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/133/",
+        "site_detail_url":"http://www.comicvine.com/airboy-comics-/37-133/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/126-1069-133-1-airboy-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/126-1069-133-1-airboy-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/126-1069-133-1-airboy-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/126-1069-133-1-airboy-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/126-1069-133-1-airboy-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/126-1069-133-1-airboy-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/126-1069-133-1-airboy-comics_super.jpg"
+        },
+        "date_last_updated":"2011-07-23 08:16:59",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1069/",
+            "id":1069,
+            "name":"Airboy Comics"
+        },
+        "issue_number":"106.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:36",
+        "publish_day":null,
+        "publish_month":12,
+        "id":133,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/134/",
+        "site_detail_url":"http://www.comicvine.com/black-diamond-western-/37-134/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/127-1253-134-1-black-diamond-wester_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/127-1253-134-1-black-diamond-wester_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/127-1253-134-1-black-diamond-wester_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/127-1253-134-1-black-diamond-wester_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/127-1253-134-1-black-diamond-wester_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/127-1253-134-1-black-diamond-wester_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/127-1253-134-1-black-diamond-wester_super.jpg"
+        },
+        "date_last_updated":"2012-06-29 09:26:41",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1253/",
+            "id":1253,
+            "name":"Black Diamond Western"
+        },
+        "issue_number":"41.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:51",
+        "publish_day":null,
+        "publish_month":12,
+        "id":134,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/135/",
+        "site_detail_url":"http://www.comicvine.com/boy-comics-/37-135/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/128-942-135-1-boy-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/128-942-135-1-boy-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/128-942-135-1-boy-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/128-942-135-1-boy-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/128-942-135-1-boy-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/128-942-135-1-boy-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/128-942-135-1-boy-comics_super.jpg"
+        },
+        "date_last_updated":"2012-01-13 14:14:59",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/942/",
+            "id":942,
+            "name":"Boy Comics"
+        },
+        "issue_number":"84.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:30",
+        "publish_day":null,
+        "publish_month":12,
+        "id":135,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/136/",
+        "site_detail_url":"http://www.comicvine.com/daredevil-comics-/37-136/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/129-886-136-1-daredevil-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/129-886-136-1-daredevil-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/129-886-136-1-daredevil-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/129-886-136-1-daredevil-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/129-886-136-1-daredevil-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/129-886-136-1-daredevil-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/129-886-136-1-daredevil-comics_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/886/",
+            "id":886,
+            "name":"Daredevil Comics"
+        },
+        "issue_number":"93.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:18",
+        "publish_day":null,
+        "publish_month":12,
+        "id":136,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/137/",
+        "site_detail_url":"http://www.comicvine.com/best-of-the-west-/37-137/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/130-1441-137-1-best-of-the-west_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/130-1441-137-1-best-of-the-west_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/130-1441-137-1-best-of-the-west_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/130-1441-137-1-best-of-the-west_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/130-1441-137-1-best-of-the-west_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/130-1441-137-1-best-of-the-west_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/130-1441-137-1-best-of-the-west_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1441/",
+            "id":1441,
+            "name":"Best of the West"
+        },
+        "issue_number":"6.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:07",
+        "publish_day":null,
+        "publish_month":12,
+        "id":137,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/140/",
+        "site_detail_url":"http://www.comicvine.com/journey-into-mystery-the-bewitched-bike/37-140/",
+        "description":"<h2>Five Mysterious Stories in this Issue:</h2><ul class=\"plain-list\"> <li><p><em>Death Waits Within</em></p> </li> <li><p><em>Locked Door</em></p> </li> <li><p><em>Untitled Text Story</em></p> </li> <li><p><em>I'm Drowning!</em></p> </li> <li><p><em>Hiding Place</em></p> </li></ul>",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/133-1497-140-1-journey-into-mystery_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/133-1497-140-1-journey-into-mystery_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/133-1497-140-1-journey-into-mystery_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/133-1497-140-1-journey-into-mystery_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/133-1497-140-1-journey-into-mystery_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/133-1497-140-1-journey-into-mystery_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/133-1497-140-1-journey-into-mystery_super.jpg"
+        },
+        "date_last_updated":"2009-11-25 08:51:41",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1497/",
+            "id":1497,
+            "name":"Journey Into Mystery"
+        },
+        "issue_number":"4.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:16",
+        "publish_day":null,
+        "publish_month":12,
+        "id":140,
+        "name":"The Bewitched Bike!"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/142/",
+        "site_detail_url":"http://www.comicvine.com/war-comics-/37-142/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/135-1366-142-1-war-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/135-1366-142-1-war-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/135-1366-142-1-war-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/135-1366-142-1-war-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/135-1366-142-1-war-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/135-1366-142-1-war-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/135-1366-142-1-war-comics_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:54",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1366/",
+            "id":1366,
+            "name":"War Comics"
+        },
+        "issue_number":"14.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:01",
+        "publish_day":null,
+        "publish_month":12,
+        "id":142,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/143/",
+        "site_detail_url":"http://www.comicvine.com/wild-western-/37-143/",
+        "description":"<br />",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/136-1213-143-1-wild-western_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/136-1213-143-1-wild-western_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/136-1213-143-1-wild-western_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/136-1213-143-1-wild-western_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/136-1213-143-1-wild-western_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/136-1213-143-1-wild-western_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/136-1213-143-1-wild-western_super.jpg"
+        },
+        "date_last_updated":"2009-07-25 17:35:57",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1213/",
+            "id":1213,
+            "name":"Wild Western"
+        },
+        "issue_number":"25.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:46",
+        "publish_day":null,
+        "publish_month":12,
+        "id":143,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/145/",
+        "site_detail_url":"http://www.comicvine.com/blackhawk-beachhead-on-asteroid-x/37-145/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/138-989-145-1-blackhawk_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/138-989-145-1-blackhawk_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/138-989-145-1-blackhawk_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/138-989-145-1-blackhawk_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/138-989-145-1-blackhawk_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/138-989-145-1-blackhawk_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/138-989-145-1-blackhawk_super.jpg"
+        },
+        "date_last_updated":"2009-12-19 20:57:13",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/989/",
+            "id":989,
+            "name":"Blackhawk"
+        },
+        "issue_number":"59.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:32",
+        "publish_day":null,
+        "publish_month":12,
+        "id":145,
+        "name":"Beachhead on Asteroid X"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/147/",
+        "site_detail_url":"http://www.comicvine.com/blue-bolt-weird-tales-of-terror-/37-147/",
+        "description":"<p><i><b>The Ghostly Guardians</b></i></p><p><i>Across the battle scared hills of Korea they came, marching in a death-like unison which sent chills of terror through those who witnessed the terrible manifestation. What were these weird spectral creatures that haunted the battle-fields by night? Many wondered, but it remained for a wounded G.I. to solve the mystery of The Ghostly Guardians.</i></p><p><i><b>The Weird Mr. &amp; Mrs. Murder</b></i></p><p><i>You probably heard of husband and wife teams in radio, sports, and in the circus, but have you ever heard of a Mr. and Mrs. Murder? If not hold on to your hats and read about the bloody exploits of Ann and Tom Duncan....</i></p><p><i><b>Death, Danger, And Deceit: A World War II Story</b></i></p><p><i>Five planes fail to return from a routine patrol flight. Then, Blue Bolt takes off and follows the trail of the bullets to the lair of our hidden enemies.</i></p><p><i>But, death, danger and deceit play this game on the side of the Axis.</i></p><p><i><b>Dead Man's Mistake (Text Only Story)</b></i></p><p><i><b>Valley of the Demon Monsters</b></i></p><p><i>Once again Jungle Jo is called upon to protect his Tangane people from an invader... an invader that has never before been seen... a monster with the strength of ten elephants, large as the tallest tree and with a skin that shatters the jungle monarch's steel as if it were wood! Follow Jungle Jo as he enters for the first time the dreaded Forbidden Valley</i></p>",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/140-1399-147-1-blue-bolt-weird-tale_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/140-1399-147-1-blue-bolt-weird-tale_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/140-1399-147-1-blue-bolt-weird-tale_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/140-1399-147-1-blue-bolt-weird-tale_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/140-1399-147-1-blue-bolt-weird-tale_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/140-1399-147-1-blue-bolt-weird-tale_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/140-1399-147-1-blue-bolt-weird-tale_super.jpg"
+        },
+        "date_last_updated":"2012-06-15 23:26:27",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1399/",
+            "id":1399,
+            "name":"Blue Bolt Weird Tales of Terror"
+        },
+        "issue_number":"116.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:02",
+        "publish_day":null,
+        "publish_month":12,
+        "id":147,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/148/",
+        "site_detail_url":"http://www.comicvine.com/fighting-leathernecks-/37-148/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/141-1522-148-1-fighting-leatherneck_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/141-1522-148-1-fighting-leatherneck_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/141-1522-148-1-fighting-leatherneck_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/141-1522-148-1-fighting-leatherneck_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/141-1522-148-1-fighting-leatherneck_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/141-1522-148-1-fighting-leatherneck_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/141-1522-148-1-fighting-leatherneck_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:55",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1522/",
+            "id":1522,
+            "name":"Fighting Leathernecks"
+        },
+        "issue_number":"6.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:20",
+        "publish_day":null,
+        "publish_month":12,
+        "id":148,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/149/",
+        "site_detail_url":"http://www.comicvine.com/monty-hall-of-the-us-marines-/37-149/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/142-1456-149-1-monty-hall-of-the-u-_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/142-1456-149-1-monty-hall-of-the-u-_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/142-1456-149-1-monty-hall-of-the-u-_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/142-1456-149-1-monty-hall-of-the-u-_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/142-1456-149-1-monty-hall-of-the-u-_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/142-1456-149-1-monty-hall-of-the-u-_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/142-1456-149-1-monty-hall-of-the-u-_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:55",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1456/",
+            "id":1456,
+            "name":"Monty Hall of the U.S. Marines"
+        },
+        "issue_number":"9.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:09",
+        "publish_day":null,
+        "publish_month":12,
+        "id":149,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/150/",
+        "site_detail_url":"http://www.comicvine.com/chilling-tales-/37-150/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/143-1526-150-1-chilling-tales_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/143-1526-150-1-chilling-tales_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/143-1526-150-1-chilling-tales_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/143-1526-150-1-chilling-tales_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/143-1526-150-1-chilling-tales_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/143-1526-150-1-chilling-tales_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/143-1526-150-1-chilling-tales_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:55",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1526/",
+            "id":1526,
+            "name":"Chilling Tales"
+        },
+        "issue_number":"13.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:20",
+        "publish_day":null,
+        "publish_month":12,
+        "id":150,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/152/",
+        "site_detail_url":"http://www.comicvine.com/uncanny-tales-/37-152/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/144-1503-152-1-uncanny-tales_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/144-1503-152-1-uncanny-tales_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/144-1503-152-1-uncanny-tales_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/144-1503-152-1-uncanny-tales_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/144-1503-152-1-uncanny-tales_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/144-1503-152-1-uncanny-tales_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/144-1503-152-1-uncanny-tales_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:55",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1503/",
+            "id":1503,
+            "name":"Uncanny Tales"
+        },
+        "issue_number":"4.00",
+        "publish_year":0,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:19",
+        "publish_day":null,
+        "publish_month":0,
+        "id":152,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/153/",
+        "site_detail_url":"http://www.comicvine.com/sparkler-comics-/37-153/",
+        "description":"<p>1. Nancy&nbsp;<br />&nbsp;<br />2. Captain and the Kids&nbsp;<br />&nbsp;<br />3. Casey Ruggles (by Warren Tufts)</p>",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/145-874-153-1-sparkler-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/145-874-153-1-sparkler-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/145-874-153-1-sparkler-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/145-874-153-1-sparkler-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/145-874-153-1-sparkler-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/145-874-153-1-sparkler-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/145-874-153-1-sparkler-comics_super.jpg"
+        },
+        "date_last_updated":"2010-11-06 16:52:27",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/874/",
+            "id":874,
+            "name":"Sparkler Comics"
+        },
+        "issue_number":"108.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:18",
+        "publish_day":null,
+        "publish_month":12,
+        "id":153,
+        "name":""
+    }
+], "limit":100, "offset":0, "number_of_total_results":305861}

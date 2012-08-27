@@ -1,0 +1,292 @@
+{"number_of_page_results":10, "status_code":1, "error":"OK", "results":[
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/5/",
+            "id":5,
+            "name":"United Features"
+        },
+        "start_year":1938,
+        "description":"Running for twenty-eight issues from 1938-1942, Single Series was a series of color one-shots featuring various characters from comic strips or other areas of fiction. Although most of the issues focused on a different character, several issues featured the same character:&nbsp;<br />&nbsp;&nbsp;<br /><a href=\"/abbie/29-9275/\">Abbie</a> an' <a href=\"/slats/29-9276/\">Slats</a>: 25, 28*<br /><a href=\"/broncho-bill/29-34368/\">Broncho Bill</a>: 2, 19<br /><a href=\"/ella-cinders/29-9274/\">Ella Cinders</a>: 3, 21, 28*<br /><a href=\"/jim-hardy/29-7859/\">Jim Hardy</a>: 6, 27<br /><a href=\"/lil-abner/29-9279/\">Li'l Abner</a>: 4, 18&nbsp;<br /><a href=\"/little-mary-mixup/29-33171/\">Little Mary Mixup</a>: 10, 26<br />&nbsp;<br />*Ella Cinders and Abbie an' Slats were both in the same issue, the only issue to combine two character groups, as well as the final issue.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/880845-1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/880845-1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/880845-1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/880845-1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/880845-1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/880845-1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/880845-1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-11 05:35:12",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/766/",
+        "count_of_issues":27,
+        "id":766,
+        "date_added":"2008-06-06 11:08:03",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/single-series/49-766/",
+        "name":"Single Series"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/8/",
+            "id":8,
+            "name":"Fiction House"
+        },
+        "start_year":1938,
+        "description":"Jumbo Comics was a comic book anthology that lasted for 167 issues from 1938-1953, the series is probably best known for featuring <a href=\"/sheena/29-31442/\">Sheena, Queen of the Jungle</a>&nbsp;-the first female to get her own comic book- during the bulk of its run with only a few issues at the beginning and end of the series where she was not the story featured on the cover.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/1556940-38491_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/1556940-38491_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/1556940-38491_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/1556940-38491_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/1556940-38491_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/1556940-38491_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/1556940-38491_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-11 06:00:32",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/769/",
+        "count_of_issues":167,
+        "id":769,
+        "date_added":"2008-06-06 11:08:03",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/jumbo-comics/49-769/",
+        "name":"Jumbo Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1939,
+        "description":"Movie Comics was a six-issue anthology series&nbsp;published&nbsp;in 1939 that combined traditional comic stories alongside stories created by using movie stills for the artwork.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/59474-771-92469-1-movie-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/59474-771-92469-1-movie-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/59474-771-92469-1-movie-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/59474-771-92469-1-movie-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/59474-771-92469-1-movie-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/59474-771-92469-1-movie-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/59474-771-92469-1-movie-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-11 06:24:05",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/771/",
+        "count_of_issues":6,
+        "id":771,
+        "date_added":"2008-06-06 11:08:03",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/movie-comics/49-771/",
+        "name":"Movie Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1939,
+        "description":"<p>Superman launched May 18, 1939 with its first issue (that doesn't actually have a #1 on the cover) and although it was a seasonal book for its first five issues, with its sixth it began a bimonthly publishing rate and kept up with said rate until its eighty-fifth. With its eighty-sixth issue Superman began it's mostly consistent monthly publishing rate which it continued using up until 1986 when the series ended at 423 issues, the last issue featuring <a href=\"http://www.comicvine.com/alan-moore/26-40382/\">Alan Moore</a>'s acclaimed story \"Whatever Happened to the Man of Tomorrow?\" After that, the title's numbering was continued through Adventures of Superman which lasted for several decades. It was in 2006 with #650 that the title returned to its original name, kicking off it's new era with the <a href=\"http://www.comicvine.com/one-year-later/39-40777/\">One Year Later</a> storyline co-written by <a href=\"http://www.comicvine.com/geoff-johns/26-40439/\">Geoff Johns</a> and <a href=\"http://www.comicvine.com/kurt-busiek/26-41741/\">Kurt Busiek</a>. After the arc, the series was written by Busiek from 654-675, with <a href=\"http://www.comicvine.com/james-robinson/26-42389/\">James Robinson</a> taking the reigns in 677 and holding them tight until the milestone 700th issue where <a href=\"http://www.comicvine.com/j-michael-straczynski/26-40683/\">JMS</a> took over with an arc entitled \"<a href=\"/grounded/39-56189/\">Grounded</a>\" that would feature Superman walking across America. However, JMS left the book earlier then planned and new writer <a href=\"http://www.comicvine.com/chris-roberson/26-19991/\">Chris Roberson</a> worked off of JMS' original notes and plotline. Unfortunately, Roberson never got to prove himself with his own story on the book as with the launch of The New 52 in September 2011, after 72 years and 714 issues (including Adventures of Superman) Superman Vol. 1 came to an end with the final chapter of the Grounded story arc serving as the final issue of the series. Superman will survive as an ongoing series at DC, with the month following the release of Superman #714 serving as the launching point of the third ongoing <a href=\"/superman/49-42986/\">Superman</a> series in DC history with #1.</p><h4>For Post <a href=\"/flashpoint/39-56280/\">Flashpoint</a> volume 3, refer to <a href=\"/superman/49-42986/\">Superman</a>.</h4><p>General Notes</p><p>Superman #424-649 do not exist, however, the issues that took those numbers can be found on the <a href=\"http://www.comicvine.com/adventures-of-superman/49-3778/\">Adventures of Superman</a> page.</p><p>Another ongoing title from DC entitled Superman does exist and was published with its own numbering while Adventures of Superman was in print, thus even though this title began publication in the 30's and lasted until 2011, no two Superman titles were hitting shelves at the same time. The other Superman volume can be found <a href=\"http://www.comicvine.com/superman/49-3816/\">here</a>.</p><p>The main star of the series has of course been <a href=\"http://www.comicvine.com/superman/29-1807/\">Superman</a> but from #686-697 <a href=\"http://www.comicvine.com/mon-el/29-21508/\">Mon-El</a> was the star as Superman was away from Earth and the covers bore the banners \"World Without Superman\" for the first five and \"World Against Superman\" for the last six issues of this absence.</p><h2>Graphic Novel Collections</h2><p><i>this is a list of issues in the series that have been collected in a hardcover/trade paperback format</i></p><ul><li><a href=\"http://www.comicvine.com/superman-whatever-happened-to-the-man-of-tomorrow/49-36937/\">Whatever Happened to the Man of Tomorrow?</a> (#423, <a>Action Comics</a> #583)</li><li><a>Up, Up and Away!</a> (#650-653, <a href=\"http://www.comicvine.com/action-comics/49-18005/\">Action Comics</a> #837-840 <u>)</u></li><li><a href=\"http://www.comicvine.com/superman-camelot-falls/49-37587/\">Camelot Falls</a> Vol. 1 (#654-658)</li><li><a>Camelot Falls</a> Vol. 2 (#662-664&amp;667, <a href=\"http://www.comicvine.com/superman-annual/49-3817/\">Superman Annual</a> #13)</li><li>Redemption (#659&amp;666, <a href=\"http://www.comicvine.com/action-comics/49-18005/\">Action Comics</a> #848-849)</li><li>3-2-1 Action (#665, <a href=\"http://www.comicvine.com/action-comics/49-18005/\">Action Comics</a> #852-854, <a href=\"http://www.comicvine.com/legends-of-the-dc-universe/49-7262/\">Legends of the DC Universe</a> #14)</li><li><a>The Third Kryptonian</a> (#668-670, <a href=\"http://www.comicvine.com/action-comics/49-18005/\">Action Comics</a> #847, <a href=\"http://www.comicvine.com/superman-annual/49-3817/\">Superman Annual</a> #13)</li><li><a href=\"/superman-shadows-linger/49-44215/\">Shadows Linger</a> (#671-675)</li><li><a>The Coming of Atlas</a> (#677-680)</li><li><a href=\"http://www.comicvine.com/superman-new-krypton/49-37083/\">New Krypton</a> Vol. 1 (#681, Action Comics #871, Adventure Comics Special Featuring The Guardian #1, Superman New Krypton Special #1, Superman's Pal Jimmy Olsen Special #1)</li><li><a href=\"http://www.comicvine.com/superman-new-krypton/49-37083/\">New Krypton</a> Vol. 2 (#682-683, <a>Action Comics</a> #872-873; Supergirl #35-36)</li><li><a>Mon-El Vol. 1</a> (#684-690, <a href=\"http://www.comicvine.com/action-comics/49-18005/\">Action Comics</a> #874, <a href=\"http://www.comicvine.com/action-comics-annual/49-3776/\">Action Comics Annual</a> #10)</li><li>Codename Patriot (#691, <a href=\"http://www.comicvine.com/action-comics/49-18005/\">Action Comics</a> #880, <a href=\"http://www.comicvine.com/supergirl/49-18012/\">Supergirl</a> #44, <a href=\"http://www.comicvine.com/superman-world-of-new-krypton/49-25900/\">Superman: World of New Krypto</a> #6, <a href=\"http://www.comicvine.com/supermans-pal-jimmy-olsen-special/49-23417/\">Superman's Pal, Jimmy Olsen Special</a> #2)</li><li><a>Mon-El Vol. 2</a> (#692-697, <a href=\"http://www.comicvine.com/adventure-comics/49-25643/\">Adventure Comics</a> #11, <a href=\"http://www.comicvine.com/superman-annual/49-3817/\">Superman Annual</a> #14, <a href=\"http://www.comicvine.com/superman-secret-files-2009/49-27427/\">Superman: Secret Files 2009</a> #1)</li><li>Nightwing and Flamebird Vol. 2 (#696, <a href=\"http://www.comicvine.com/action-comics/49-18005/\">Action Comics</a> #883-889, <a href=\"http://www.comicvine.com/adventure-comics/49-25643/\">Adventure Comics</a> #8-10)</li><li><a href=\"http://www.comicvine.com/superman-last-stand-of-new-krypton/49-37040/\">Last Stand of New Krypton</a> Vol. 1 (#698, Superman: Last Stand of New Krypton #1-2, Adventure Comics #8-9, Supergirl #51)</li><li><a href=\"http://www.comicvine.com/superman-last-stand-of-new-krypton/49-37040/\">Last Stand of New Krypton</a> Vol. 2 (#699, Superman: Last Stand of New Krypton #3, Adventure Comics #10-11, Supergirl #52)</li><li><a href=\"/superman-grounded/49-41986/\">Grounded</a> Vol. 1 (#700-706)</li><li><a href=\"/superman-grounded/49-41986/\">Grounded</a> Vol. 2 (#707-711 &amp; #713-714)</li></ul>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/3/38687/851086-01_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/3/38687/851086-01_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/3/38687/851086-01_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/3/38687/851086-01_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/3/38687/851086-01_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/3/38687/851086-01_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/3/38687/851086-01_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-12-15 01:41:47",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/773/",
+        "count_of_issues":487,
+        "id":773,
+        "date_added":"2008-06-06 11:08:03",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/superman/49-773/",
+        "name":"Superman"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/14/",
+            "id":14,
+            "name":"David Mckay"
+        },
+        "start_year":1939,
+        "description":"Magic Comics was a comic anthology published from 1939-1949 and amassing a total of 123 issues. Although many of the covers featured <a href=\"/dagwood/29-9240/\">Dagwood</a> of the Blondie newspaper comic strip, it was <a href=\"/mandrake-the-magician/29-9244/\">Mandrake the Magician</a> who the series truly featured and he was often incorporated into the logo and of course, the name.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/1/13923/778783-magiccomics0001_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/1/13923/778783-magiccomics0001_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/1/13923/778783-magiccomics0001_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/1/13923/778783-magiccomics0001_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/1/13923/778783-magiccomics0001_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/1/13923/778783-magiccomics0001_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/1/13923/778783-magiccomics0001_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-11 08:22:13",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/776/",
+        "count_of_issues":122,
+        "id":776,
+        "date_added":"2008-06-06 11:08:03",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/magic-comics/49-776/",
+        "name":"Magic Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/4/",
+            "id":4,
+            "name":"Dell"
+        },
+        "start_year":1939,
+        "description":"<p>Four Color is a series of various comic strips published between 1939 and 1942 over 25 issues. Every issue is a standalone and only with 19 did the series begin to put the number on the cover. The most common strip featured in this run of the series, sometimes called \"Four Color Series I\", was Dick Tracy who appeared in four issues. Dell would begin \"<a href=\"/four-color/49-927/\">Four Color Series II</a>\", the same year this one ended and find much more longevity with a run of over 1000 issues.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/59543-777-92538-1-four-color_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/59543-777-92538-1-four-color_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/59543-777-92538-1-four-color_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/59543-777-92538-1-four-color_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/59543-777-92538-1-four-color_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/59543-777-92538-1-four-color_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/59543-777-92538-1-four-color_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-11 08:52:26",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/777/",
+        "count_of_issues":25,
+        "id":777,
+        "date_added":"2008-06-06 11:08:03",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/four-color/49-777/",
+        "name":"Four Color"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/4/",
+            "id":4,
+            "name":"Dell"
+        },
+        "start_year":1939,
+        "description":"Large Feature Comic, published from 1939-1942, ran for 30 issues and like Dell's Four Color of the time it released issues collecting comic strips in individual issues that were in effect, one-shots. However, the issues would have the number somewhere on the cover and from #25 on, the name \"Large Feature Comic\" also appeared on the cover.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/59563-778-92558-1-large-feature-comic_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/59563-778-92558-1-large-feature-comic_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/59563-778-92558-1-large-feature-comic_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/59563-778-92558-1-large-feature-comic_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/59563-778-92558-1-large-feature-comic_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/59563-778-92558-1-large-feature-comic_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/59563-778-92558-1-large-feature-comic_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-21 04:04:40",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/778/",
+        "count_of_issues":30,
+        "id":778,
+        "date_added":"2008-06-06 11:08:03",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/large-feature-comics/49-778/",
+        "name":"Large Feature Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/22/",
+            "id":22,
+            "name":"Eastern Color"
+        },
+        "start_year":1946,
+        "description":"New Heroic Comics, published by Eastern Color (publishers of what is considered the first modern comic book) began in 1946 and takes it's numbering from <a href=\"/heroic-comics/49-28055/\">Heroic Comics</a> #37. It continued with that title's type of content in an anthology format, publishing stories of both \"everyday heroes\" and factual war stories. Under it's new name the comic lasted for sixty more issues until finally it was cancelled in 1955 (due to its bimonthly schedule) with #97.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/1557160-38_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/1557160-38_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/1557160-38_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/1557160-38_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/1557160-38_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/1557160-38_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/1557160-38_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-19 02:19:40",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/794/",
+        "count_of_issues":60,
+        "id":794,
+        "date_added":"2008-06-06 11:08:03",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/new-heroic-comics/49-794/",
+        "name":"New Heroic Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1940,
+        "description":"<p>The entire run of Batman still stands upon large controversies over who actually came up with some of the characters. <a href=\"/bob-kane/26-19137/\">Bob Kane</a> supposedly came up with the idea for the hero, but it has been suggested that he only came up with a \"Bird-man\" and <a href=\"/bill-finger/26-43591/\">Bill Finger</a> suggested he be a \"Bat-man\". Both creators however, share credit for this character. As for the <a href=\"/joker/29-1702/\">Joker</a>, the first concept sketch was drawn by <a href=\"/jerry-robinson/26-9680/\">Jerry Robinson</a>, but Kane disputed that his input was \"minimal\" suggesting he and Bill came up with the idea. Kane also finagled many legal aspects of Batman related print and media. Every movie and comic reads \"Batman created by Bob Kane\" when it should read \"Batman created by Bob Kane and Bill Finger\". However It is not disputed that Robinson and Finger came up with the character, <a href=\"/dick-grayson/29-1691/\">Robin</a> after \"Robinhood\" . Bob Kane and Sheldon Moldoff co-created numerous bat-creations including <a href=\"/alfred/29-5556/\">Alfred Pennyworth</a>, <a href=\"/poison-ivy/29-1697/\">Poison Ivy,</a> <a href=\"/mr-freeze/29-3715/\">Mr. Freeze</a>, <a href=\"/batwoman/29-9052/\">Batwoman</a>, <a href=\"/batgirl/49-7205/\">Batgirl</a> as well as <a href=\"/bat-mite/29-23170/\">Bat-Mite</a> and <a href=\"/ace-the-bat-hound/29-31302/\">Ace the Bat Hound</a> just to name a few. <a href=\"/bill-finger/26-43591/\">Bill Finger</a> also co-created <a href=\"/penguin/29-4885/\">Penguin</a>, <a href=\"/riddler/29-3718/\">Riddler</a>, and <a href=\"/catwoman/29-1698/\">Catwoman</a>.</p><div class=\"js-item-cage\" rel=\"image\" title=\"image\" id=\"1681131\"><div class=\"wiki-img-right\"><div class=\"wiki-img-thumb\"><a href=\"http://media.comicvine.com/uploads/6/64507/1681131-batman1ad_super.jpg\" title=\"Ad for Batman #1\"><img id=\"1681131\" src=\"http://media.comicvine.com/uploads/6/64507/1681131-batman1ad_thumb.jpg\" alt=\"Ad for Batman #1\" /></a><div class=\"item-caption\">Ad for Batman #1</div></div></div></div><p>One of DC's longest running books showcasing the adventures of the Dark Knight, <a href=\"/batman/29-1699/\">Batman</a>. Through out the years, a majority of Batman's marquee story lines have happened within the pages of this book including, but not limited to the death of the second Robin, <a href=\"/jason-todd/29-6849/\">Jason Todd</a>, and <a href=\"/bane/29-6129/\">Bane</a> breaking Batman's back, leading to <a href=\"/jean-paul-valley/29-12834/\">Jean-Paul Valley</a> to assume the role of Batman for a period of time in the 90s.</p><p>In 2006, super-star writer <a href=\"/grant-morrison/26-40434/\">Grant Morrison</a> took over the book. Morrison wrote stories that introduced readers to Bruce's son <a href=\"/damian-wayne/29-42413/\">Damian Wayne</a> as well as putting Bruce through a series of near fatal trials against <a href=\"/black-glove/65-54825/\">The Black Glove</a> and <a href=\"/doctor-hurt/29-54826/\">Doctor Hurt</a>, leading up to the epic 2008 story lines of <a href=\"/batman-rip/39-55116/\">Batman RIP</a> and <a href=\"/final-crisis/39-51642/\">Final Crisis</a> where Bruce Wayne had apparently died at the hands of the evil god <a href=\"/darkseid/29-2349/\">Darkseid</a>.</p><p>After Bruce's \"death,\" and the <a href=\"/battle-for-the-cowl/39-55808/\">Battle for the Cowl</a>, <a href=\"/dick-grayson/29-1691/\">Dick Grayson</a>, the first Robin, took up the mantle of Batman, continuing to protect Gotham exactly as his mentor had. He even took in Damian as his own Robin. With the exception of two issues set prior to the events of <a href=\"/final-crisis/39-51642/\">Final Crisis</a>, Dick Grayson has been the star of the book since issue #687.</p><p>When the super hero community learned that Bruce Wayne had never actually died, and was sent back in time by Darkseid, Dick Grayson eventually knew that his time as Batman would soon end. But with Bruce's return, and formation of <a href=\"/batman-inc/65-57839/\">Batman Incorporated</a>, Bruce deemed Dick Grayson the Batman of Gotham City, as he traveled the world, searching for more recruits for his new organization.</p><p><a href=\"/charles-paris/26-38494/\">Charles Paris</a> has drawn the most issues of Batman thus far at 128. <a href=\"/dennis-oneil/26-40861/\">Denny O'Neil</a> is a long time writer and editor at DC with 211 issues. He also contributed the location of <a href=\"/arkham-asylum/34-31682/\">Arkham Asylum</a> as well as the characters <a href=\"/man-bat/29-6131/\">Man-Bat</a>, <a href=\"/ras-al-ghul/29-40816/\">Ra's al Ghul</a> and <a href=\"/talia-al-ghul/29-4917/\">Talia al Ghul</a>.</p><p>In September 2011, DC Comics relaunched their entire line in an event known as \"<a href=\"/the-new-52/12-56061/\">The New 52</a>\" which would see the premiere of fifty-two new titles, thus the long-running Batman series ended with #713 during <a href=\"/tony-daniel/26-4663/\">Tony S. Daniel</a>'s run on the title. In the new line, however, Tony Daniel will continue writing in the \"Batman universe\" but under the character's other main title, <a href=\"/detective-comics/49-18058/\">Detective Comics</a>. The new Batman series will be written instead by Scott Snyder (who was writing Detective Comics pre-relaunch).</p><h4>For Post <a href=\"/flashpoint/39-56280/\">Flashpoint</a> volume 2, refer to <a href=\"/batman/49-42721/\">Batman</a>.</h4><p><b>Trade Volumes that collect Batman issues:</b></p><p><b>Classic and Archived Batman:</b></p><ul><li><a href=\"../../the-batman-chronicles-volume-one/37-233426/\" rel=\"nofollow\">The Batman Chronicles Volume 1</a> (Batman #1, Detective Comics #27-37)</li><li><a href=\"../../the-batman-chronicles-volume-two/37-233429/\" rel=\"nofollow\">The Batman Chronicles Volume 2</a> (Batman #2-3, Detective Comics #39-45, New York World's Fair Comic #2)</li><li><a href=\"../../the-batman-chronicles-volume-three/37-233431/\" rel=\"nofollow\">The Batman Chronicles Volume 3</a> (Batman #4-5, Detective Comics #46-50, World's Finest #1)</li><li><a href=\"../../the-batman-chronicles-volume-four/37-233433/\" rel=\"nofollow\">The Batman Chronicles Volume 4</a> (Batman #6-7, Detective Comics #51-56, World's Finest #2-3)</li><li><a href=\"../../the-batman-chronicles-volume-five/37-233436/\" rel=\"nofollow\">The Batman Chronicles Volume 5</a> (Batman #8-9, Detective Comics #57-61, World's Finest #4)</li></ul><p><i>see also Batman Archives, Batman: The Dark Knight Archives, Batman: The Dynamic Duo Archives etc...</i></p><p><b>Modern Batman</b> (Post-Crisis)</p><ul><li><a href=\"/batman-year-one/49-18960/\">Batman: Year One</a> (Batman #404-407)</li><li><a href=\"/batman-the-many-deaths-of-batman/49-37883/\">Batman: The Many Deaths of Batman</a> (Batman #433-435)</li><li><a href=\"/batman-ten-nights-of-the-beast/49-34113/\">Batman: Ten Nights of the Beast</a> (#417-420)</li><li><a href=\"/batman-a-death-in-the-family/49-25187/\">Batman: A Death in the Family</a> (Batman #426-429)</li><li><a href=\"/robin-the-teen-wonder/49-38554/\">Robin: The Teen Wonder</a> (Batman #428 and 442, <span>Batman: Legends of the Dark Knight #100, Nightwing #101, Batman #428 and 442, Robin #126 and 132, and Teen Titans #29)</span></li><li><a href=\"/robin-a-hero-reborn/49-20003/\">Robin: A Hero Reborn</a> (Batman #455-457 and Robin #1-5)</li><li><a href=\"../../batman-knightfall-vol-1-broken-bat/37-217582/\" rel=\"nofollow\">Batman: Knightfall Part 1: Broken Bat</a> (Batman #491-497, Detective Comics #659-663)</li><li><a href=\"../../batman-knightfall-vol-2-who-rules-the-night/37-217584/\" rel=\"nofollow\">Batman: Knightfall Part 2: Who Rules the Night</a> (Batman #498-500, Detective Comics #664-666, Showcase '93 #7-8, Shadow of the Bat #16-18)</li><li><a href=\"../../batman-knightfall-vol-3-knightsend/37-217586/\" rel=\"nofollow\">Batman: Knightfall Part 3: Knightsend</a> (Batman #509-510)</li><li><a href=\"../../batman-no-mans-land-volume-1/37-118196/\" rel=\"nofollow\">Batman: No Man's Land Vol. 1</a> ( Batman #563-564, No Man's Land #1, Shadow of the Bat #83-84, Detective Comics #730-731, Legends of the Dark Knight #116)</li><li><a href=\"../../batman-no-mans-land-volume-2/37-131427/\" rel=\"nofollow\">Batman: No Man's Land Vol. 2</a> (Batman #565, Shadow of the Bat #85-87, Detective Comics #732-733, Legends of the Dark Knight #117, #119, Batman Chronicles #16)</li><li><a href=\"../../batman-no-mans-land-volume-three/37-131428/\" rel=\"nofollow\">Batman: No Man's Land Vol. 3</a> (Batman #566-569, Shadow of the Bat #88, Detective Comics #734-735, Legends of the Dark Knight #120-121)</li><li><a href=\"../../batman-no-mans-land-volume-four/37-131446/\" rel=\"nofollow\">Batman: No Man's Land Vol. 4</a> (Batman #571-572, Shadow of the Bat #92-93, Detective Comics #736, # 738-739, Legends of the Dark Knight #125, Batman Chronicles #18)</li><li><a href=\"../../batman-no-mans-land-volume-five/37-131454/\" rel=\"nofollow\">Batman: No Man's Land Vol. 5</a> (Batman #573-574, Shadow of the Bat #94, Detective Comics #740-741, Legends of the Dark Knight #126, No Man's Land #0)</li><li><a href=\"/batman-hush/49-27384/\">Batman: Hush</a> (Batman #608-619)</li><li><a href=\"/batman-broken-city-hardcover/49-32206/\">Batman: Broken City</a> (Batman #620-625)</li><li><a href=\"/batman-as-the-crow-flies/49-37505/\">Batman: As the Crow Flies</a> (Batman #626-630)</li><li><a href=\"../../batman-under-the-hood-/37-243679/\" rel=\"nofollow\">Batman: Under the Hood Volume 1</a> (Batman #635-641)</li><li><a href=\"../../batman-under-the-hood-/37-243680/\" rel=\"nofollow\">Batman: Under the Hood Volume 2</a> (Batman #645-650, Batman Annual #25)</li><li><a href=\"/batman-face-the-face/49-21970/\">Batman: Face the Face</a> (Batman #651-654, Detective Comics #817-820)</li><li><a href=\"/batman-batman-and-son/49-34112/\">Batman: Batman and Son</a> (Batman #655-658, #663-666)</li><li><a href=\"/batman-the-black-glove/49-28235/\">Batman: The Black Glove</a> (Batman #667-669, 672-675)</li><li><a href=\"/batman-the-resurrection-of-ras-al-ghul/49-31003/\">Batman: The Resurrection of Ra's al Ghul</a> (Batman #670-671, Batman Annual #26, Detective Comics #838-839, Robin Annual #7, Nightwing #138-139)</li><li><a href=\"/batman-rip/49-45155/\">Batman: Batman R.I.P.</a> (Batman #676-683)</li><li><a href=\"/batman-whatever-happened-to-the-caped-crusader/49-33186/\">Batman: Whatever Happened to the Caped Crusader</a> (Batman #686, Detective Comics #853, Secret Origins #36, Secret Origins Special #1, Batman: Black and White #2)</li><li><a href=\"/batman-long-shadows/49-34996/\">Batman: Long Shadows</a> (Batman #687-691)</li><li><a href=\"/batman-life-after-death/49-35013/\">Batman: Life After Death</a> (Batman #692-699)</li><li><a href=\"/batman-time-and-the-batman/49-39230/\">Batman: Time and the Batman</a> (Batman #700-703)</li></ul>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/978/85946-796-105811-1-batman_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/978/85946-796-105811-1-batman_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/978/85946-796-105811-1-batman_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/978/85946-796-105811-1-batman_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/978/85946-796-105811-1-batman_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/978/85946-796-105811-1-batman_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/978/85946-796-105811-1-batman_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2012-07-27 08:13:41",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/796/",
+        "count_of_issues":714,
+        "id":796,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/batman/49-796/",
+        "name":"Batman"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/14/",
+            "id":14,
+            "name":"David Mckay"
+        },
+        "start_year":1940,
+        "description":"Future Comics, four issues published by David McKay in 1940, was an anthology comic (like most of the others in the day) and featured both newspaper reprints such as The Lone Ranger and The Phantom as well as original stories.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/59648-806-92643-1-future-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/59648-806-92643-1-future-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/59648-806-92643-1-future-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/59648-806-92643-1-future-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/59648-806-92643-1-future-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/59648-806-92643-1-future-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/59648-806-92643-1-future-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-25 06:48:23",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/806/",
+        "count_of_issues":4,
+        "id":806,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/future-comics/49-806/",
+        "name":"Future Comics"
+    }
+], "limit":10, "offset":0, "number_of_total_results":37147}

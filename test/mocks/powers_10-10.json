@@ -1,0 +1,102 @@
+{"number_of_page_results":10, "status_code":1, "error":"OK", "results":[
+    {
+        "site_detail_url":"http://www.comicvine.com/radar-sense/41-11/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/11/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":11,
+        "name":"Radar Sense"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/psychic/41-12/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/12/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":12,
+        "name":"Psychic"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/force-field/41-13/",
+        "description":"A force field is any nearly-unpenatrable container that surrounds a character for protection. It may be called upon through control over natural elements, by manifestation of mental or psionic powers or simply by sheer act of will. A character calling upon a force field is almost always in a defensive position and under a large amount of strain to keep themselves or others protected. Outside of battles, these bubbles can also serve to protect characters from the elements (such as water or space) and provide an air pocket to anyone within the field. Because of their supportive utility, force fields are often present in weaker, heavily loyal characters.",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/13/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":13,
+        "name":"Force Field"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/blast-power/41-14/",
+        "description":"Blast Power is the ability to emit, produce or discharge a burst of non-natural human energy. Normally this energy comes in the form of radiation, gas, explosives or lazer-like beams. Heros who have blast powers are almost always not able to control their gifts and often hurt their friends as much as their enemies. This normally leads to the hero having a withdrawn disposition. Blast power villans are erratic and uncontrollable, taking advantage of the unpredictable nature of their abilities to allow for quick, wide-radius attacks that result in mass destruction without target.",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/14/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":14,
+        "name":"Blast Power"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/healing/41-15/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/15/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":15,
+        "name":"Healing"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/magic/41-16/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/16/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":16,
+        "name":"Magic"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/weapon-master/41-17/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/17/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":17,
+        "name":"Weapon Master"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/super-sight/41-18/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/18/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":18,
+        "name":"Super Sight"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/super-smell/41-19/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/19/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":19,
+        "name":"Super Smell"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/super-hearing/41-20/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/20/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":20,
+        "name":"Super Hearing"
+    }
+], "limit":10, "offset":10, "number_of_total_results":130}

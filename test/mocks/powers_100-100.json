@@ -1,0 +1,302 @@
+{"number_of_page_results":30, "status_code":1, "error":"OK", "results":[
+    {
+        "site_detail_url":"http://www.comicvine.com/plant-control/41-112/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/112/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":112,
+        "name":"Plant Control"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/claws/41-113/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/113/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":113,
+        "name":"Claws"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/death-touch/41-114/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/114/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":114,
+        "name":"Death Touch"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/hypnosis/41-115/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/115/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":115,
+        "name":"Hypnosis"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/poisonous/41-116/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/116/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":116,
+        "name":"Poisonous"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/pheromone-control/41-117/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/117/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":117,
+        "name":"Pheromone Control"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/water-control/41-118/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/118/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":118,
+        "name":"Water Control"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/chemical-secretion/41-119/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/119/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":119,
+        "name":"Chemical Secretion"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/energy-absorption/41-120/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/120/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":120,
+        "name":"Energy Absorption"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/attractive-female/41-121/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/121/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":121,
+        "name":"Attractive Female"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/attractive-male/41-122/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/122/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":122,
+        "name":"Attractive Male"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/energy-manipulation/41-123/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/123/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":123,
+        "name":"Energy Manipulation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/cosmic-awareness/41-124/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/124/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":124,
+        "name":"Cosmic Awareness"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/willpower-based-constructs/41-125/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/125/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":125,
+        "name":"Willpower-Based Constructs"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/heat-generation/41-126/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/126/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":126,
+        "name":"Heat Generation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/energy-based-constructs/41-128/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/128/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":128,
+        "name":"Energy Based Constructs"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/synaesthesia/41-129/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/129/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":129,
+        "name":"Synaesthesia"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/voice-induced-manipulation/41-130/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/130/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":130,
+        "name":"Voice-induced Manipulation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/chemical-absorbtion/41-131/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/131/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":131,
+        "name":"Chemical Absorbtion"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/stealth/41-132/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/132/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":132,
+        "name":"Stealth"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/berserker-strength/41-133/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/133/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":133,
+        "name":"Berserker Strength"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/leadership/41-135/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/135/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":135,
+        "name":"Leadership"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/longevity/41-136/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/136/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":136,
+        "name":"Longevity"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/controlled-bone-growth/41-137/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/137/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":137,
+        "name":"Controlled Bone Growth"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/webslinger/41-138/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/138/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":138,
+        "name":"Webslinger"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/ice-breath/41-139/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/139/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":139,
+        "name":"Ice Breath"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/flame-breath/41-140/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/140/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":140,
+        "name":"Flame Breath"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/hellfire-control/41-141/",
+        "description":"",
+        "date_last_updated":"2008-08-24 19:30:34",
+        "api_detail_url":"http://api.comicvine.com/power/141/",
+        "date_added":"2008-08-24 19:30:34",
+        "aliases":"",
+        "id":141,
+        "name":"Hellfire Control"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/prehensile-hair/41-142/",
+        "description":"",
+        "date_last_updated":"2009-07-21 11:22:36",
+        "api_detail_url":"http://api.comicvine.com/power/142/",
+        "date_added":"2009-07-21 11:22:36",
+        "aliases":"",
+        "id":142,
+        "name":"Prehensile Hair"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/blood-control/41-143/",
+        "description":"",
+        "date_last_updated":"2009-07-21 11:22:48",
+        "api_detail_url":"http://api.comicvine.com/power/143/",
+        "date_added":"2009-07-21 11:22:48",
+        "aliases":"",
+        "id":143,
+        "name":"Blood Control"
+    }
+], "limit":100, "offset":100, "number_of_total_results":130}

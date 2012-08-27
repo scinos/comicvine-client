@@ -1,0 +1,2902 @@
+{"number_of_page_results":100, "status_code":1, "error":"OK", "results":[
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/5/",
+            "id":5,
+            "name":"United Features"
+        },
+        "start_year":1938,
+        "description":"Running for twenty-eight issues from 1938-1942, Single Series was a series of color one-shots featuring various characters from comic strips or other areas of fiction. Although most of the issues focused on a different character, several issues featured the same character:&nbsp;<br />&nbsp;&nbsp;<br /><a href=\"/abbie/29-9275/\">Abbie</a> an' <a href=\"/slats/29-9276/\">Slats</a>: 25, 28*<br /><a href=\"/broncho-bill/29-34368/\">Broncho Bill</a>: 2, 19<br /><a href=\"/ella-cinders/29-9274/\">Ella Cinders</a>: 3, 21, 28*<br /><a href=\"/jim-hardy/29-7859/\">Jim Hardy</a>: 6, 27<br /><a href=\"/lil-abner/29-9279/\">Li'l Abner</a>: 4, 18&nbsp;<br /><a href=\"/little-mary-mixup/29-33171/\">Little Mary Mixup</a>: 10, 26<br />&nbsp;<br />*Ella Cinders and Abbie an' Slats were both in the same issue, the only issue to combine two character groups, as well as the final issue.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/880845-1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/880845-1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/880845-1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/880845-1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/880845-1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/880845-1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/880845-1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-11 05:35:12",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/766/",
+        "count_of_issues":27,
+        "id":766,
+        "date_added":"2008-06-06 11:08:03",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/single-series/49-766/",
+        "name":"Single Series"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/8/",
+            "id":8,
+            "name":"Fiction House"
+        },
+        "start_year":1938,
+        "description":"Jumbo Comics was a comic book anthology that lasted for 167 issues from 1938-1953, the series is probably best known for featuring <a href=\"/sheena/29-31442/\">Sheena, Queen of the Jungle</a>&nbsp;-the first female to get her own comic book- during the bulk of its run with only a few issues at the beginning and end of the series where she was not the story featured on the cover.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/1556940-38491_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/1556940-38491_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/1556940-38491_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/1556940-38491_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/1556940-38491_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/1556940-38491_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/1556940-38491_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-11 06:00:32",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/769/",
+        "count_of_issues":167,
+        "id":769,
+        "date_added":"2008-06-06 11:08:03",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/jumbo-comics/49-769/",
+        "name":"Jumbo Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1939,
+        "description":"Movie Comics was a six-issue anthology series&nbsp;published&nbsp;in 1939 that combined traditional comic stories alongside stories created by using movie stills for the artwork.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/59474-771-92469-1-movie-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/59474-771-92469-1-movie-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/59474-771-92469-1-movie-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/59474-771-92469-1-movie-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/59474-771-92469-1-movie-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/59474-771-92469-1-movie-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/59474-771-92469-1-movie-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-11 06:24:05",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/771/",
+        "count_of_issues":6,
+        "id":771,
+        "date_added":"2008-06-06 11:08:03",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/movie-comics/49-771/",
+        "name":"Movie Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1939,
+        "description":"<p>Superman launched May 18, 1939 with its first issue (that doesn't actually have a #1 on the cover) and although it was a seasonal book for its first five issues, with its sixth it began a bimonthly publishing rate and kept up with said rate until its eighty-fifth. With its eighty-sixth issue Superman began it's mostly consistent monthly publishing rate which it continued using up until 1986 when the series ended at 423 issues, the last issue featuring <a href=\"http://www.comicvine.com/alan-moore/26-40382/\">Alan Moore</a>'s acclaimed story \"Whatever Happened to the Man of Tomorrow?\" After that, the title's numbering was continued through Adventures of Superman which lasted for several decades. It was in 2006 with #650 that the title returned to its original name, kicking off it's new era with the <a href=\"http://www.comicvine.com/one-year-later/39-40777/\">One Year Later</a> storyline co-written by <a href=\"http://www.comicvine.com/geoff-johns/26-40439/\">Geoff Johns</a> and <a href=\"http://www.comicvine.com/kurt-busiek/26-41741/\">Kurt Busiek</a>. After the arc, the series was written by Busiek from 654-675, with <a href=\"http://www.comicvine.com/james-robinson/26-42389/\">James Robinson</a> taking the reigns in 677 and holding them tight until the milestone 700th issue where <a href=\"http://www.comicvine.com/j-michael-straczynski/26-40683/\">JMS</a> took over with an arc entitled \"<a href=\"/grounded/39-56189/\">Grounded</a>\" that would feature Superman walking across America. However, JMS left the book earlier then planned and new writer <a href=\"http://www.comicvine.com/chris-roberson/26-19991/\">Chris Roberson</a> worked off of JMS' original notes and plotline. Unfortunately, Roberson never got to prove himself with his own story on the book as with the launch of The New 52 in September 2011, after 72 years and 714 issues (including Adventures of Superman) Superman Vol. 1 came to an end with the final chapter of the Grounded story arc serving as the final issue of the series. Superman will survive as an ongoing series at DC, with the month following the release of Superman #714 serving as the launching point of the third ongoing <a href=\"/superman/49-42986/\">Superman</a> series in DC history with #1.</p><h4>For Post <a href=\"/flashpoint/39-56280/\">Flashpoint</a> volume 3, refer to <a href=\"/superman/49-42986/\">Superman</a>.</h4><p>General Notes</p><p>Superman #424-649 do not exist, however, the issues that took those numbers can be found on the <a href=\"http://www.comicvine.com/adventures-of-superman/49-3778/\">Adventures of Superman</a> page.</p><p>Another ongoing title from DC entitled Superman does exist and was published with its own numbering while Adventures of Superman was in print, thus even though this title began publication in the 30's and lasted until 2011, no two Superman titles were hitting shelves at the same time. The other Superman volume can be found <a href=\"http://www.comicvine.com/superman/49-3816/\">here</a>.</p><p>The main star of the series has of course been <a href=\"http://www.comicvine.com/superman/29-1807/\">Superman</a> but from #686-697 <a href=\"http://www.comicvine.com/mon-el/29-21508/\">Mon-El</a> was the star as Superman was away from Earth and the covers bore the banners \"World Without Superman\" for the first five and \"World Against Superman\" for the last six issues of this absence.</p><h2>Graphic Novel Collections</h2><p><i>this is a list of issues in the series that have been collected in a hardcover/trade paperback format</i></p><ul><li><a href=\"http://www.comicvine.com/superman-whatever-happened-to-the-man-of-tomorrow/49-36937/\">Whatever Happened to the Man of Tomorrow?</a> (#423, <a>Action Comics</a> #583)</li><li><a>Up, Up and Away!</a> (#650-653, <a href=\"http://www.comicvine.com/action-comics/49-18005/\">Action Comics</a> #837-840 <u>)</u></li><li><a href=\"http://www.comicvine.com/superman-camelot-falls/49-37587/\">Camelot Falls</a> Vol. 1 (#654-658)</li><li><a>Camelot Falls</a> Vol. 2 (#662-664&amp;667, <a href=\"http://www.comicvine.com/superman-annual/49-3817/\">Superman Annual</a> #13)</li><li>Redemption (#659&amp;666, <a href=\"http://www.comicvine.com/action-comics/49-18005/\">Action Comics</a> #848-849)</li><li>3-2-1 Action (#665, <a href=\"http://www.comicvine.com/action-comics/49-18005/\">Action Comics</a> #852-854, <a href=\"http://www.comicvine.com/legends-of-the-dc-universe/49-7262/\">Legends of the DC Universe</a> #14)</li><li><a>The Third Kryptonian</a> (#668-670, <a href=\"http://www.comicvine.com/action-comics/49-18005/\">Action Comics</a> #847, <a href=\"http://www.comicvine.com/superman-annual/49-3817/\">Superman Annual</a> #13)</li><li><a href=\"/superman-shadows-linger/49-44215/\">Shadows Linger</a> (#671-675)</li><li><a>The Coming of Atlas</a> (#677-680)</li><li><a href=\"http://www.comicvine.com/superman-new-krypton/49-37083/\">New Krypton</a> Vol. 1 (#681, Action Comics #871, Adventure Comics Special Featuring The Guardian #1, Superman New Krypton Special #1, Superman's Pal Jimmy Olsen Special #1)</li><li><a href=\"http://www.comicvine.com/superman-new-krypton/49-37083/\">New Krypton</a> Vol. 2 (#682-683, <a>Action Comics</a> #872-873; Supergirl #35-36)</li><li><a>Mon-El Vol. 1</a> (#684-690, <a href=\"http://www.comicvine.com/action-comics/49-18005/\">Action Comics</a> #874, <a href=\"http://www.comicvine.com/action-comics-annual/49-3776/\">Action Comics Annual</a> #10)</li><li>Codename Patriot (#691, <a href=\"http://www.comicvine.com/action-comics/49-18005/\">Action Comics</a> #880, <a href=\"http://www.comicvine.com/supergirl/49-18012/\">Supergirl</a> #44, <a href=\"http://www.comicvine.com/superman-world-of-new-krypton/49-25900/\">Superman: World of New Krypto</a> #6, <a href=\"http://www.comicvine.com/supermans-pal-jimmy-olsen-special/49-23417/\">Superman's Pal, Jimmy Olsen Special</a> #2)</li><li><a>Mon-El Vol. 2</a> (#692-697, <a href=\"http://www.comicvine.com/adventure-comics/49-25643/\">Adventure Comics</a> #11, <a href=\"http://www.comicvine.com/superman-annual/49-3817/\">Superman Annual</a> #14, <a href=\"http://www.comicvine.com/superman-secret-files-2009/49-27427/\">Superman: Secret Files 2009</a> #1)</li><li>Nightwing and Flamebird Vol. 2 (#696, <a href=\"http://www.comicvine.com/action-comics/49-18005/\">Action Comics</a> #883-889, <a href=\"http://www.comicvine.com/adventure-comics/49-25643/\">Adventure Comics</a> #8-10)</li><li><a href=\"http://www.comicvine.com/superman-last-stand-of-new-krypton/49-37040/\">Last Stand of New Krypton</a> Vol. 1 (#698, Superman: Last Stand of New Krypton #1-2, Adventure Comics #8-9, Supergirl #51)</li><li><a href=\"http://www.comicvine.com/superman-last-stand-of-new-krypton/49-37040/\">Last Stand of New Krypton</a> Vol. 2 (#699, Superman: Last Stand of New Krypton #3, Adventure Comics #10-11, Supergirl #52)</li><li><a href=\"/superman-grounded/49-41986/\">Grounded</a> Vol. 1 (#700-706)</li><li><a href=\"/superman-grounded/49-41986/\">Grounded</a> Vol. 2 (#707-711 &amp; #713-714)</li></ul>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/3/38687/851086-01_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/3/38687/851086-01_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/3/38687/851086-01_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/3/38687/851086-01_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/3/38687/851086-01_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/3/38687/851086-01_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/3/38687/851086-01_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-12-15 01:41:47",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/773/",
+        "count_of_issues":487,
+        "id":773,
+        "date_added":"2008-06-06 11:08:03",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/superman/49-773/",
+        "name":"Superman"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/14/",
+            "id":14,
+            "name":"David Mckay"
+        },
+        "start_year":1939,
+        "description":"Magic Comics was a comic anthology published from 1939-1949 and amassing a total of 123 issues. Although many of the covers featured <a href=\"/dagwood/29-9240/\">Dagwood</a> of the Blondie newspaper comic strip, it was <a href=\"/mandrake-the-magician/29-9244/\">Mandrake the Magician</a> who the series truly featured and he was often incorporated into the logo and of course, the name.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/1/13923/778783-magiccomics0001_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/1/13923/778783-magiccomics0001_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/1/13923/778783-magiccomics0001_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/1/13923/778783-magiccomics0001_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/1/13923/778783-magiccomics0001_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/1/13923/778783-magiccomics0001_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/1/13923/778783-magiccomics0001_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-11 08:22:13",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/776/",
+        "count_of_issues":122,
+        "id":776,
+        "date_added":"2008-06-06 11:08:03",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/magic-comics/49-776/",
+        "name":"Magic Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/4/",
+            "id":4,
+            "name":"Dell"
+        },
+        "start_year":1939,
+        "description":"<p>Four Color is a series of various comic strips published between 1939 and 1942 over 25 issues. Every issue is a standalone and only with 19 did the series begin to put the number on the cover. The most common strip featured in this run of the series, sometimes called \"Four Color Series I\", was Dick Tracy who appeared in four issues. Dell would begin \"<a href=\"/four-color/49-927/\">Four Color Series II</a>\", the same year this one ended and find much more longevity with a run of over 1000 issues.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/59543-777-92538-1-four-color_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/59543-777-92538-1-four-color_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/59543-777-92538-1-four-color_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/59543-777-92538-1-four-color_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/59543-777-92538-1-four-color_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/59543-777-92538-1-four-color_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/59543-777-92538-1-four-color_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-11 08:52:26",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/777/",
+        "count_of_issues":25,
+        "id":777,
+        "date_added":"2008-06-06 11:08:03",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/four-color/49-777/",
+        "name":"Four Color"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/4/",
+            "id":4,
+            "name":"Dell"
+        },
+        "start_year":1939,
+        "description":"Large Feature Comic, published from 1939-1942, ran for 30 issues and like Dell's Four Color of the time it released issues collecting comic strips in individual issues that were in effect, one-shots. However, the issues would have the number somewhere on the cover and from #25 on, the name \"Large Feature Comic\" also appeared on the cover.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/59563-778-92558-1-large-feature-comic_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/59563-778-92558-1-large-feature-comic_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/59563-778-92558-1-large-feature-comic_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/59563-778-92558-1-large-feature-comic_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/59563-778-92558-1-large-feature-comic_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/59563-778-92558-1-large-feature-comic_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/59563-778-92558-1-large-feature-comic_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-21 04:04:40",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/778/",
+        "count_of_issues":30,
+        "id":778,
+        "date_added":"2008-06-06 11:08:03",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/large-feature-comics/49-778/",
+        "name":"Large Feature Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/22/",
+            "id":22,
+            "name":"Eastern Color"
+        },
+        "start_year":1946,
+        "description":"New Heroic Comics, published by Eastern Color (publishers of what is considered the first modern comic book) began in 1946 and takes it's numbering from <a href=\"/heroic-comics/49-28055/\">Heroic Comics</a> #37. It continued with that title's type of content in an anthology format, publishing stories of both \"everyday heroes\" and factual war stories. Under it's new name the comic lasted for sixty more issues until finally it was cancelled in 1955 (due to its bimonthly schedule) with #97.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/1557160-38_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/1557160-38_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/1557160-38_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/1557160-38_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/1557160-38_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/1557160-38_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/1557160-38_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-19 02:19:40",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/794/",
+        "count_of_issues":60,
+        "id":794,
+        "date_added":"2008-06-06 11:08:03",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/new-heroic-comics/49-794/",
+        "name":"New Heroic Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1940,
+        "description":"<p>The entire run of Batman still stands upon large controversies over who actually came up with some of the characters. <a href=\"/bob-kane/26-19137/\">Bob Kane</a> supposedly came up with the idea for the hero, but it has been suggested that he only came up with a \"Bird-man\" and <a href=\"/bill-finger/26-43591/\">Bill Finger</a> suggested he be a \"Bat-man\". Both creators however, share credit for this character. As for the <a href=\"/joker/29-1702/\">Joker</a>, the first concept sketch was drawn by <a href=\"/jerry-robinson/26-9680/\">Jerry Robinson</a>, but Kane disputed that his input was \"minimal\" suggesting he and Bill came up with the idea. Kane also finagled many legal aspects of Batman related print and media. Every movie and comic reads \"Batman created by Bob Kane\" when it should read \"Batman created by Bob Kane and Bill Finger\". However It is not disputed that Robinson and Finger came up with the character, <a href=\"/dick-grayson/29-1691/\">Robin</a> after \"Robinhood\" . Bob Kane and Sheldon Moldoff co-created numerous bat-creations including <a href=\"/alfred/29-5556/\">Alfred Pennyworth</a>, <a href=\"/poison-ivy/29-1697/\">Poison Ivy,</a> <a href=\"/mr-freeze/29-3715/\">Mr. Freeze</a>, <a href=\"/batwoman/29-9052/\">Batwoman</a>, <a href=\"/batgirl/49-7205/\">Batgirl</a> as well as <a href=\"/bat-mite/29-23170/\">Bat-Mite</a> and <a href=\"/ace-the-bat-hound/29-31302/\">Ace the Bat Hound</a> just to name a few. <a href=\"/bill-finger/26-43591/\">Bill Finger</a> also co-created <a href=\"/penguin/29-4885/\">Penguin</a>, <a href=\"/riddler/29-3718/\">Riddler</a>, and <a href=\"/catwoman/29-1698/\">Catwoman</a>.</p><div class=\"js-item-cage\" rel=\"image\" title=\"image\" id=\"1681131\"><div class=\"wiki-img-right\"><div class=\"wiki-img-thumb\"><a href=\"http://media.comicvine.com/uploads/6/64507/1681131-batman1ad_super.jpg\" title=\"Ad for Batman #1\"><img id=\"1681131\" src=\"http://media.comicvine.com/uploads/6/64507/1681131-batman1ad_thumb.jpg\" alt=\"Ad for Batman #1\" /></a><div class=\"item-caption\">Ad for Batman #1</div></div></div></div><p>One of DC's longest running books showcasing the adventures of the Dark Knight, <a href=\"/batman/29-1699/\">Batman</a>. Through out the years, a majority of Batman's marquee story lines have happened within the pages of this book including, but not limited to the death of the second Robin, <a href=\"/jason-todd/29-6849/\">Jason Todd</a>, and <a href=\"/bane/29-6129/\">Bane</a> breaking Batman's back, leading to <a href=\"/jean-paul-valley/29-12834/\">Jean-Paul Valley</a> to assume the role of Batman for a period of time in the 90s.</p><p>In 2006, super-star writer <a href=\"/grant-morrison/26-40434/\">Grant Morrison</a> took over the book. Morrison wrote stories that introduced readers to Bruce's son <a href=\"/damian-wayne/29-42413/\">Damian Wayne</a> as well as putting Bruce through a series of near fatal trials against <a href=\"/black-glove/65-54825/\">The Black Glove</a> and <a href=\"/doctor-hurt/29-54826/\">Doctor Hurt</a>, leading up to the epic 2008 story lines of <a href=\"/batman-rip/39-55116/\">Batman RIP</a> and <a href=\"/final-crisis/39-51642/\">Final Crisis</a> where Bruce Wayne had apparently died at the hands of the evil god <a href=\"/darkseid/29-2349/\">Darkseid</a>.</p><p>After Bruce's \"death,\" and the <a href=\"/battle-for-the-cowl/39-55808/\">Battle for the Cowl</a>, <a href=\"/dick-grayson/29-1691/\">Dick Grayson</a>, the first Robin, took up the mantle of Batman, continuing to protect Gotham exactly as his mentor had. He even took in Damian as his own Robin. With the exception of two issues set prior to the events of <a href=\"/final-crisis/39-51642/\">Final Crisis</a>, Dick Grayson has been the star of the book since issue #687.</p><p>When the super hero community learned that Bruce Wayne had never actually died, and was sent back in time by Darkseid, Dick Grayson eventually knew that his time as Batman would soon end. But with Bruce's return, and formation of <a href=\"/batman-inc/65-57839/\">Batman Incorporated</a>, Bruce deemed Dick Grayson the Batman of Gotham City, as he traveled the world, searching for more recruits for his new organization.</p><p><a href=\"/charles-paris/26-38494/\">Charles Paris</a> has drawn the most issues of Batman thus far at 128. <a href=\"/dennis-oneil/26-40861/\">Denny O'Neil</a> is a long time writer and editor at DC with 211 issues. He also contributed the location of <a href=\"/arkham-asylum/34-31682/\">Arkham Asylum</a> as well as the characters <a href=\"/man-bat/29-6131/\">Man-Bat</a>, <a href=\"/ras-al-ghul/29-40816/\">Ra's al Ghul</a> and <a href=\"/talia-al-ghul/29-4917/\">Talia al Ghul</a>.</p><p>In September 2011, DC Comics relaunched their entire line in an event known as \"<a href=\"/the-new-52/12-56061/\">The New 52</a>\" which would see the premiere of fifty-two new titles, thus the long-running Batman series ended with #713 during <a href=\"/tony-daniel/26-4663/\">Tony S. Daniel</a>'s run on the title. In the new line, however, Tony Daniel will continue writing in the \"Batman universe\" but under the character's other main title, <a href=\"/detective-comics/49-18058/\">Detective Comics</a>. The new Batman series will be written instead by Scott Snyder (who was writing Detective Comics pre-relaunch).</p><h4>For Post <a href=\"/flashpoint/39-56280/\">Flashpoint</a> volume 2, refer to <a href=\"/batman/49-42721/\">Batman</a>.</h4><p><b>Trade Volumes that collect Batman issues:</b></p><p><b>Classic and Archived Batman:</b></p><ul><li><a href=\"../../the-batman-chronicles-volume-one/37-233426/\" rel=\"nofollow\">The Batman Chronicles Volume 1</a> (Batman #1, Detective Comics #27-37)</li><li><a href=\"../../the-batman-chronicles-volume-two/37-233429/\" rel=\"nofollow\">The Batman Chronicles Volume 2</a> (Batman #2-3, Detective Comics #39-45, New York World's Fair Comic #2)</li><li><a href=\"../../the-batman-chronicles-volume-three/37-233431/\" rel=\"nofollow\">The Batman Chronicles Volume 3</a> (Batman #4-5, Detective Comics #46-50, World's Finest #1)</li><li><a href=\"../../the-batman-chronicles-volume-four/37-233433/\" rel=\"nofollow\">The Batman Chronicles Volume 4</a> (Batman #6-7, Detective Comics #51-56, World's Finest #2-3)</li><li><a href=\"../../the-batman-chronicles-volume-five/37-233436/\" rel=\"nofollow\">The Batman Chronicles Volume 5</a> (Batman #8-9, Detective Comics #57-61, World's Finest #4)</li></ul><p><i>see also Batman Archives, Batman: The Dark Knight Archives, Batman: The Dynamic Duo Archives etc...</i></p><p><b>Modern Batman</b> (Post-Crisis)</p><ul><li><a href=\"/batman-year-one/49-18960/\">Batman: Year One</a> (Batman #404-407)</li><li><a href=\"/batman-the-many-deaths-of-batman/49-37883/\">Batman: The Many Deaths of Batman</a> (Batman #433-435)</li><li><a href=\"/batman-ten-nights-of-the-beast/49-34113/\">Batman: Ten Nights of the Beast</a> (#417-420)</li><li><a href=\"/batman-a-death-in-the-family/49-25187/\">Batman: A Death in the Family</a> (Batman #426-429)</li><li><a href=\"/robin-the-teen-wonder/49-38554/\">Robin: The Teen Wonder</a> (Batman #428 and 442, <span>Batman: Legends of the Dark Knight #100, Nightwing #101, Batman #428 and 442, Robin #126 and 132, and Teen Titans #29)</span></li><li><a href=\"/robin-a-hero-reborn/49-20003/\">Robin: A Hero Reborn</a> (Batman #455-457 and Robin #1-5)</li><li><a href=\"../../batman-knightfall-vol-1-broken-bat/37-217582/\" rel=\"nofollow\">Batman: Knightfall Part 1: Broken Bat</a> (Batman #491-497, Detective Comics #659-663)</li><li><a href=\"../../batman-knightfall-vol-2-who-rules-the-night/37-217584/\" rel=\"nofollow\">Batman: Knightfall Part 2: Who Rules the Night</a> (Batman #498-500, Detective Comics #664-666, Showcase '93 #7-8, Shadow of the Bat #16-18)</li><li><a href=\"../../batman-knightfall-vol-3-knightsend/37-217586/\" rel=\"nofollow\">Batman: Knightfall Part 3: Knightsend</a> (Batman #509-510)</li><li><a href=\"../../batman-no-mans-land-volume-1/37-118196/\" rel=\"nofollow\">Batman: No Man's Land Vol. 1</a> ( Batman #563-564, No Man's Land #1, Shadow of the Bat #83-84, Detective Comics #730-731, Legends of the Dark Knight #116)</li><li><a href=\"../../batman-no-mans-land-volume-2/37-131427/\" rel=\"nofollow\">Batman: No Man's Land Vol. 2</a> (Batman #565, Shadow of the Bat #85-87, Detective Comics #732-733, Legends of the Dark Knight #117, #119, Batman Chronicles #16)</li><li><a href=\"../../batman-no-mans-land-volume-three/37-131428/\" rel=\"nofollow\">Batman: No Man's Land Vol. 3</a> (Batman #566-569, Shadow of the Bat #88, Detective Comics #734-735, Legends of the Dark Knight #120-121)</li><li><a href=\"../../batman-no-mans-land-volume-four/37-131446/\" rel=\"nofollow\">Batman: No Man's Land Vol. 4</a> (Batman #571-572, Shadow of the Bat #92-93, Detective Comics #736, # 738-739, Legends of the Dark Knight #125, Batman Chronicles #18)</li><li><a href=\"../../batman-no-mans-land-volume-five/37-131454/\" rel=\"nofollow\">Batman: No Man's Land Vol. 5</a> (Batman #573-574, Shadow of the Bat #94, Detective Comics #740-741, Legends of the Dark Knight #126, No Man's Land #0)</li><li><a href=\"/batman-hush/49-27384/\">Batman: Hush</a> (Batman #608-619)</li><li><a href=\"/batman-broken-city-hardcover/49-32206/\">Batman: Broken City</a> (Batman #620-625)</li><li><a href=\"/batman-as-the-crow-flies/49-37505/\">Batman: As the Crow Flies</a> (Batman #626-630)</li><li><a href=\"../../batman-under-the-hood-/37-243679/\" rel=\"nofollow\">Batman: Under the Hood Volume 1</a> (Batman #635-641)</li><li><a href=\"../../batman-under-the-hood-/37-243680/\" rel=\"nofollow\">Batman: Under the Hood Volume 2</a> (Batman #645-650, Batman Annual #25)</li><li><a href=\"/batman-face-the-face/49-21970/\">Batman: Face the Face</a> (Batman #651-654, Detective Comics #817-820)</li><li><a href=\"/batman-batman-and-son/49-34112/\">Batman: Batman and Son</a> (Batman #655-658, #663-666)</li><li><a href=\"/batman-the-black-glove/49-28235/\">Batman: The Black Glove</a> (Batman #667-669, 672-675)</li><li><a href=\"/batman-the-resurrection-of-ras-al-ghul/49-31003/\">Batman: The Resurrection of Ra's al Ghul</a> (Batman #670-671, Batman Annual #26, Detective Comics #838-839, Robin Annual #7, Nightwing #138-139)</li><li><a href=\"/batman-rip/49-45155/\">Batman: Batman R.I.P.</a> (Batman #676-683)</li><li><a href=\"/batman-whatever-happened-to-the-caped-crusader/49-33186/\">Batman: Whatever Happened to the Caped Crusader</a> (Batman #686, Detective Comics #853, Secret Origins #36, Secret Origins Special #1, Batman: Black and White #2)</li><li><a href=\"/batman-long-shadows/49-34996/\">Batman: Long Shadows</a> (Batman #687-691)</li><li><a href=\"/batman-life-after-death/49-35013/\">Batman: Life After Death</a> (Batman #692-699)</li><li><a href=\"/batman-time-and-the-batman/49-39230/\">Batman: Time and the Batman</a> (Batman #700-703)</li></ul>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/978/85946-796-105811-1-batman_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/978/85946-796-105811-1-batman_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/978/85946-796-105811-1-batman_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/978/85946-796-105811-1-batman_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/978/85946-796-105811-1-batman_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/978/85946-796-105811-1-batman_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/978/85946-796-105811-1-batman_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2012-07-27 08:13:41",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/796/",
+        "count_of_issues":714,
+        "id":796,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/batman/49-796/",
+        "name":"Batman"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/14/",
+            "id":14,
+            "name":"David Mckay"
+        },
+        "start_year":1940,
+        "description":"Future Comics, four issues published by David McKay in 1940, was an anthology comic (like most of the others in the day) and featured both newspaper reprints such as The Lone Ranger and The Phantom as well as original stories.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/59648-806-92643-1-future-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/59648-806-92643-1-future-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/59648-806-92643-1-future-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/59648-806-92643-1-future-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/59648-806-92643-1-future-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/59648-806-92643-1-future-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/59648-806-92643-1-future-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-25 06:48:23",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/806/",
+        "count_of_issues":4,
+        "id":806,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/future-comics/49-806/",
+        "name":"Future Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/8/",
+            "id":8,
+            "name":"Fiction House"
+        },
+        "start_year":1940,
+        "description":"Planet Comics, launched by Fiction House in 1940 came just fifteen months after their first and most&nbsp;successful&nbsp;title, <a href=\"/jumbo-comics/49-769/\">Jumbo Comics</a>. Like Jumbo, this title was also an anthology, but all the stories revolved around a common science fiction theme. Although it's predecessor lasted for many more issues, Planet Comics was published at a bimonthly rate for most of its run meaning it too ended in 1953 with its 73rd issue. Planet Comics serves as one of the best examples of \"<a href=\"/good-girl-art/12-45911/\">Good Girl Art</a>\", a movement commonly associated with the Golden Age of Comics in which gorgeous women would often be posed to show off their beauty, which many of the covers show. However, Planet also had stories featuring women as the sole heroine such as <a href=\"/mysta-of-the-moon/29-1321/\">Mysta of the Moon</a>&nbsp;or <a href=\"/gale-allen/29-1315/\">Gale Allen</a>. Other popular stories included \"The Space Rangers\" (which merged the Flint Baker and Reef Ryan strips), \"Star Pirate\", \"Mars, God of War\", \"The Red Comet\" and \"The Lost World\" (featuring Hunt Bowman, this was the lead feature for a large part of the book's run).",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/2/27722/719443-planet_1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/2/27722/719443-planet_1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/2/27722/719443-planet_1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/2/27722/719443-planet_1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/2/27722/719443-planet_1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/2/27722/719443-planet_1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/2/27722/719443-planet_1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-26 00:38:10",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/816/",
+        "count_of_issues":73,
+        "id":816,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/planet-comics/49-816/",
+        "name":"Planet Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1940,
+        "description":"The Human Torch (<a href=\"/jim-hammond/29-12605/\">Jim Hammond</a>) was one of the first characters created in the modern day \"Marvel Universe\" having first appeared in Marvel Comics #1, published by Timely. In 1940, he got his own ongoing series kicking off with \"The Human Torch Comics #2\", the elusive first issue actually being <a href=\"/red-raven-comics/49-19964/\">Red Raven Comics</a> #1. More confusion would stem from the fact that #4 (the third issue) read #3 on the cover and there was no cover with a 4 since there were actually two issues labeled #5. Following the early mix-ups with issue numbering however the series began a proper numbering with #6 (which <i>was</i> actually the sixth issue, rather then the 5th which it would have been had the original numbering been kept). The comic went on to last for 38 issues but due to the fact that the first 29 were published at a quarterly rate, it was only in 1954 that the final issue came out.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/229/251258-832-119476-1-human-torch-the_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/229/251258-832-119476-1-human-torch-the_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/229/251258-832-119476-1-human-torch-the_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/229/251258-832-119476-1-human-torch-the_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/229/251258-832-119476-1-human-torch-the_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/229/251258-832-119476-1-human-torch-the_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/229/251258-832-119476-1-human-torch-the_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-26 01:56:43",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/832/",
+        "count_of_issues":38,
+        "id":832,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/the-human-torch/49-832/",
+        "name":"The Human Torch"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/32/",
+            "id":32,
+            "name":"Ace Magazines"
+        },
+        "start_year":1940,
+        "description":"Super-Mystery Comics, published by Ace Magazines, was in print for nine years from July 1940 to July 1949, never really maintaining a consistent publishing rate. Although the series was entitled \"Super-Mystery\", the Super and Mystery seemed to be pushed during&nbsp;separate&nbsp;eras with the first twenty-nine issues featuring Magno, the Magnetic Man on the covers and containing various other superhero tales while the later issues featured such characters as Bert and Sue, Mack Martin and The Unknown with more of a mystery/horror vibe to the covers than superhero feats.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/2/27722/702894-sm_1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/2/27722/702894-sm_1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/2/27722/702894-sm_1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/2/27722/702894-sm_1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/2/27722/702894-sm_1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/2/27722/702894-sm_1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/2/27722/702894-sm_1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-26 03:59:44",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/836/",
+        "count_of_issues":35,
+        "id":836,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/super-mystery-comics/49-836/",
+        "name":"Super-Mystery Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/34/",
+            "id":34,
+            "name":"Fawcett Publications"
+        },
+        "start_year":1940,
+        "description":"Master Comics was an anthology published by Fawcett Publications from 1940 up until 1953 featuring such characters through its run as <a href=\"/master-man/29-5359/\">Master Man</a>, <a href=\"/bulletman/29-6280/\">Bulletman</a> and <a href=\"/bulletgirl/29-1337/\">Bulletgirl</a>, <a href=\"/minute-man/29-1329/\">Minute Man</a>, <a href=\"/nyoka/29-1365/\">Nyoka</a>, <a href=\"/radar/29-61664/\">Radar</a>, <a href=\"/tom-mix/29-2611/\">Tom Mix</a> but it is mostly remembered for the fact that from its 22nd issue up until its last (#133) it featured none other then <a href=\"/freddy-freeman/29-10935/\">Freddy Freeman</a>, who was at the time known as Captain Marvel, Jr., and a member of the <a href=\"/marvel-family/65-19240/\">Marvel Family</a> that would become Fawcett's legacy.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/229/134580-839-110392-1-master-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/229/134580-839-110392-1-master-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/229/134580-839-110392-1-master-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/229/134580-839-110392-1-master-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/229/134580-839-110392-1-master-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/229/134580-839-110392-1-master-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/229/134580-839-110392-1-master-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-26 08:16:45",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/839/",
+        "count_of_issues":133,
+        "id":839,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/master-comics/49-839/",
+        "name":"Master Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/34/",
+            "id":34,
+            "name":"Fawcett Publications"
+        },
+        "start_year":1940,
+        "description":"<p>Whiz Comics #1 does not exist but rather it's non-existence is part of the troubled origins of the <a href=\"/billy-batson/29-2350/\">Captain Marvel</a> character. Fawcett was trying to secure rights to both the name of their character and title of his series but despite releasing two ashcan first issues (<a href=\"/flash-comics/49-37851/\">Flash Comics</a> #1 and <a href=\"/thrill-comics/49-37850/\">Thrill Comics</a> #1) in which their protagonist was named Captain Thunder...none of the rights were secured and so Captain Marvel and Whiz Comics were born. Although Captain Marvel was the feature character, like most comics of the period, it was an anthology featuring several different characters. The series had two third issues, which ended up balancing things out and making the fourth issue the actual fourth comic to bear the title Whiz Comics, a labeling it would keep up until the book's 155th and final issue.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/1618220-2_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/1618220-2_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/1618220-2_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/1618220-2_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/1618220-2_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/1618220-2_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/1618220-2_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-01-15 01:41:37",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/843/",
+        "count_of_issues":148,
+        "id":843,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/whiz-comics/49-843/",
+        "name":"Whiz Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/5/",
+            "id":5,
+            "name":"United Features"
+        },
+        "start_year":1941,
+        "description":"Sparkler Comics began publication in 1941 by United Features, a Golden Age publisher better known for their printing of newspaper strip characters which is why Sparkler Comics became something different when in the first issue (and featured on the cover) they premiered one of their only superhero characters, <a href=\"/spark-man/29-61814/\">Spark Man</a>. Eventually the character would fade out of the series and the focus would return to characters more commonly seen in other United Features publications (such as Abbie N' Slats, The Katzenjammer Kids, Nancy and Sluggo, and Ella Cinders). And by 1954 when the publication ended, it was resumed by a new publisher, who continued the numbering, and renamed <a href=\"/nancy-and-sluggo/49-30941/\">Nancy and Sluggo</a> (who had been featured on every cover of Sparkler Comics since #81, the earliest cover they had been featured on was #17).",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/2/27722/789831-spark_1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/2/27722/789831-spark_1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/2/27722/789831-spark_1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/2/27722/789831-spark_1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/2/27722/789831-spark_1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/2/27722/789831-spark_1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/2/27722/789831-spark_1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-03-04 11:00:38",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/874/",
+        "count_of_issues":120,
+        "id":874,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/sparkler-comics/49-874/",
+        "name":"Sparkler Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/8/",
+            "id":8,
+            "name":"Fiction House"
+        },
+        "start_year":1941,
+        "description":"<p>Rangers of Freedom Comics was a Golden Age anthology comic featuring various war and adventure comics, the primary feature being Rangers of Freedom from which the series took its name. The comic published at a bimonthly rate and after a year (seven issues) the series name shortened and it became <a href=\"/rangers-comics/49-19318/\">Rangers Comics</a> with #8, a title which it kept for many more years until it was cancelled over a decade later.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/1618451-1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/1618451-1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/1618451-1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/1618451-1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/1618451-1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/1618451-1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/1618451-1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-06-05 09:19:15",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/879/",
+        "count_of_issues":6,
+        "id":879,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/rangers-of-freedom-comics/49-879/",
+        "name":"Rangers of Freedom Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/52/",
+            "id":52,
+            "name":"Lev Gleason"
+        },
+        "start_year":1941,
+        "description":"<p>Daredevil Comics, one of Lev Gleason Publication's longest-running comics was a Golden Age anthology comic that took its name from its main feature character <a href=\"/death-defying-devil/29-25994/\">Daredevil</a> (named \"The Death-Defying Devil\" in Dynamite Entertainment comics and \"Red Devil\" at AC Comics as not to be confused with the Marvel character but called by his original name, Daredevil, at Image Comics). Daredevil was eventually phased out of the title in the late forties and for most of the comic's run, apart from the title the character wasn't the main feature anymore and the covers were primarily dominated by The Little Wise Guys.</p><p><b>General Notes</b></p><p>The first issue was actually titled \"Daredevil Battles Hitler #1\".</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/7834/316019-886-123809-1-daredevil-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/7834/316019-886-123809-1-daredevil-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/7834/316019-886-123809-1-daredevil-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/7834/316019-886-123809-1-daredevil-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/7834/316019-886-123809-1-daredevil-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/7834/316019-886-123809-1-daredevil-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/7834/316019-886-123809-1-daredevil-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-06-14 09:16:17",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/886/",
+        "count_of_issues":116,
+        "id":886,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/daredevil-comics/49-886/",
+        "name":"Daredevil Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/32/",
+            "id":32,
+            "name":"Ace Magazines"
+        },
+        "start_year":1941,
+        "description":"<p>Four Favorites was an inconsistently published anthology comic series that primarily focused on four specific characters per issue (the \"four favorites\"). The original line-up was all superheroes with \"<a href=\"/magno/29-4110/\">Magno</a> (and <a href=\"/davey/29-61258/\">Davey</a>)\", \"<a href=\"/lash-lightning/29-34148/\">Lash Lightning</a>\", \"<a href=\"/vulcan/29-18744/\">Vulcan</a>\" and \"<a href=\"/raven/29-6537/\">The Raven</a>\". With the fourth issue, Vulcan was switched out for <a href=\"/soldier-unknown/29-61008/\">Unknown Soldier</a> (predates the DC character of the same name) and in the following issue The Raven was replaced by <a href=\"/captain-courageous/29-18821/\">Captain Courageous</a>. The Flag took Captain Courageous' spot in the next issue, but with #7 Capt. Courageous returned and the line-up remained consistent up until the 21st issue when Unknown Soldier was replaced by an unrelated character called \"<a href=\"/the-unknown/29-76050/\">The Unknown</a>\". In #24, Lightning was replaced with <a href=\"/hap-hazard/29-75788/\">Hap Hazard</a> by which point the comic no longer retained a consistent genre and expanded into several. With #26, the last of the original features was cut and the line-up from that point on changed every issue until it settled on four characters for the last three issues but superheroes were no longer featured in the publication and when the series ended in 1947, it was a teen humor publication. Two issues followed #32, under different titles: #33 was called <a href=\"/crime-must-pay-the-penalty/49-40505/\">Crime Must Pay the Penalty</a> (which became its own long-running series) and #34 was titled <a href=\"/four-teeners/49-32020/\">Four Teeners</a>.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/816386-1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/816386-1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/816386-1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/816386-1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/816386-1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/816386-1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/816386-1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-06-05 14:04:19",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/893/",
+        "count_of_issues":32,
+        "id":893,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/four-favorites/49-893/",
+        "name":"Four Favorites"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/34/",
+            "id":34,
+            "name":"Fawcett Publications"
+        },
+        "start_year":1941,
+        "description":"<p>Captain Marvel Adventures was one of several ongoings during the Golden Age starring Fawcett's Captain Marvel, who was more popular than Superman in the late 40's and early 50's. The series told the adventures of young Billy Batson, who by speaking the magic word \"SHAZAM!\" would receive super powers. Trouble was, these powers were kind of similar to those attributed to the Man of Steel. Depite the fact that Captain Marvel's stories tended to have a lighter and more humourous element to them, DC was not impressed. After a protracted plagiarism lawsuit, which DC eventually won, Cap and the rest of the Marvel Family disappeared from the comic world for about 20 years. Funnily enough, they would re-appear at DC.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/3125/293395-898-122082-1-captain-marvel-adven_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/3125/293395-898-122082-1-captain-marvel-adven_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/3125/293395-898-122082-1-captain-marvel-adven_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/3125/293395-898-122082-1-captain-marvel-adven_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/3125/293395-898-122082-1-captain-marvel-adven_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/3125/293395-898-122082-1-captain-marvel-adven_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/3125/293395-898-122082-1-captain-marvel-adven_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-07-03 15:49:50",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/898/",
+        "count_of_issues":150,
+        "id":898,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/captain-marvel-adventures/49-898/",
+        "name":"Captain Marvel Adventures"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/55/",
+            "id":55,
+            "name":"Double A Comics"
+        },
+        "start_year":1941,
+        "description":"<p>Freelance Comics #50 continues into <a href=\"/freelance-robin-hood-and-company-comics/49-11617/\">Freelance Robin Hood and Company Comics</a> #51 which was the title it ran under for four issues, until it returned to the original title with #55 and ended with #59.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/1796102-1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/1796102-1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/1796102-1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/1796102-1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/1796102-1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/1796102-1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/1796102-1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-07-03 16:22:02",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/908/",
+        "count_of_issues":13,
+        "id":908,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/freelance-comics/49-908/",
+        "name":"Freelance Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/57/",
+            "id":57,
+            "name":"Gilberton Publications"
+        },
+        "start_year":1941,
+        "description":"In\n 1941, Albert E. Kanter introduced <a href=\"/classic-comics/49-22552/\"> Classic Comics</a>, later renamed \nClassics Illustrated. Kanter\u2019s idea was to use the comic form to make \ngreat literature accessible to readers who might never otherwise make \nthe effort. Whether his idea represented a watering down of the \nclassics, as some critics claimed, it was an amazingly popular move. \nEach of the 169 comics in this series were reprinted numerous times, \nwith 23rd printings being relatively common. Their popularity even \nextended to schools, where the colorful, well-written adaptations must \nhave seemed a welcome alternative to reading lengthy texts.<br /><br />Kanter\n later introduced <a href=\"/classics-illustrated-junior/49-28659/\">   Classics Illustrated Junior</a>, adapting children\u2019s \nliterature for younger readers. The series also gave rise to numerous \nimitations over the years.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/77/321316-914-124408-1-classics-illustrated_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/77/321316-914-124408-1-classics-illustrated_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/77/321316-914-124408-1-classics-illustrated_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/77/321316-914-124408-1-classics-illustrated_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/77/321316-914-124408-1-classics-illustrated_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/77/321316-914-124408-1-classics-illustrated_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/77/321316-914-124408-1-classics-illustrated_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-07-03 16:45:00",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/914/",
+        "count_of_issues":168,
+        "id":914,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/classics-illustrated/49-914/",
+        "name":"Classics Illustrated"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1942,
+        "description":"<p>Boy Commandos was a Golden Age anthology title published by DC Comics in the 1940's, each issue containing a few stories of the titular group as well as the occasional filler or short story. Created by Jack Kirby and Joe Simon, Boy Commandos became the third best-selling title at DC with over a million copies a month. Originally the book featured the boys and their adult leader, Rip Carter fighting in World War II but following the end of the war the series continued but no longer as a war comic. Near the end of its run the line-up of the team began to change and finally the series ended in 1949 after a run of thirty-six issues.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/45206-921-52350-1-boy-commandos_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/45206-921-52350-1-boy-commandos_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/45206-921-52350-1-boy-commandos_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/45206-921-52350-1-boy-commandos_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/45206-921-52350-1-boy-commandos_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/45206-921-52350-1-boy-commandos_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/45206-921-52350-1-boy-commandos_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-08-09 05:01:31",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/921/",
+        "count_of_issues":36,
+        "id":921,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/boy-commandos/49-921/",
+        "name":"Boy Commandos"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1942,
+        "description":"<p>Picture Stories from the Bible (Old Testament) was a Golden Age anthology comic released by DC Comics in the early 40's that ran for four issues featuring such Biblical characters as Moses, Joseph and Saul but due to it being copyrighted and published by M.C. Gaines it would later be reprinted under his publisher EC Comics. It also had a counterpart featuring comic retellings of stories from the <a href=\"/picture-stories-from-the-bible-new-testament/49-988/\">New Testament</a>.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/1955652-1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/1955652-1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/1955652-1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/1955652-1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/1955652-1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/1955652-1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/1955652-1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-08-09 13:15:43",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/923/",
+        "count_of_issues":4,
+        "id":923,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/picture-stories-from-the-bible-old-testament/49-923/",
+        "name":"Picture Stories from the Bible (Old Testament)"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/4/",
+            "id":4,
+            "name":"Dell"
+        },
+        "start_year":1942,
+        "description":"<p>Four Color Comics (or just Four Color) is a series that ran from 1942 and ended in 1962. It is known that the series had well over 1,000 issues, but the precise number of original issues has not been determined due to skipped issues and reprints. The series finally came to an end with Issue #1354 and so at the moment the series holds the record for having the most issues published of any American comic book series, as its nearest rivals have recently been cancelled for the sake of a relaunch (with only <a href=\"/action-comics/49-18005/\">Action Comics</a> ever surpassing 900 issues). The series is still surpassed in length by several British comic anthologies and other European comics.</p><p><b>List of Unpublished Issues</b></p><ul><li>1217</li><li>1228</li><li>1277</li><li>1292</li><li>1314-1327</li><li>1329</li><li>1331</li><li>1334</li><li>1338-1340</li><li>1342-1347</li><li>1351-1353</li></ul><p>Unlike most comics, the title found in Four Color's indicia change nearly every issue to reflect the title found on the cover. For example, <a href=\"/four-color-mister-ed-the-talking-horse/37-90288/\">Four Color #1295</a>, which features the television character <a href=\"/mister-ed/29-67764/\">Mister Ed</a>, is listed in the indicia as \"Mister Ed, the Talking Horse #1295,\" even though none of the previous issues featured Mister Ed. To avoid confusion, the titles of the comics for this series will be that found in the indicia.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/3125/201477-927-84997-1-four-color_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/3125/201477-927-84997-1-four-color_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/3125/201477-927-84997-1-four-color_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/3125/201477-927-84997-1-four-color_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/3125/201477-927-84997-1-four-color_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/3125/201477-927-84997-1-four-color_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/3125/201477-927-84997-1-four-color_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2012-08-16 20:28:52",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/927/",
+        "count_of_issues":1321,
+        "id":927,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/four-color/49-927/",
+        "name":"Four Color"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/52/",
+            "id":52,
+            "name":"Lev Gleason"
+        },
+        "start_year":1942,
+        "description":"Continues from   <a href=\"/captain-battle-jr/49-7412/\">Captain Battle</a><a href=\"/captain-battle-jr/49-7412/\">  Jr</a>.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/2/27722/937979-boy_1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/2/27722/937979-boy_1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/2/27722/937979-boy_1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/2/27722/937979-boy_1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/2/27722/937979-boy_1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/2/27722/937979-boy_1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/2/27722/937979-boy_1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-04-30 09:06:04",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/942/",
+        "count_of_issues":112,
+        "id":942,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/boy-comics/49-942/",
+        "name":"Boy Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/52/",
+            "id":52,
+            "name":"Lev Gleason"
+        },
+        "start_year":1942,
+        "description":"<p>Numbering continues from <a href=\"/silver-streak-comics/49-25365/\">Silver Streak Comics</a> #21.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/1011229-22_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/1011229-22_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/1011229-22_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/1011229-22_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/1011229-22_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/1011229-22_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/1011229-22_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-08-13 11:59:34",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/943/",
+        "count_of_issues":126,
+        "id":943,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/crime-does-not-pay/49-943/",
+        "name":"Crime Does Not Pay"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1942,
+        "description":"<p>Comedy Comics was an anthology published during the 1940's, beginning with #9 (the first eight issues were published in the superhero title <a href=\"/daring-mystery-comics/49-19070/\">Daring Mystery Comics</a>), by its sixth issue the comic began to feature Super Rabbit (who starred in several 1940's Timely Comics). As World War II was going on at the time, he would of course occasionally defeat Nazis although he would also stop regular criminals. After holding onto the title for twenty issues (and four years), with #34, Margie became the feature and with #35 the series changed its name to reflect this, becoming <a href=\"/margie-comics/49-1113/\">Margie Comics</a>.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/229/546927-1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/229/546927-1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/229/546927-1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/229/546927-1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/229/546927-1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/229/546927-1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/229/546927-1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-09-11 09:15:34",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/944/",
+        "count_of_issues":26,
+        "id":944,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/comedy-comics/49-944/",
+        "name":"Comedy Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1942,
+        "description":"After issue 15 the series continued as <a href=\"/funny-tunes/49-1006/\">     Funny Tunes</a> and then resumes again at 16 without a break in the sequence. The series then continued as <a href=\"/cindy-comics/49-1141/\">    Cindy Comics</a> (27-38) for 12 issues, <a href=\"/cindy-smith/49-1346/\">   Cindy Smith</a> (39-40) for 2 issues, finally into <a href=\"/crime-cant-win/49-30425/\">  Crime Can't Win</a> 41(1)-12.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/61880-946-94875-1-krazy-komics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/61880-946-94875-1-krazy-komics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/61880-946-94875-1-krazy-komics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/61880-946-94875-1-krazy-komics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/61880-946-94875-1-krazy-komics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/61880-946-94875-1-krazy-komics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/61880-946-94875-1-krazy-komics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2009-12-14 14:41:22",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/946/",
+        "count_of_issues":26,
+        "id":946,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/krazy-komics/49-946/",
+        "name":"Krazy Komics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/31/",
+            "id":31,
+            "name":"Marvel"
+        },
+        "start_year":1942,
+        "description":"",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/2/27722/836240-terrytoon_1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/2/27722/836240-terrytoon_1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/2/27722/836240-terrytoon_1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/2/27722/836240-terrytoon_1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/2/27722/836240-terrytoon_1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/2/27722/836240-terrytoon_1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/2/27722/836240-terrytoon_1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2009-12-17 19:26:21",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/948/",
+        "count_of_issues":59,
+        "id":948,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/terry-toons-comics/49-948/",
+        "name":"Terry-Toons Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/34/",
+            "id":34,
+            "name":"Fawcett Publications"
+        },
+        "start_year":1942,
+        "description":"#34 does not exist, rather the issue with 35 on the cover says 34 on the interior.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/5/57888/1768831-captain_marvel_jr._vol_1_1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/5/57888/1768831-captain_marvel_jr._vol_1_1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/5/57888/1768831-captain_marvel_jr._vol_1_1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/5/57888/1768831-captain_marvel_jr._vol_1_1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/5/57888/1768831-captain_marvel_jr._vol_1_1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/5/57888/1768831-captain_marvel_jr._vol_1_1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/5/57888/1768831-captain_marvel_jr._vol_1_1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-04-12 14:09:24",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/953/",
+        "count_of_issues":105,
+        "id":953,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/captain-marvel-jr/49-953/",
+        "name":"Captain Marvel, Jr."
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1943,
+        "description":"All Surprise ran during 1943 through 1946 for 12 issues. This series then continued into <a href=\"/jeanie-comics/49-1143/\"> Jeanie Comics</a>.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/47575-972-56959-1-all-surprise_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/47575-972-56959-1-all-surprise_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/47575-972-56959-1-all-surprise_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/47575-972-56959-1-all-surprise_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/47575-972-56959-1-all-surprise_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/47575-972-56959-1-all-surprise_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/47575-972-56959-1-all-surprise_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-03-01 06:54:32",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/972/",
+        "count_of_issues":12,
+        "id":972,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/all-surprise-comics/49-972/",
+        "name":"All Surprise Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/34/",
+            "id":34,
+            "name":"Fawcett Publications"
+        },
+        "start_year":1943,
+        "description":"<p>Don Winslow of the Navy was originally a comic strip (debuting on March 5, 1934) and while several comics would reprint the strips in the 30's and 40's, Fawcett launched this series in 1943 featuring the publication of original Don Winslow stories in the common anthology style of numerous short stories, the majority of which focused on Don Winslow. The strip was intended to excite kids about life in the military, hopefully leading them to later seek a place in the US Armed Forces. Fawcett's comic lasted up until 1948 when it ceased publication after sixty-four issues. The book would later see two brief revivals before it ended; the first was in 1951 when Fawcett briefly resurrected the series for five more issues, the second came in 1955 when Charlton printed reprints of the series but this only lasted for four issues and after that the title's compiled numbering was continued in the Charlton series, <a href=\"/fightin-navy/49-36532/\">Fightin' Navy</a>.</p><p><b>Publishers</b></p><ul><li>#01-69: <a href=\"/fawcett-publications/57-34/\">Fawcett Publications</a></li><li>#70-73: <a href=\"/charlton/57-125/\">Charlton</a></li></ul>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/59223-978-92218-1-don-winslow-of-the-n_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/59223-978-92218-1-don-winslow-of-the-n_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/59223-978-92218-1-don-winslow-of-the-n_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/59223-978-92218-1-don-winslow-of-the-n_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/59223-978-92218-1-don-winslow-of-the-n_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/59223-978-92218-1-don-winslow-of-the-n_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/59223-978-92218-1-don-winslow-of-the-n_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-11-13 08:28:23",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/978/",
+        "count_of_issues":59,
+        "id":978,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/don-winslow-of-the-navy/49-978/",
+        "name":"Don Winslow of the Navy"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1944,
+        "description":"<p><b>Publishers</b></p><p>#1-2: DC Comics</p><p>#3: EC</p><p>The Bible has heroes, villains, and amazing feats, so its content proved well suited to the comic medium. The first DC series to feature biblical tales had appeared in 1942. Titled Picture Stories from the Bible, it had adapted stories from the Old Testament including those of Moses, Abraham, the prophet Elijah and the famous David and Goliath. The 1944 version, labeled \"New Testament Edition\" on the cover, told tales from the life of Christ. Don Cameron illustrated the series, which offered 45pages of religious education for just 10c.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/61369-988-94364-1-picture-stories-from_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/61369-988-94364-1-picture-stories-from_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/61369-988-94364-1-picture-stories-from_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/61369-988-94364-1-picture-stories-from_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/61369-988-94364-1-picture-stories-from_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/61369-988-94364-1-picture-stories-from_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/61369-988-94364-1-picture-stories-from_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2012-01-19 12:54:33",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/988/",
+        "count_of_issues":3,
+        "id":988,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/picture-stories-from-the-bible-new-testament/49-988/",
+        "name":"Picture Stories from the Bible (New Testament)"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/15/",
+            "id":15,
+            "name":"Quality Comics"
+        },
+        "start_year":1944,
+        "description":"Numbering continued from <a href=\"http://www.comicvine.com/uncle-sam-quarterly/49-25975/\">Uncle Sam Quarterly</a> #8&nbsp;<br />&nbsp;<br />Series numbering continues as \"Blackhawk\" (DC, 1957), starting with issue #108",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/2/27722/748508-blackhawk_9_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/2/27722/748508-blackhawk_9_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/2/27722/748508-blackhawk_9_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/2/27722/748508-blackhawk_9_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/2/27722/748508-blackhawk_9_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/2/27722/748508-blackhawk_9_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/2/27722/748508-blackhawk_9_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-10-01 08:31:43",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/989/",
+        "count_of_issues":99,
+        "id":989,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/blackhawk/49-989/",
+        "name":"Blackhawk"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1944,
+        "description":"<p>Comic Capers was an anthology series featuring anthropomorphic animal characters such as Ziggy Pig, Silly Seal and Super Rabbit that ran from 1944-1946 at a seasonal publishing rate, lasting a total of six issues. The featured characters in the series also had their own titles published alongside it: <a href=\"/ziggy-pig-silly-seal-comics/49-1013/\">Ziggy Pig-Silly Seal Comics</a> and <a href=\"/super-rabbit/49-32169/\">Super Rabbit</a>.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/5/54426/1063482-comic_capers_1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/5/54426/1063482-comic_capers_1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/5/54426/1063482-comic_capers_1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/5/54426/1063482-comic_capers_1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/5/54426/1063482-comic_capers_1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/5/54426/1063482-comic_capers_1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/5/54426/1063482-comic_capers_1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-08-16 03:36:21",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1003/",
+        "count_of_issues":6,
+        "id":1003,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/comic-capers/49-1003/",
+        "name":"Comic Capers"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1944,
+        "description":"&nbsp;Funny Tunes numbers from 16 to 23 for a total of 8 issues. Series numbering continued from <a href=\"/krazy-komics/49-946/\">  Krazy Komics</a> and continues into <a href=\"/oscar-comics/49-1146/\"> Oscar Comics</a> with issues 24(1) ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/57751-1006-90746-1-funny-tunes_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/57751-1006-90746-1-funny-tunes_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/57751-1006-90746-1-funny-tunes_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/57751-1006-90746-1-funny-tunes_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/57751-1006-90746-1-funny-tunes_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/57751-1006-90746-1-funny-tunes_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/57751-1006-90746-1-funny-tunes_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2009-12-14 12:54:12",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1006/",
+        "count_of_issues":8,
+        "id":1006,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/funny-tunes/49-1006/",
+        "name":"Funny Tunes"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1944,
+        "description":"Ideal Comics ran during 1944 through 1946 for 4 issues. This series then continued into Willie Comics. ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/57862-1007-90857-1-ideal-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/57862-1007-90857-1-ideal-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/57862-1007-90857-1-ideal-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/57862-1007-90857-1-ideal-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/57862-1007-90857-1-ideal-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/57862-1007-90857-1-ideal-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/57862-1007-90857-1-ideal-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-02-03 08:30:52",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1007/",
+        "count_of_issues":4,
+        "id":1007,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/ideal-comics/49-1007/",
+        "name":"Ideal Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1944,
+        "description":"<p>Tessie the Typist was an ongoing romance/humor anthology published by Marvel in the forties, from 1944-1949 for twenty-three issues. The numbering was then continued in <a href=\"/tiny-tessie/49-30496/\">Tiny Tessie</a> for a single issue and <a href=\"/real-experiences/49-30475/\">Real Experiences</a> for another issue. Tessie the Typist was one of the less-successful books of its kind, longer running comics featuring other girls included: <a href=\"/millie-the-model/49-19441/\">Millie the Model</a>, <a href=\"/hedy-de-vine-comics/49-1142/\">Hedy De Vine</a>/<a href=\"/hedy-of-hollywood-comics/49-1353/\">Hedy of Hollywood</a>, <a href=\"/nellie-the-nurse/49-1061/\">Nellie the Nurse</a> and <a href=\"/patsy-walker/49-1062/\">Patsy Walker</a>.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/927188-1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/927188-1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/927188-1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/927188-1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/927188-1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/927188-1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/927188-1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-10-09 10:23:12",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1012/",
+        "count_of_issues":23,
+        "id":1012,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/tessie-the-typist/49-1012/",
+        "name":"Tessie the Typist"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1944,
+        "description":"Ziggy Pig And Silly Seal Comics ran during 1944 through 1946 for 6 issues.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/48383-1013-57855-1-ziggy-pig-and-silly-_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/48383-1013-57855-1-ziggy-pig-and-silly-_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/48383-1013-57855-1-ziggy-pig-and-silly-_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/48383-1013-57855-1-ziggy-pig-and-silly-_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/48383-1013-57855-1-ziggy-pig-and-silly-_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/48383-1013-57855-1-ziggy-pig-and-silly-_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/48383-1013-57855-1-ziggy-pig-and-silly-_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-03-04 07:43:22",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1013/",
+        "count_of_issues":6,
+        "id":1013,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/ziggy-pig-silly-seal-comics/49-1013/",
+        "name":"Ziggy Pig-Silly Seal Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/84/",
+            "id":84,
+            "name":"Magazine Enterprises"
+        },
+        "start_year":1944,
+        "description":"",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/66021-1032-99018-1-a-1-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/66021-1032-99018-1-a-1-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/66021-1032-99018-1-a-1-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/66021-1032-99018-1-a-1-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/66021-1032-99018-1-a-1-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/66021-1032-99018-1-a-1-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/66021-1032-99018-1-a-1-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-07-12 00:30:26",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1032/",
+        "count_of_issues":139,
+        "id":1032,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/a-1-comics/49-1032/",
+        "name":"A-1 Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1944,
+        "description":"<p>Gay Comics was an anthology in the 1940's by Marvel's publishing predecessor Timely featuring such characters as Millie the Model, Tessie the Typist and Nellie the Nurse. Although <a href=\"/gay-comics/49-30453/\">Gay Comics</a> #1 was released earlier in the year (as its own volume), this series began with #18 with no clue as to where the first seventeen issues came from. Gay Comics then continued for twenty-three issues until it ended with #40, continuing it's numbering in <a href=\"/honeymoon/49-30458/\">Honeymoon</a> #41.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/59196-1038-92191-1-gay-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/59196-1038-92191-1-gay-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/59196-1038-92191-1-gay-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/59196-1038-92191-1-gay-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/59196-1038-92191-1-gay-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/59196-1038-92191-1-gay-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/59196-1038-92191-1-gay-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-08-01 07:27:55",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1038/",
+        "count_of_issues":23,
+        "id":1038,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/gay-comics/49-1038/",
+        "name":"Gay Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/89/",
+            "id":89,
+            "name":"Ec"
+        },
+        "start_year":1945,
+        "description":"",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/61365-1041-94360-1-picture-stories-from_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/61365-1041-94360-1-picture-stories-from_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/61365-1041-94360-1-picture-stories-from_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/61365-1041-94360-1-picture-stories-from_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/61365-1041-94360-1-picture-stories-from_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/61365-1041-94360-1-picture-stories-from_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/61365-1041-94360-1-picture-stories-from_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2009-01-08 15:14:10",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1041/",
+        "count_of_issues":4,
+        "id":1041,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/picture-stories-from-american-history/49-1041/",
+        "name":"Picture Stories from American History"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1945,
+        "description":"<p>Real Screen Comics was an anthology series published by DC from 1945 to 1959 over the course of 127 issues. Featured throughout the series run were the characters The Fox and The Crow and although they were the main feature, other stories were published in the series as well including \"Flippity and Flop\" and \"Tito and His Burrito\". The series title is a reference to \"Screen Gems\" the animation studio that existed from 1940-1946 wherein characters like those featured in the aforementioned comics originally came into being through the form of cartoons.</p><p><b>General Notes</b></p><p>Real Screen <i>Comics</i> #1 does not exist, for the first issue, see <a href=\"/real-screen-funnies/49-20851/\">Real Screen Funnies</a>.</p><p>After #128, the series changed its name to <a href=\"/tv-screen-cartoons/49-1997/\">TV Screen Cartoons</a> under which it lasted for another ten issues.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/47251-1043-56618-1-real-screen-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/47251-1043-56618-1-real-screen-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/47251-1043-56618-1-real-screen-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/47251-1043-56618-1-real-screen-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/47251-1043-56618-1-real-screen-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/47251-1043-56618-1-real-screen-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/47251-1043-56618-1-real-screen-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-09-04 12:15:46",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1043/",
+        "count_of_issues":127,
+        "id":1043,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/real-screen-comics/49-1043/",
+        "name":"Real Screen Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1945,
+        "description":"Funny Frolics ran during 1945 through 1946 for 5 issues. ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/59190-1056-92185-1-funny-frolics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/59190-1056-92185-1-funny-frolics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/59190-1056-92185-1-funny-frolics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/59190-1056-92185-1-funny-frolics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/59190-1056-92185-1-funny-frolics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/59190-1056-92185-1-funny-frolics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/59190-1056-92185-1-funny-frolics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-02-15 13:59:02",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1056/",
+        "count_of_issues":5,
+        "id":1056,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/funny-frolics/49-1056/",
+        "name":"Funny Frolics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/75/",
+            "id":75,
+            "name":"Atlas"
+        },
+        "start_year":1945,
+        "description":"Georgie Comics ran during 1945 through 1952 for 19 issues. This series then continued into <a href=\"/georgie-and-judy-comics/49-1266/\">  Georgie And Judy</a>.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/57760-1057-90755-1-georgie-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/57760-1057-90755-1-georgie-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/57760-1057-90755-1-georgie-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/57760-1057-90755-1-georgie-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/57760-1057-90755-1-georgie-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/57760-1057-90755-1-georgie-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/57760-1057-90755-1-georgie-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-04-08 10:59:39",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1057/",
+        "count_of_issues":19,
+        "id":1057,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/georgie-comics/49-1057/",
+        "name":"Georgie Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/31/",
+            "id":31,
+            "name":"Marvel"
+        },
+        "start_year":1945,
+        "description":"Krazy Krow ran in 1945 for only 3 issues. ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/61900-1059-94895-1-krazy-krow_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/61900-1059-94895-1-krazy-krow_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/61900-1059-94895-1-krazy-krow_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/61900-1059-94895-1-krazy-krow_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/61900-1059-94895-1-krazy-krow_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/61900-1059-94895-1-krazy-krow_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/61900-1059-94895-1-krazy-krow_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-01-06 08:42:01",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1059/",
+        "count_of_issues":3,
+        "id":1059,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/krazy-krow/49-1059/",
+        "name":"Krazy Krow"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/31/",
+            "id":31,
+            "name":"Marvel"
+        },
+        "start_year":1945,
+        "description":"",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/57550-1061-90545-1-nellie-the-nurse_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/57550-1061-90545-1-nellie-the-nurse_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/57550-1061-90545-1-nellie-the-nurse_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/57550-1061-90545-1-nellie-the-nurse_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/57550-1061-90545-1-nellie-the-nurse_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/57550-1061-90545-1-nellie-the-nurse_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/57550-1061-90545-1-nellie-the-nurse_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-05-03 10:38:57",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1061/",
+        "count_of_issues":36,
+        "id":1061,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/nellie-the-nurse/49-1061/",
+        "name":"Nellie the Nurse"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/31/",
+            "id":31,
+            "name":"Marvel"
+        },
+        "start_year":1945,
+        "description":"<p>Patsy Walker, a romance character who first appeared in 1944, got her own solo title only months later. Starting in 1945 as an original Timely Golden Age comic, the very popular Patsy Walker ran through 1965 for 124 issues. Although Patsy had always starred in romance and humor comics up until that point, in 1965 (the same year her ongoing ended) she was first incorporated into the Marvel Universe in <a href=\"/fantastic-four-annual/49-2129/\">Fantastic Four Annual</a> #3. However, it would be another eleven years before she first appeared as \"Hellcat\", her super-heroine persona in the modern-day Marvel canon.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/1995068-1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/1995068-1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/1995068-1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/1995068-1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/1995068-1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/1995068-1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/1995068-1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-09-05 13:07:53",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1062/",
+        "count_of_issues":124,
+        "id":1062,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/patsy-walker/49-1062/",
+        "name":"Patsy Walker"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1945,
+        "description":"<p>Silly Tunes was one of several Golden Age anthologies published by Timely featuring anthropomorphic characters such as Silly Seal, Ziggy Pig, Super Rabbit and Krazy Krow who were all simultaneously appearing in their own comics. The series lasted for seven issues over the course of two years until it ended in 1947.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/58243-1063-91238-1-silly-tunes_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/58243-1063-91238-1-silly-tunes_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/58243-1063-91238-1-silly-tunes_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/58243-1063-91238-1-silly-tunes_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/58243-1063-91238-1-silly-tunes_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/58243-1063-91238-1-silly-tunes_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/58243-1063-91238-1-silly-tunes_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-12-25 10:11:28",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1063/",
+        "count_of_issues":7,
+        "id":1063,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/silly-tunes/49-1063/",
+        "name":"Silly Tunes"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/34/",
+            "id":34,
+            "name":"Fawcett Publications"
+        },
+        "start_year":1945,
+        "description":"<a href=\"/marvel-family/65-19240/\">The Marvel Family</a>&nbsp;is a term that has been attached to the family of characters similar in appearance and powers to the original <a href=\"/captain-marvel/29-2350/\">Captain Marvel</a>&nbsp;(this group primarily consists of Mary Marvel, Freddy Freeman and of course Captain Marvel), a character that first appeared in Fawcett's Whiz Comics. About five years after his first appearance, and a few years after the other \"Marvel Family\" character's premieres, the Marvel Family volume was born (December, 1945). Since Captain Marvel was (at the time) the top-selling comic out there, it was no surprise that the Marvel Family series also had some success and it lasted for a little over eight years but ended with a total of 89 issues (January, 1954).",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/251573-1066-119538-1-marvel-family-the_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/251573-1066-119538-1-marvel-family-the_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/251573-1066-119538-1-marvel-family-the_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/251573-1066-119538-1-marvel-family-the_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/251573-1066-119538-1-marvel-family-the_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/251573-1066-119538-1-marvel-family-the_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/251573-1066-119538-1-marvel-family-the_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2009-08-24 18:22:00",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1066/",
+        "count_of_issues":89,
+        "id":1066,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/the-marvel-family/49-1066/",
+        "name":"The Marvel Family"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/34/",
+            "id":34,
+            "name":"Fawcett Publications"
+        },
+        "start_year":1945,
+        "description":"Issue #1 published as <a href=\"/jungle-girl/49-38373/\">Jungle Girl</a>.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/77/509146-425_4_002_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/77/509146-425_4_002_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/77/509146-425_4_002_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/77/509146-425_4_002_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/77/509146-425_4_002_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/77/509146-425_4_002_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/77/509146-425_4_002_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-01-18 05:20:16",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1068/",
+        "count_of_issues":64,
+        "id":1068,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/nyoka-the-jungle-girl/49-1068/",
+        "name":"Nyoka the Jungle Girl"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/37/",
+            "id":37,
+            "name":"Hillman"
+        },
+        "start_year":1945,
+        "description":"Numbering continued from&nbsp; Air Fighters Comics (1941), which ceased at #22 (vol 2, #10). Inidica for first issue of Airboy Comics calls it vol 2 #11, making it issue #23 in numbering sequence. Last issue of AIrboy Comics was #111 (vol 10, #4), May 1953.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/2/27722/938023-airboy_11_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/2/27722/938023-airboy_11_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/2/27722/938023-airboy_11_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/2/27722/938023-airboy_11_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/2/27722/938023-airboy_11_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/2/27722/938023-airboy_11_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/2/27722/938023-airboy_11_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2012-05-29 01:25:57",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1069/",
+        "count_of_issues":82,
+        "id":1069,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/airboy-comics/49-1069/",
+        "name":"Airboy Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/45/",
+            "id":45,
+            "name":"Prize"
+        },
+        "start_year":1945,
+        "description":"<p>Treasure Comics was an anthology series from Prize Comics, published from 1945-1947, it commonly featured stories including Paul Bunyan, Arabian Knight, Marco Polo, Dr. Styx and The Treasure Keeper.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/61739-1071-94734-1-treasure-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/61739-1071-94734-1-treasure-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/61739-1071-94734-1-treasure-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/61739-1071-94734-1-treasure-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/61739-1071-94734-1-treasure-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/61739-1071-94734-1-treasure-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/61739-1071-94734-1-treasure-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-08-16 03:54:21",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1071/",
+        "count_of_issues":12,
+        "id":1071,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/treasure-comics/49-1071/",
+        "name":"Treasure Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1946,
+        "description":"",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/64932-1097-97929-1-real-fact-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/64932-1097-97929-1-real-fact-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/64932-1097-97929-1-real-fact-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/64932-1097-97929-1-real-fact-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/64932-1097-97929-1-real-fact-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/64932-1097-97929-1-real-fact-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/64932-1097-97929-1-real-fact-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-03-17 06:14:05",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1097/",
+        "count_of_issues":21,
+        "id":1097,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/real-fact-comics/49-1097/",
+        "name":"Real Fact Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/4/",
+            "id":4,
+            "name":"Dell"
+        },
+        "start_year":1946,
+        "description":"Issues #65-108 are indexed in \"<a href=\"/new-funnies/49-26479/\"> New Funnies</a>\" ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/3125/903874-wlnf109_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/3125/903874-wlnf109_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/3125/903874-wlnf109_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/3125/903874-wlnf109_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/3125/903874-wlnf109_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/3125/903874-wlnf109_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/3125/903874-wlnf109_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-28 20:42:48",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1098/",
+        "count_of_issues":179,
+        "id":1098,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/walter-lantz-new-funnies/49-1098/",
+        "name":"Walter Lantz New Funnies"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/101/",
+            "id":101,
+            "name":"Archie"
+        },
+        "start_year":1946,
+        "description":"Numbering continues from <a href=\"/black-hood-comics/49-19398/\">Black Hood Comics</a> #19.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/925864-20_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/925864-20_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/925864-20_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/925864-20_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/925864-20_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/925864-20_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/925864-20_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-08-29 21:17:56",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1101/",
+        "count_of_issues":367,
+        "id":1101,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/laugh-comics/49-1101/",
+        "name":"Laugh Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1946,
+        "description":"Continued from <a href=\"/movie-tunes-comics/49-30471/\">  Movie Tunes Comics</a>, Frankie Comics ran during 1946 through 1949 for 8 issues. This series then continued back into <a href=\"/frankie-and-lana/49-1197/\"> Frankie And Lana</a>. ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/5/54426/1133040-851_o_1__icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/5/54426/1133040-851_o_1__small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/5/54426/1133040-851_o_1__tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/5/54426/1133040-851_o_1__small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/5/54426/1133040-851_o_1__thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/5/54426/1133040-851_o_1__screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/5/54426/1133040-851_o_1__super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-02-18 13:28:07",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1111/",
+        "count_of_issues":8,
+        "id":1111,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/frankie-comics/49-1111/",
+        "name":"Frankie Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/75/",
+            "id":75,
+            "name":"Atlas"
+        },
+        "start_year":1946,
+        "description":"Continued from <a href=\"/comedy-comics/49-944/\">   Comedy Comics</a>, Margie Comics ran during 1946 through 1949 for 15 issues. This series then continued into <a href=\"/reno-browne-hollywoods-greatest-cowgirl/49-30598/\">  Reno Browne, Hollywood's Greatest Cowgirl</a>.&nbsp;",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/62136-1113-95131-1-margie-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/62136-1113-95131-1-margie-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/62136-1113-95131-1-margie-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/62136-1113-95131-1-margie-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/62136-1113-95131-1-margie-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/62136-1113-95131-1-margie-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/62136-1113-95131-1-margie-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-03-30 11:10:07",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1113/",
+        "count_of_issues":15,
+        "id":1113,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/margie-comics/49-1113/",
+        "name":"Margie Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1946,
+        "description":"Although the first four issues were published by Timely, afterwards the series was switched over to the publisher, St. John. <br />&nbsp; <br />Series continues  as \"Paul Terry's Mighty Mouse\" (St. John, 1955) starting with issue #62. ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/62205-1114-95200-1-mighty-mouse_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/62205-1114-95200-1-mighty-mouse_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/62205-1114-95200-1-mighty-mouse_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/62205-1114-95200-1-mighty-mouse_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/62205-1114-95200-1-mighty-mouse_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/62205-1114-95200-1-mighty-mouse_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/62205-1114-95200-1-mighty-mouse_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-08-11 10:00:37",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1114/",
+        "count_of_issues":43,
+        "id":1114,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/mighty-mouse/49-1114/",
+        "name":"Mighty Mouse"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1946,
+        "description":"Continued from <a href=\"/dopey-duck/49-30506/\">  Dopey Duck</a>, Wacky Duck ran during 1946 through 1947 for 4 issues. This series then continued back into <a href=\"http://www.comicvine.com/justice/49-1144/\"> Justice</a>. ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/48206-1116-57668-1-wacky-duck_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/48206-1116-57668-1-wacky-duck_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/48206-1116-57668-1-wacky-duck_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/48206-1116-57668-1-wacky-duck_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/48206-1116-57668-1-wacky-duck_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/48206-1116-57668-1-wacky-duck_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/48206-1116-57668-1-wacky-duck_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-02-12 09:43:14",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1116/",
+        "count_of_issues":4,
+        "id":1116,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/wacky-duck/49-1116/",
+        "name":"Wacky Duck"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1946,
+        "description":"Continued from <a href=\"/ideal-comics/49-1007/\">  Ideal Comics</a>, Willie Comics ran during 1946 through 1949 for 15 issues. This series then continued into <a href=\"/lil-willie-comics/49-30510/\"> Li'l Willie Comics</a>. ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/5/54426/1173145-4675_o_1__icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/5/54426/1173145-4675_o_1__small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/5/54426/1173145-4675_o_1__tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/5/54426/1173145-4675_o_1__small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/5/54426/1173145-4675_o_1__thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/5/54426/1173145-4675_o_1__screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/5/54426/1173145-4675_o_1__super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-04-02 11:24:54",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1117/",
+        "count_of_issues":15,
+        "id":1117,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/willie-comics/49-1117/",
+        "name":"Willie Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/46/",
+            "id":46,
+            "name":"Street And Smith"
+        },
+        "start_year":1946,
+        "description":"",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/974304-1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/974304-1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/974304-1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/974304-1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/974304-1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/974304-1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/974304-1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2009-09-29 16:33:28",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1119/",
+        "count_of_issues":3,
+        "id":1119,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/blackstone-master-magician-comics/49-1119/",
+        "name":"Blackstone, Master Magician Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1947,
+        "description":"<p>.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/45860-1133-53209-1-date-with-judy-a_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/45860-1133-53209-1-date-with-judy-a_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/45860-1133-53209-1-date-with-judy-a_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/45860-1133-53209-1-date-with-judy-a_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/45860-1133-53209-1-date-with-judy-a_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/45860-1133-53209-1-date-with-judy-a_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/45860-1133-53209-1-date-with-judy-a_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2012-04-14 20:52:25",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1133/",
+        "count_of_issues":79,
+        "id":1133,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/date-with-judy/49-1133/",
+        "name":"Date with Judy"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1947,
+        "description":"<p>DC hoped it could beat slumping sales with its first entry into the crime comics genre. To minimize risk, DC licensed an established property - the Gang Busters radio program, which had been on the air waves since 1935 (originally under the name of the G-Men). Edited by Jack Schiff, the Gang Busters comic focused on FBI cases and stand alone crime stories. The first issue included tales such as \"Murder was my business\" and \"The case of the Iron-clad alibi.\" Later issues featured photo covers, a practice becoming increasingly common in the late 1940's.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/2/27722/797909-gangbusters_a_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/2/27722/797909-gangbusters_a_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/2/27722/797909-gangbusters_a_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/2/27722/797909-gangbusters_a_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/2/27722/797909-gangbusters_a_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/2/27722/797909-gangbusters_a_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/2/27722/797909-gangbusters_a_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2012-01-17 15:21:27",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1134/",
+        "count_of_issues":67,
+        "id":1134,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/gang-busters/49-1134/",
+        "name":"Gang Busters"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/20/",
+            "id":20,
+            "name":"Harvey"
+        },
+        "start_year":1947,
+        "description":"<p>Series continued from: Boy Explorers Comics (Harvey/Family Comics, 1946) #2</p><p>Series continues as: Terry and the Pirates (Charlton, 1955) #26 (each series has a #26 issue).</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/63959-1139-96955-1-terry-and-the-pirate_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/63959-1139-96955-1-terry-and-the-pirate_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/63959-1139-96955-1-terry-and-the-pirate_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/63959-1139-96955-1-terry-and-the-pirate_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/63959-1139-96955-1-terry-and-the-pirate_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/63959-1139-96955-1-terry-and-the-pirate_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/63959-1139-96955-1-terry-and-the-pirate_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2012-05-19 18:36:13",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1139/",
+        "count_of_issues":24,
+        "id":1139,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/terry-and-the-pirates-comics/49-1139/",
+        "name":"Terry and the Pirates Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1947,
+        "description":"Numbered 27 to 38 for a total of 12 issues. Series continued from <a href=\"/krazy-komics/49-946/\">   Krazy Komics</a> and continues into <a href=\"/cindy-smith/49-1346/\">   Cindy Smith</a>.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/57608-1141-90603-1-cindy-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/57608-1141-90603-1-cindy-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/57608-1141-90603-1-cindy-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/57608-1141-90603-1-cindy-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/57608-1141-90603-1-cindy-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/57608-1141-90603-1-cindy-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/57608-1141-90603-1-cindy-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2009-12-14 20:20:43",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1141/",
+        "count_of_issues":12,
+        "id":1141,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/cindy-comics/49-1141/",
+        "name":"Cindy Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/75/",
+            "id":75,
+            "name":"Atlas"
+        },
+        "start_year":1947,
+        "description":"Continued from <a href=\"/all-winners-comics/49-18581/\">  All Winners Comics</a>, Hedy De Vine Comics ran during 1947 through 1949 for 14 issues. This series then continued into <a href=\"/hedy-of-hollywood-comics/49-1353/\"> Hedy Of Hollywood Comics</a>.&nbsp;",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/5/54426/1062821-hedy_de_vine_comics_22_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/5/54426/1062821-hedy_de_vine_comics_22_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/5/54426/1062821-hedy_de_vine_comics_22_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/5/54426/1062821-hedy_de_vine_comics_22_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/5/54426/1062821-hedy_de_vine_comics_22_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/5/54426/1062821-hedy_de_vine_comics_22_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/5/54426/1062821-hedy_de_vine_comics_22_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-03-19 16:36:27",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1142/",
+        "count_of_issues":14,
+        "id":1142,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/hedy-de-vine-comics/49-1142/",
+        "name":"Hedy De Vine Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/75/",
+            "id":75,
+            "name":"Atlas"
+        },
+        "start_year":1947,
+        "description":"Numbering continues from <a href=\"/all-surprise/49-972/\">All Surprise</a> #1-12, becomes <a href=\"/cowgirl-romances/49-19431/\">Cowgirl Romances</a> with issue #28",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/60081-1143-93076-1-jeanie-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/60081-1143-93076-1-jeanie-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/60081-1143-93076-1-jeanie-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/60081-1143-93076-1-jeanie-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/60081-1143-93076-1-jeanie-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/60081-1143-93076-1-jeanie-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/60081-1143-93076-1-jeanie-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2009-08-21 19:10:36",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1143/",
+        "count_of_issues":15,
+        "id":1143,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/jeanie-comics/49-1143/",
+        "name":"Jeanie Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/75/",
+            "id":75,
+            "name":"Atlas"
+        },
+        "start_year":1947,
+        "description":"Continued from <a href=\"http://www.comicvine.com/wacky-duck/49-1116/\">  Wacky Duck</a>, Justice ran during 1947 through 1955 for 52 issues. This series then continued into <a href=\"/tales-of-justice/49-1716/\"> Tales Of Justice</a>.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/57921-1144-90916-1-justice_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/57921-1144-90916-1-justice_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/57921-1144-90916-1-justice_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/57921-1144-90916-1-justice_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/57921-1144-90916-1-justice_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/57921-1144-90916-1-justice_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/57921-1144-90916-1-justice_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-03-19 16:34:05",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1144/",
+        "count_of_issues":52,
+        "id":1144,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/justice/49-1144/",
+        "name":"Justice"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1947,
+        "description":"Oscar Comics numbers from (24)1 to 10 for a total of 10 issues. Series numbering continued from <a href=\"/funny-tunes/49-1006/\">  Funny Tunes</a>. Numbering continues into <a href=\"/awful-oscar/49-30420/\"> Awful Oscar</a> with issue 11.<br /><br />Please note: Although the covers for the first and second issues are both numbered 24 &amp; 25 respectively. With the remaining issues within the series numbered as 3-10. For our purposes here, issues 24 &amp; 25 are numbered 1 &amp; 2 to keep the series sequence correct.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/62466-1146-95461-1-oscar-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/62466-1146-95461-1-oscar-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/62466-1146-95461-1-oscar-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/62466-1146-95461-1-oscar-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/62466-1146-95461-1-oscar-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/62466-1146-95461-1-oscar-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/62466-1146-95461-1-oscar-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2009-12-14 12:25:36",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1146/",
+        "count_of_issues":10,
+        "id":1146,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/oscar-comics/49-1146/",
+        "name":"Oscar Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1947,
+        "description":"Continued from <a href=\"/kid-movie-komics/49-30461/\">  Kid Movie Komics</a>, Rusty Comics ran during 1947 through 1949 for 9 issues. This series then continued into <a href=\"/rusty-and-her-family/49-1293/\"> Rusty And Her Family</a>. ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/58272-1147-91267-1-rusty-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/58272-1147-91267-1-rusty-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/58272-1147-91267-1-rusty-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/58272-1147-91267-1-rusty-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/58272-1147-91267-1-rusty-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/58272-1147-91267-1-rusty-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/58272-1147-91267-1-rusty-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-02-24 13:39:28",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1147/",
+        "count_of_issues":9,
+        "id":1147,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/rusty-comics/49-1147/",
+        "name":"Rusty Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1947,
+        "description":"Continued from <a href=\"/all-teen/49-22987/\">  All Teen</a>, Teen Comics ran during 1947 through 1950 for 15 issues. This series then continued into <a href=\"/journey-into-unknown-worlds/49-1427/\"> Journey Into Unknown Worlds</a>. ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/5/54426/1062859-teen_comics_21_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/5/54426/1062859-teen_comics_21_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/5/54426/1062859-teen_comics_21_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/5/54426/1062859-teen_comics_21_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/5/54426/1062859-teen_comics_21_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/5/54426/1062859-teen_comics_21_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/5/54426/1062859-teen_comics_21_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-04-01 13:34:11",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1148/",
+        "count_of_issues":15,
+        "id":1148,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/teen-comics/49-1148/",
+        "name":"Teen Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/45/",
+            "id":45,
+            "name":"Prize"
+        },
+        "start_year":1947,
+        "description":"",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/60823-1151-93818-1-justice-traps-the-gu_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/60823-1151-93818-1-justice-traps-the-gu_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/60823-1151-93818-1-justice-traps-the-gu_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/60823-1151-93818-1-justice-traps-the-gu_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/60823-1151-93818-1-justice-traps-the-gu_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/60823-1151-93818-1-justice-traps-the-gu_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/60823-1151-93818-1-justice-traps-the-gu_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-03-01 09:06:02",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1151/",
+        "count_of_issues":62,
+        "id":1151,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/justice-traps-the-guilty/49-1151/",
+        "name":"Justice Traps the Guilty"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/84/",
+            "id":84,
+            "name":"Magazine Enterprises"
+        },
+        "start_year":1947,
+        "description":"",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/72259-1153-105257-1-manhunt_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/72259-1153-105257-1-manhunt_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/72259-1153-105257-1-manhunt_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/72259-1153-105257-1-manhunt_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/72259-1153-105257-1-manhunt_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/72259-1153-105257-1-manhunt_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/72259-1153-105257-1-manhunt_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2012-05-01 13:16:30",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1153/",
+        "count_of_issues":13,
+        "id":1153,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/manhunt/49-1153/",
+        "name":"Manhunt"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1948,
+        "description":"<p>Another teen title joined DC's lineup. Leave it to Binky centered on the hapless Binky Biggs and hi sefforts to date the beautiful Peggy, despite the interferences of his troublemaking younger brother \"Little Allergy.\" Edited by Sheldon Mayer with art by Bob Oskner, Leave it to Binky followed in the footsteps of DC's 1944 launch of the teen title Buzzy. Both titles reflected the fact that competitor Archie Comics had turned teen comics into big business through its popular freckle faced hero.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/47008-1168-56353-1-leave-it-to-binky_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/47008-1168-56353-1-leave-it-to-binky_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/47008-1168-56353-1-leave-it-to-binky_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/47008-1168-56353-1-leave-it-to-binky_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/47008-1168-56353-1-leave-it-to-binky_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/47008-1168-56353-1-leave-it-to-binky_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/47008-1168-56353-1-leave-it-to-binky_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2012-01-17 15:58:08",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1168/",
+        "count_of_issues":53,
+        "id":1168,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/leave-it-to-binky/49-1168/",
+        "name":"Leave it to Binky"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1948,
+        "description":"<p>Like its contemporary, Gang Busters, the crime comic Mr District Attorney was licensed from a popular radio show. The radio version had been on air since 1939 and DC was quick to advertise its popular pedigree with a cover banner reading, \"Based on radio's #1 hit!\" Its subject was the tough talking (and nameless) District Attorney, an implacable and callous force for justice who fought ugly and amoral crooks with colorful names like, \"Smoke-rings\" Thomson and teh Pittsburgh Kid. Mr District Attorney came along at the right time to catch a wave of crime comics and lasted for 67 issues.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/1011212-1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/1011212-1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/1011212-1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/1011212-1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/1011212-1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/1011212-1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/1011212-1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2012-01-17 15:52:58",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1169/",
+        "count_of_issues":56,
+        "id":1169,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/mr-district-attorney/49-1169/",
+        "name":"Mr. District Attorney"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1948,
+        "description":"<p>The introduction of Western Comics stood as proof of DC's commitment to the Western genre. The first issue introduced new characters including the Wyoming Kid, Cowboy Marshal, and Rodeo Rick, but the Vigilante may have seemed most familiar. The bandana masked hero had already earned his place among the 7 Soldiers of Victory following his introduction in Action Comics# 42 (November 1941), Although his adventures took place in contemporary times, the Vigilante's costume helped him fit in among the stars of Western Comics.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/2/27722/1261850-westerndc_1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/2/27722/1261850-westerndc_1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/2/27722/1261850-westerndc_1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/2/27722/1261850-westerndc_1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/2/27722/1261850-westerndc_1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/2/27722/1261850-westerndc_1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/2/27722/1261850-westerndc_1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2012-04-01 13:32:38",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1171/",
+        "count_of_issues":85,
+        "id":1171,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/western-comics/49-1171/",
+        "name":"Western Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/4/",
+            "id":4,
+            "name":"Dell"
+        },
+        "start_year":1948,
+        "description":"Movie, radio &amp; TV; Clayton Moore starred as Lone Ranger in the movies.&nbsp; <br />#1 - 37: strip reprints. ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/229/223200-1172-116602-1-lone-ranger-the_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/229/223200-1172-116602-1-lone-ranger-the_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/229/223200-1172-116602-1-lone-ranger-the_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/229/223200-1172-116602-1-lone-ranger-the_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/229/223200-1172-116602-1-lone-ranger-the_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/229/223200-1172-116602-1-lone-ranger-the_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/229/223200-1172-116602-1-lone-ranger-the_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-12-22 03:16:07",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1172/",
+        "count_of_issues":126,
+        "id":1172,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/the-lone-ranger/49-1172/",
+        "name":"The Lone Ranger"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/178/",
+            "id":178,
+            "name":"Gold Key"
+        },
+        "start_year":1948,
+        "description":"<ul class=\"plain-list\"><li>#1-65 was published by Dell</li><li>#66-80 was published by Gold Key</li><li>#81-92 was published by King</li><li>#93 - does not exist</li><li>#94-138 was published by Charlton</li><li>#139-171 was published by Gold Key/Whitman (it looks like #160 &amp; 161 do not exist)<br /></li></ul>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/3125/542739-popeye001_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/3125/542739-popeye001_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/3125/542739-popeye001_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/3125/542739-popeye001_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/3125/542739-popeye001_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/3125/542739-popeye001_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/3125/542739-popeye001_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-11-15 09:36:37",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1174/",
+        "count_of_issues":116,
+        "id":1174,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/popeye/49-1174/",
+        "name":"Popeye"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/4/",
+            "id":4,
+            "name":"Dell"
+        },
+        "start_year":1948,
+        "description":"<p>Continues into <a href=\"/tarzan/49-2098/\">Tarzan</a> #132 published by <a href=\"/gold-key/57-178/\">Gold Key.</a></p><h4>Collected Editions</h4><ul><li><a href=\"http://www.comicvine.com/edgar-rice-burroughs-tarzan-the-jesse-marsh-years-vol-1/37-272214/\">Edgar Rice Burroughs' Tarzan: The Jesse Marsh Years Vol. 1</a> (#2)</li><li><a href=\"http://www.comicvine.com/edgar-rice-burroughs-tarzan-the-jesse-marsh-years-vol-2/37-272215/\">Edgar Rice Burroughs' Tarzan: The Jesse Marsh Years Vol. 2</a> (#?)</li><li><a href=\"http://www.comicvine.com/edgar-rice-burroughs-tarzan-the-jesse-marsh-years-vol-3/37-272216/\">Edgar Rice Burroughs' Tarzan: The Jesse Marsh Years Vol. 3</a> (#11-16)</li><li><a href=\"http://www.comicvine.com/edgar-rice-burroughs-tarzan-the-jesse-marsh-years-vol-4/37-272217/\">Edgar Rice Burroughs' Tarzan: The Jesse Marsh Years Vol. 4</a> (#?)</li><li><a href=\"http://www.comicvine.com/edgar-rice-burroughs-tarzan-the-jesse-marsh-years-vol-5/37-272218/\">Edgar Rice Burroughs' Tarzan: The Jesse Marsh Years Vol. 5</a> (#?)</li><li><a href=\"http://www.comicvine.com/edgar-rice-burroughs-tarzan-the-jesse-marsh-years-vol-6/37-272219/\">Edgar Rice Burroughs' Tarzan: The Jesse Marsh Years Vol. 6</a> (#28-32)</li><li><a href=\"http://www.comicvine.com/edgar-rice-burroughs-tarzan-the-jesse-marsh-years-vol-7/37-272220/\">Edgar Rice Burroughs' Tarzan: The Jesse Marsh Years Vol. 7</a> (#33-38)</li><li><a href=\"http://www.comicvine.com/edgar-rice-burroughs-tarzan-the-jesse-marsh-years-vol-8/37-272221/\">Edgar Rice Burroughs' Tarzan: The Jesse Marsh Years Vol. 8</a> (#39-43)</li><li><a href=\"http://www.comicvine.com/edgar-rice-burroughs-tarzan-the-jesse-marsh-years-vol-9/37-272222/\">Edgar Rice Burroughs' Tarzan: The Jesse Marsh Years Vol. 9</a> (#44-46)</li><li><a href=\"http://www.comicvine.com/edgar-rice-burroughs-tarzan-the-jesse-marsh-years-vol-10/37-309483/\">Edgar Rice Burroughs' Tarzan: The Jesse Marsh Years Vol. 10</a> (#47-51)</li><li><a href=\"http://www.comicvine.com/edgar-rice-burroughs-tarzan-the-jesse-marsh-years-vol-11/37-344056/\">Edgar Rice Burroughs' Tarzan: The Jesse Marsh Years Vol. 11</a> (#52-56)</li></ul>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/2/27722/728844-tarzandell_1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/2/27722/728844-tarzandell_1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/2/27722/728844-tarzandell_1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/2/27722/728844-tarzandell_1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/2/27722/728844-tarzandell_1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/2/27722/728844-tarzandell_1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/2/27722/728844-tarzandell_1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2012-07-03 02:11:49",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1176/",
+        "count_of_issues":131,
+        "id":1176,
+        "date_added":"2008-06-06 11:08:04",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/tarzan/49-1176/",
+        "name":"Tarzan"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/20/",
+            "id":20,
+            "name":"Harvey"
+        },
+        "start_year":1948,
+        "description":"",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/3125/2119444-hump1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/3125/2119444-hump1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/3125/2119444-hump1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/3125/2119444-hump1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/3125/2119444-hump1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/3125/2119444-hump1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/3125/2119444-hump1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-12-13 22:12:41",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1183/",
+        "count_of_issues":21,
+        "id":1183,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/humphrey-comics/49-1183/",
+        "name":"Humphrey Comics"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/20/",
+            "id":20,
+            "name":"Harvey"
+        },
+        "start_year":1944,
+        "description":"1: Published as part of <a href=\"/a-1-comics/49-1032/\">A-1 Comics</a>&nbsp;<br />2-5: Published by Magazine Enterprises&nbsp;<br />6-33: Published by Harvey",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/937004-2_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/937004-2_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/937004-2_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/937004-2_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/937004-2_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/937004-2_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/937004-2_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2009-08-29 15:38:20",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1184/",
+        "count_of_issues":32,
+        "id":1184,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/kerry-drake-detective-cases/49-1184/",
+        "name":"Kerry Drake Detective Cases"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1948,
+        "description":"Blaze Carson ran during 1948 through 1949 for 5 issues. This series then continued into <a href=\"/rex-hart/49-1289/\"> Rex Hart</a>. ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/59180-1192-92175-1-blaze-carson_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/59180-1192-92175-1-blaze-carson_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/59180-1192-92175-1-blaze-carson_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/59180-1192-92175-1-blaze-carson_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/59180-1192-92175-1-blaze-carson_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/59180-1192-92175-1-blaze-carson_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/59180-1192-92175-1-blaze-carson_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-02-12 17:12:02",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1192/",
+        "count_of_issues":5,
+        "id":1192,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/blaze-carson/49-1192/",
+        "name":"Blaze Carson"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1992,
+        "description":"<p>Doom Force Special was a one-off parody of comics at the time, published near the height of comic speculation/collecting. Although it is unlikely there were any actual plans or expectations for this series to continue, at the back of the issue was a list of dozens of characters readers could potentially see if Doom Force ever returned. As this special was written at the same time as Grant Morrison's highly-successful and acclaimed run on <a href=\"/doom-patrol/49-3786/\">Doom Patrol</a> (and even features future versions of two of its cast members), it was collected alongside the rest of his run over a decade later in the final volume, <a href=\"/doom-patrol-planet-love/49-27250/\">Doom Patrol: Planet Love</a>.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/9116/899276-1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/9116/899276-1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/9116/899276-1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/9116/899276-1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/9116/899276-1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/9116/899276-1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/9116/899276-1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-10-10 15:16:02",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1193/",
+        "count_of_issues":1,
+        "id":1193,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/doom-force-special/49-1193/",
+        "name":"Doom Force Special"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1948,
+        "description":"Complete Mystery ran during 1948 through 1949 for 4 issues. This series then continued into <a href=\"/true-complete-mystery/49-1297/\"> True Complete Mystery</a>.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/58752-1194-91747-1-complete-mystery_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/58752-1194-91747-1-complete-mystery_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/58752-1194-91747-1-complete-mystery_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/58752-1194-91747-1-complete-mystery_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/58752-1194-91747-1-complete-mystery_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/58752-1194-91747-1-complete-mystery_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/58752-1194-91747-1-complete-mystery_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-02-01 08:24:12",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1194/",
+        "count_of_issues":4,
+        "id":1194,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/complete-mystery/49-1194/",
+        "name":"Complete Mystery"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1948,
+        "description":"Crimefighters ran during 1948 through 1949 for 10 issues. This series then continued into <a href=\"/crime-fighters/49-1629/\"> Crime Fighters</a>. ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/57741-1196-90736-1-crimefighters_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/57741-1196-90736-1-crimefighters_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/57741-1196-90736-1-crimefighters_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/57741-1196-90736-1-crimefighters_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/57741-1196-90736-1-crimefighters_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/57741-1196-90736-1-crimefighters_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/57741-1196-90736-1-crimefighters_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-02-26 16:56:50",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1196/",
+        "count_of_issues":10,
+        "id":1196,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/crimefighters/49-1196/",
+        "name":"Crimefighters"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1948,
+        "description":"Continued from <a href=\"/frankie-comics/49-1111/\">   Frankie Comics</a>, Frankie And Lana ran during 1948 through 1949 for 4 issues. This series then continued into <a href=\"/frankie-fuddle/49-30508/\">  Frankie Fuddle</a>.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/57365-1197-90360-1-frankie-and-lana-com_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/57365-1197-90360-1-frankie-and-lana-com_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/57365-1197-90360-1-frankie-and-lana-com_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/57365-1197-90360-1-frankie-and-lana-com_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/57365-1197-90360-1-frankie-and-lana-com_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/57365-1197-90360-1-frankie-and-lana-com_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/57365-1197-90360-1-frankie-and-lana-com_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-02-01 08:44:19",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1197/",
+        "count_of_issues":4,
+        "id":1197,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/frankie-and-lana/49-1197/",
+        "name":"Frankie And Lana"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1948,
+        "description":"<a href=\"http://www.comicvine.com/kid-colt/29-7238/\"> Kid Colt </a>was a Western comic book character dating back to 1948, where he made his first appearance in the comic series <a href=\"http://www.comicvine.com/kid-colt-hero-of-the-west/49-1198/\"> Kid Colt: Hero the West</a>. However, aforementioned series didn't last too long, at least not under its original title as it changed the name of the comic after issue four (although the covers had already begun the name change with issue three). This new title was, <a href=\"http://www.comicvine.com/kid-colt-outlaw/49-1199/\"> Kid Colt: Outlaw</a> which is what it continued to be three full decades until the series finally came to a close after a two hundred and twenty-nine issue run.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/61156-1198-94151-1-kid-colt-hero-of-th_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/61156-1198-94151-1-kid-colt-hero-of-th_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/61156-1198-94151-1-kid-colt-hero-of-th_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/61156-1198-94151-1-kid-colt-hero-of-th_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/61156-1198-94151-1-kid-colt-hero-of-th_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/61156-1198-94151-1-kid-colt-hero-of-th_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/61156-1198-94151-1-kid-colt-hero-of-th_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-02-26 13:51:57",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1198/",
+        "count_of_issues":4,
+        "id":1198,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/kid-colt-hero-of-the-west/49-1198/",
+        "name":"Kid Colt: Hero Of The West"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/31/",
+            "id":31,
+            "name":"Marvel"
+        },
+        "start_year":1949,
+        "description":"<p><a href=\"http://www.comicvine.com/kid-colt/29-7238/\">Kid Colt</a> was a Western comic book character dating back to 1948, where he made his first appearance in the comic series <a href=\"http://www.comicvine.com/kid-colt-hero-of-the-west/49-1198/\">Kid Colt: Hero of the West</a>. However, aforementioned series didn't last too long, at least not under its original title as it changed the name of the comic after issue four (although the covers had already begun the name change with issue three). This new title was, <a href=\"http://www.comicvine.com/kid-colt-outlaw/49-1199/\">Kid Colt: Outlaw</a> which is what it continued to be three full decades until the series finally came to a close after a two hundred and twenty-nine issue run. That makes Kid Colt the longest-running cowboy star in an American published comic-book , featured in stories for a 31-year stretch from 1948-1979, though from 1966 most of the published stories were reprints.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/65553-1199-98550-1-kid-colt-outlaw_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/65553-1199-98550-1-kid-colt-outlaw_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/65553-1199-98550-1-kid-colt-outlaw_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/65553-1199-98550-1-kid-colt-outlaw_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/65553-1199-98550-1-kid-colt-outlaw_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/65553-1199-98550-1-kid-colt-outlaw_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/65553-1199-98550-1-kid-colt-outlaw_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-08-07 16:13:25",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1199/",
+        "count_of_issues":225,
+        "id":1199,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/kid-colt-outlaw/49-1199/",
+        "name":"Kid Colt: Outlaw"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1948,
+        "description":"Lana ran during 1948 through 1949 for 7 issues. This series then continued into <a href=\"/little-lana/49-30511/\">   Little Lana</a>.",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/61919-1201-94914-1-lana-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/61919-1201-94914-1-lana-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/61919-1201-94914-1-lana-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/61919-1201-94914-1-lana-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/61919-1201-94914-1-lana-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/61919-1201-94914-1-lana-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/61919-1201-94914-1-lana-comics_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-03-04 07:32:44",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1201/",
+        "count_of_issues":7,
+        "id":1201,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/lana/49-1201/",
+        "name":"Lana"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1948,
+        "description":"Lawbreakers Always Lose ran during 1948 through 1949 for 10 issues. ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/61928-1202-94923-1-lawbreakers-always-l_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/61928-1202-94923-1-lawbreakers-always-l_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/61928-1202-94923-1-lawbreakers-always-l_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/61928-1202-94923-1-lawbreakers-always-l_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/61928-1202-94923-1-lawbreakers-always-l_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/61928-1202-94923-1-lawbreakers-always-l_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/61928-1202-94923-1-lawbreakers-always-l_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-03-04 11:28:28",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1202/",
+        "count_of_issues":10,
+        "id":1202,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/lawbreakers-always-lose/49-1202/",
+        "name":"Lawbreakers Always Lose"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/21/",
+            "id":21,
+            "name":"Timely"
+        },
+        "start_year":1948,
+        "description":"Wacky Duck ran in 1948 for only 2 issues. ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/5/54426/1061904-wacky_duck_1_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/5/54426/1061904-wacky_duck_1_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/5/54426/1061904-wacky_duck_1_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/5/54426/1061904-wacky_duck_1_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/5/54426/1061904-wacky_duck_1_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/5/54426/1061904-wacky_duck_1_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/5/54426/1061904-wacky_duck_1_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2009-12-16 08:21:13",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1211/",
+        "count_of_issues":2,
+        "id":1211,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/wacky-duck/49-1211/",
+        "name":"Wacky Duck"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/31/",
+            "id":31,
+            "name":"Marvel"
+        },
+        "start_year":1948,
+        "description":"The first two issues of the series where named <a href=\"../../wild-west/49-22232/\" rel=\"nofollow\"> Wild West</a>, it became Wild Western with issue 3. ",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/5/54426/1064400-wild_western_3_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/5/54426/1064400-wild_western_3_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/5/54426/1064400-wild_western_3_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/5/54426/1064400-wild_western_3_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/5/54426/1064400-wild_western_3_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/5/54426/1064400-wild_western_3_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/5/54426/1064400-wild_western_3_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-07-23 16:07:11",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1213/",
+        "count_of_issues":53,
+        "id":1213,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/wild-western/49-1213/",
+        "name":"Wild Western"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/45/",
+            "id":45,
+            "name":"Prize"
+        },
+        "start_year":1948,
+        "description":"<p>Series continues as: Charlie Chan (Charlton, 1955) #6</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/58672-1219-91667-1-charlie-chan_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/58672-1219-91667-1-charlie-chan_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/58672-1219-91667-1-charlie-chan_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/58672-1219-91667-1-charlie-chan_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/58672-1219-91667-1-charlie-chan_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/58672-1219-91667-1-charlie-chan_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/58672-1219-91667-1-charlie-chan_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2012-08-21 16:49:01",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1219/",
+        "count_of_issues":5,
+        "id":1219,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/charlie-chan/49-1219/",
+        "name":"Charlie Chan"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/84/",
+            "id":84,
+            "name":"Magazine Enterprises"
+        },
+        "start_year":1948,
+        "description":"Issues 1 and 2 are part of the <a href=\"/a-1-comics/49-1032/\"> A-1 comics </a>series. <br />The Tim Holt series continues in <a href=\"/red-mask/49-27105/\">  Red Mask</a> #42-54",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/65471-1223-98468-1-tim-holt_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/65471-1223-98468-1-tim-holt_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/65471-1223-98468-1-tim-holt_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/65471-1223-98468-1-tim-holt_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/65471-1223-98468-1-tim-holt_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/65471-1223-98468-1-tim-holt_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/65471-1223-98468-1-tim-holt_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2011-08-27 04:37:49",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1223/",
+        "count_of_issues":38,
+        "id":1223,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/tim-holt/49-1223/",
+        "name":"Tim Holt"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1949,
+        "description":"",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/45721-1239-53062-1-ozzie-and-harriet_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/45721-1239-53062-1-ozzie-and-harriet_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/45721-1239-53062-1-ozzie-and-harriet_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/45721-1239-53062-1-ozzie-and-harriet_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/45721-1239-53062-1-ozzie-and-harriet_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/45721-1239-53062-1-ozzie-and-harriet_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/45721-1239-53062-1-ozzie-and-harriet_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2010-05-23 16:52:54",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1239/",
+        "count_of_issues":5,
+        "id":1239,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/ozzie-and-harriet/49-1239/",
+        "name":"Ozzie and Harriet"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1949,
+        "description":"<p>An odd entry into the field of celebrity comics, this title featured Miss Beverly Hills and her interactions with real life Hollywood guest stars including Alan Ladd and Wanda Hendrix. Beverly had a newspaper reporter boyfriend named Will Shire (A play on LA's Wilshire Boulevard) and most stories revolved around her desire to meet movie stars and become a star herself. The series blended the celebrity, humor and romance genres with mixed results and sadly the title only made 9 issues.</p>",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/47099-1241-56459-1-miss-beverly-hills-o_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/47099-1241-56459-1-miss-beverly-hills-o_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/47099-1241-56459-1-miss-beverly-hills-o_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/47099-1241-56459-1-miss-beverly-hills-o_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/47099-1241-56459-1-miss-beverly-hills-o_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/47099-1241-56459-1-miss-beverly-hills-o_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/47099-1241-56459-1-miss-beverly-hills-o_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2012-01-18 01:43:36",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1241/",
+        "count_of_issues":9,
+        "id":1241,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/miss-beverly-hills-of-hollywood/49-1241/",
+        "name":"Miss Beverly Hills of Hollywood"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1949,
+        "description":"",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/47155-1242-56519-1-peter-porkchops_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/47155-1242-56519-1-peter-porkchops_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/47155-1242-56519-1-peter-porkchops_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/47155-1242-56519-1-peter-porkchops_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/47155-1242-56519-1-peter-porkchops_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/47155-1242-56519-1-peter-porkchops_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/47155-1242-56519-1-peter-porkchops_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2009-09-20 17:12:44",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1242/",
+        "count_of_issues":62,
+        "id":1242,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/peter-porkchops/49-1242/",
+        "name":"Peter Porkchops"
+    },
+    {
+        "publisher":{
+            "api_detail_url":"http://api.comicvine.com/publisher/10/",
+            "id":10,
+            "name":"DC Comics"
+        },
+        "start_year":1949,
+        "description":"",
+        "deck":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/47362-1243-56744-1-romance-trail_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/47362-1243-56744-1-romance-trail_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/47362-1243-56744-1-romance-trail_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/47362-1243-56744-1-romance-trail_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/47362-1243-56744-1-romance-trail_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/47362-1243-56744-1-romance-trail_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/47362-1243-56744-1-romance-trail_super.jpg"
+        },
+        "last_issue":null,
+        "date_last_updated":"2009-01-08 15:13:51",
+        "first_issue":null,
+        "api_detail_url":"http://api.comicvine.com/volume/1243/",
+        "count_of_issues":6,
+        "id":1243,
+        "date_added":"2008-06-06 11:08:05",
+        "aliases":"",
+        "site_detail_url":"http://www.comicvine.com/romance-trail/49-1243/",
+        "name":"Romance Trail"
+    }
+], "limit":100, "offset":0, "number_of_total_results":37147}

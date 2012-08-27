@@ -1,0 +1,302 @@
+{"number_of_page_results":10, "status_code":1, "error":"OK", "results":[
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/17/",
+        "site_detail_url":"http://www.comicvine.com/spy-cases-the-kidnaping-of-general-syin/37-17/",
+        "description":"<u><b>Features Include:</b></u><br />The Kidnaping Of General Syin!<br />Soup's On<br />Revenge<br />Last Request!<br />Forest of Terror ",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/18-1433-17-1-spy-cases_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/18-1433-17-1-spy-cases_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/18-1433-17-1-spy-cases_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/18-1433-17-1-spy-cases_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/18-1433-17-1-spy-cases_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/18-1433-17-1-spy-cases_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/18-1433-17-1-spy-cases_super.jpg"
+        },
+        "date_last_updated":"2010-04-09 14:27:13",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1433/",
+            "id":1433,
+            "name":"Spy Cases"
+        },
+        "issue_number":"13.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:07",
+        "publish_day":null,
+        "publish_month":10,
+        "id":17,
+        "name":"The Kidnaping Of General Syin!"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/20/",
+        "site_detail_url":"http://www.comicvine.com/wild-western-/37-20/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/21-1213-20-1-wild-western_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/21-1213-20-1-wild-western_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/21-1213-20-1-wild-western_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/21-1213-20-1-wild-western_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/21-1213-20-1-wild-western_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/21-1213-20-1-wild-western_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/21-1213-20-1-wild-western_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1213/",
+            "id":1213,
+            "name":"Wild Western"
+        },
+        "issue_number":"24.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:46",
+        "publish_day":null,
+        "publish_month":10,
+        "id":20,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/23/",
+        "site_detail_url":"http://www.comicvine.com/blackhawk-slavery-in-siberia/37-23/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/22-989-23-1-blackhawk_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/22-989-23-1-blackhawk_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/22-989-23-1-blackhawk_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/22-989-23-1-blackhawk_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/22-989-23-1-blackhawk_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/22-989-23-1-blackhawk_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/22-989-23-1-blackhawk_super.jpg"
+        },
+        "date_last_updated":"2010-10-08 22:34:37",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/989/",
+            "id":989,
+            "name":"Blackhawk"
+        },
+        "issue_number":"57.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:32",
+        "publish_day":null,
+        "publish_month":10,
+        "id":23,
+        "name":"Slavery In Siberia "
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/26/",
+        "site_detail_url":"http://www.comicvine.com/blue-bolt-weird-tales-of-terror-/37-26/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/25-1399-26-1-blue-bolt-weird-tale_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/25-1399-26-1-blue-bolt-weird-tale_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/25-1399-26-1-blue-bolt-weird-tale_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/25-1399-26-1-blue-bolt-weird-tale_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/25-1399-26-1-blue-bolt-weird-tale_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/25-1399-26-1-blue-bolt-weird-tale_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/25-1399-26-1-blue-bolt-weird-tale_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1399/",
+            "id":1399,
+            "name":"Blue Bolt Weird Tales of Terror"
+        },
+        "issue_number":"115.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:02",
+        "publish_day":null,
+        "publish_month":10,
+        "id":26,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/28/",
+        "site_detail_url":"http://www.comicvine.com/gi-joe-/37-28/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/27-1457-28-1-g-i-joe_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/27-1457-28-1-g-i-joe_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/27-1457-28-1-g-i-joe_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/27-1457-28-1-g-i-joe_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/27-1457-28-1-g-i-joe_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/27-1457-28-1-g-i-joe_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/27-1457-28-1-g-i-joe_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1457/",
+            "id":1457,
+            "name":"G.I. Joe"
+        },
+        "issue_number":"16.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:09",
+        "publish_day":null,
+        "publish_month":10,
+        "id":28,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/29/",
+        "site_detail_url":"http://www.comicvine.com/uncanny-tales-/37-29/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/28-1503-29-1-uncanny-tales_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/28-1503-29-1-uncanny-tales_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/28-1503-29-1-uncanny-tales_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/28-1503-29-1-uncanny-tales_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/28-1503-29-1-uncanny-tales_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/28-1503-29-1-uncanny-tales_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/28-1503-29-1-uncanny-tales_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1503/",
+            "id":1503,
+            "name":"Uncanny Tales"
+        },
+        "issue_number":"3.00",
+        "publish_year":0,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:19",
+        "publish_day":null,
+        "publish_month":0,
+        "id":29,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/30/",
+        "site_detail_url":"http://www.comicvine.com/sparkler-comics-/37-30/",
+        "description":"1. Nancy&nbsp;<br />&nbsp;<br />2. Captain and the Kids&nbsp;<br />&nbsp;<br />3. Casey Ruggles",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/29-874-30-1-sparkler-comics_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/29-874-30-1-sparkler-comics_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/29-874-30-1-sparkler-comics_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/29-874-30-1-sparkler-comics_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/29-874-30-1-sparkler-comics_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/29-874-30-1-sparkler-comics_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/29-874-30-1-sparkler-comics_super.jpg"
+        },
+        "date_last_updated":"2010-11-06 14:01:23",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/874/",
+            "id":874,
+            "name":"Sparkler Comics"
+        },
+        "issue_number":"107.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:18",
+        "publish_day":null,
+        "publish_month":10,
+        "id":30,
+        "name":""
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/31/",
+        "site_detail_url":"http://www.comicvine.com/marvel-tales-a-sight-for-sore-eyes/37-31/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/30-1283-31-1-marvel-tales_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/30-1283-31-1-marvel-tales_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/30-1283-31-1-marvel-tales_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/30-1283-31-1-marvel-tales_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/30-1283-31-1-marvel-tales_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/30-1283-31-1-marvel-tales_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/30-1283-31-1-marvel-tales_super.jpg"
+        },
+        "date_last_updated":"2011-01-09 17:32:04",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1283/",
+            "id":1283,
+            "name":"Marvel Tales"
+        },
+        "issue_number":"109.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:53",
+        "publish_day":null,
+        "publish_month":10,
+        "id":31,
+        "name":"A Sight For Sore Eyes"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/32/",
+        "site_detail_url":"http://www.comicvine.com/battle-surrender-hell/37-32/",
+        "description":"<h2> Five amazing war stories!!  </h2><br />Surrender, Hell!<br />The Deadliest Enemy - Text story<br />Troop Movement<br />Surprise Attack!<br />Barbed Wire",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/31-1423-32-1-battle_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/31-1423-32-1-battle_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/31-1423-32-1-battle_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/31-1423-32-1-battle_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/31-1423-32-1-battle_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/31-1423-32-1-battle_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/31-1423-32-1-battle_super.jpg"
+        },
+        "date_last_updated":"2009-11-24 19:36:33",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1423/",
+            "id":1423,
+            "name":"Battle"
+        },
+        "issue_number":"13.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:10:05",
+        "publish_day":null,
+        "publish_month":10,
+        "id":32,
+        "name":"Surrender, Hell!"
+    },
+    {
+        "api_detail_url":"http://api.comicvine.com/issue/33/",
+        "site_detail_url":"http://www.comicvine.com/the-lone-ranger-/37-33/",
+        "description":"",
+        "deck":"",
+        "aliases":"",
+        "image":{
+            "icon_url":"http://media.comicvine.com/uploads/0/4/32-1172-33-1-lone-ranger-the_icon.jpg",
+            "medium_url":"http://media.comicvine.com/uploads/0/4/32-1172-33-1-lone-ranger-the_small.jpg",
+            "tiny_url":"http://media.comicvine.com/uploads/0/4/32-1172-33-1-lone-ranger-the_tiny.jpg",
+            "small_url":"http://media.comicvine.com/uploads/0/4/32-1172-33-1-lone-ranger-the_small.jpg",
+            "thumb_url":"http://media.comicvine.com/uploads/0/4/32-1172-33-1-lone-ranger-the_thumb.jpg",
+            "screen_url":"http://media.comicvine.com/uploads/0/4/32-1172-33-1-lone-ranger-the_screen.jpg",
+            "super_url":"http://media.comicvine.com/uploads/0/4/32-1172-33-1-lone-ranger-the_super.jpg"
+        },
+        "date_last_updated":"2008-06-06 11:32:53",
+        "volume":{
+            "api_detail_url":"http://api.comicvine.com/volume/1172/",
+            "id":1172,
+            "name":"The Lone Ranger"
+        },
+        "issue_number":"52.00",
+        "publish_year":1952,
+        "has_staff_review":false,
+        "date_added":"2008-06-06 11:09:41",
+        "publish_day":null,
+        "publish_month":10,
+        "id":33,
+        "name":""
+    }
+], "limit":10, "offset":10, "number_of_total_results":305861}

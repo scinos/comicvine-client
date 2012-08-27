@@ -1,0 +1,1002 @@
+{"number_of_page_results":100, "status_code":1, "error":"OK", "results":[
+    {
+        "site_detail_url":"http://www.comicvine.com/flight/41-1/",
+        "description":"The ability to fly is possibly the most awesome, yet common power within the pantheon of superhero culture. Flight based characters have an immediate advantage over enemies and have arguably one of the only powers without a real counter. The capability to fly represents the freedom of the individual and his or her absolute control of their world.",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/1/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":1,
+        "name":"Flight"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/super-strength/41-2/",
+        "description":"Super Stength is the iconic super power. For a character to be the ultimate brute or the supreme hero super-strength is a must.  It's not surprising though since the traditional measure of manliness has always been strength, whether it be mental or physical. In this case, super-strength is the physical manifestation of a characters ability to assert himself over another.csdcsddscas",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/2/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":2,
+        "name":"Super Strength"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/super-speed/41-3/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/3/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":3,
+        "name":"Super Speed"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/agility/41-4/",
+        "description":"<p>Agility is the ability to move nimbly or quickly. It does not neccessarily go hand in hand with super speed, which measures distance traveled over time. Agility is instead reflexive and burst-like, often coming in the form of a split-second move.</p>\r\n\r\n<p>In terms of combat, agile heros always prefer a rapid succession of short, controlled strikes. This is in contrast to a brutish strength based characters who usually rely on a smaller number of more powerful attacks. Agile Hero characters are almost always defensive in nature and disposition. Evil characters focused on agility are often tricksters and thieves who gain advantages over other characters by setting odds in their favor before a fight even begins.</p>",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/4/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":4,
+        "name":"Agility"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/stamina/41-5/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/5/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":5,
+        "name":"Stamina"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/invulnerability/41-6/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/6/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":6,
+        "name":"Invulnerability"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/telepathy/41-7/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/7/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":7,
+        "name":"Telepathy"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/telekinesis/41-8/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/8/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":8,
+        "name":"Telekinesis"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/intellect/41-9/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/9/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":9,
+        "name":"Intellect"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/teleport/41-10/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/10/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":10,
+        "name":"Teleport"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/radar-sense/41-11/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/11/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":11,
+        "name":"Radar Sense"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/psychic/41-12/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/12/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":12,
+        "name":"Psychic"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/force-field/41-13/",
+        "description":"A force field is any nearly-unpenatrable container that surrounds a character for protection. It may be called upon through control over natural elements, by manifestation of mental or psionic powers or simply by sheer act of will. A character calling upon a force field is almost always in a defensive position and under a large amount of strain to keep themselves or others protected. Outside of battles, these bubbles can also serve to protect characters from the elements (such as water or space) and provide an air pocket to anyone within the field. Because of their supportive utility, force fields are often present in weaker, heavily loyal characters.",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/13/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":13,
+        "name":"Force Field"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/blast-power/41-14/",
+        "description":"Blast Power is the ability to emit, produce or discharge a burst of non-natural human energy. Normally this energy comes in the form of radiation, gas, explosives or lazer-like beams. Heros who have blast powers are almost always not able to control their gifts and often hurt their friends as much as their enemies. This normally leads to the hero having a withdrawn disposition. Blast power villans are erratic and uncontrollable, taking advantage of the unpredictable nature of their abilities to allow for quick, wide-radius attacks that result in mass destruction without target.",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/14/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":14,
+        "name":"Blast Power"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/healing/41-15/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/15/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":15,
+        "name":"Healing"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/magic/41-16/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/16/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":16,
+        "name":"Magic"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/weapon-master/41-17/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/17/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":17,
+        "name":"Weapon Master"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/super-sight/41-18/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/18/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":18,
+        "name":"Super Sight"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/super-smell/41-19/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/19/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":19,
+        "name":"Super Smell"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/super-hearing/41-20/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/20/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":20,
+        "name":"Super Hearing"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/invisibility/41-21/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/21/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":21,
+        "name":"Invisibility"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/phasing-ghost/41-22/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/22/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":22,
+        "name":"Phasing / Ghost"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/chameleon/41-23/",
+        "description":"A chameleon is any character that has the ability to blend into their surrounding by changing the color and texture of their skin either through a natural ability or mechanical device. It is often confused (and at the same time paired) with shape changing, which is the ability to transform your body into another shape. Chameleons tend to be villanous more often the good, using their camoflouge skills to sneak or gain access to a restricted area. Characters with this ability tend to have mixed personalities and have a hard time defining themselves in any one way.",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/23/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":23,
+        "name":"Chameleon"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/shape-shifter/41-24/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/24/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":24,
+        "name":"Shape Shifter"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/magnetism/41-25/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/25/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":25,
+        "name":"Magnetism"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/fire-control/41-26/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/26/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":26,
+        "name":"Fire Control"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/implants/41-27/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/27/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":27,
+        "name":"Implants"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/feral/41-28/",
+        "description":"<p>Feral powers are the abilities or mindset of a wild animal or animals. Ferality can exist simply as a state of mind, as a set of heightened senses or at the very extreme, the ability to transform oneself completely into a beast. Sometimes ferality comes with near-druidic powers such as the means to commune with animals (for intellegence gathering). Feral focused characters are normally potrayed as either well balanced and serene (a parallel to nature) or as wild, uncontrolable loners (the same metaphor).</p>\r\n\r\n<p>Note that characters who take on a moniker in reference to an animal (such as Batman) more often then not do not have feral abilities of any kind.</p>\r\n",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/28/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":28,
+        "name":"Feral"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/psionic/41-29/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/29/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":29,
+        "name":"Psionic"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/insanely-rich/41-30/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/30/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":30,
+        "name":"Insanely Rich"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/power-suit/41-31/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/31/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":31,
+        "name":"Power Suit"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/radiation/41-32/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/32/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":32,
+        "name":"Radiation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/elasticity/41-33/",
+        "description":"Elasticity is the ability to stretch a body part in a pronounced, exaggerated way. Almost always the character also has access to clothing that compensates for this skill. The elastic character's fighting style is usually tenacious, beating their opponents by absorbing physical attacks and tiring their opponent out over the course of a battle. The typical move is to surround an enemy by wrapping oneself around them, trapping their movement.",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/33/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":33,
+        "name":"Elasticity"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/unarmed-combat/41-34/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/34/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":34,
+        "name":"Unarmed Combat"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/gadgets/41-35/",
+        "description":"Gadgets are small mechanical tools and devices that help a hero or villian out in anyway. They can be as small as cantrips or as large as a jetpack. They are often constructed by the character themself and thereby unique and one of a kind. Gadgets are often heavily relied upon by non-powered characters to compensate and allow them to even the odds against their enenies. Because of their complexity, gadgetry is often paired with intelligent or wealthy characters.  ",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/35/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":35,
+        "name":"Gadgets"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/weather-control/41-36/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/36/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":36,
+        "name":"Weather Control"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/divine-powers/41-37/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/37/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":37,
+        "name":"Divine Powers"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/siphon-abilities/41-38/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/38/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":38,
+        "name":"Siphon Abilities"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/size-manipulation/41-39/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/39/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":39,
+        "name":"Size Manipulation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/immortal/41-40/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/40/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":40,
+        "name":"Immortal"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/necromancy/41-49/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/49/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":49,
+        "name":"Necromancy"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/vampirism/41-50/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/50/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":50,
+        "name":"Vampirism"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/electricity-control/41-51/",
+        "description":"Characters with electricity as a power have control over charged particles and can generate an electric current at will. This is sometimes the result of control over a natural source of energy (such as lightning) but is more commonly manifested and expelled from the body as a result of a previous, irreversable accident. Though rare, some electric characters have control over electrons to such a degree that they can also control an electric powered machinery. Electricity is more common in villans due to the erratic, destructive use of lighting. In contrast, heros tend to have control over less harmful natural elements such as water, air and earth.",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/51/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":51,
+        "name":"Electricity Control"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/ice-control/41-52/",
+        "description":"Ice Control is awesome",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/52/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":52,
+        "name":"Ice Control"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/sub-mariner/41-53/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/53/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":53,
+        "name":"Sub-Mariner"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/wall-clinger/41-54/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/54/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":54,
+        "name":"Wall Clinger"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/mesmerize/41-55/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/55/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":55,
+        "name":"Mesmerize"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/penance-stare/41-56/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/56/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":56,
+        "name":"Penance Stare"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/sonic-scream/41-57/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/57/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":57,
+        "name":"Sonic Scream"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/escape-artist/41-58/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/58/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":58,
+        "name":"Escape Artist"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/tracking/41-59/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/59/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":59,
+        "name":"Tracking"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/astral-projection/41-60/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/60/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":60,
+        "name":"Astral Projection"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/danger-sense/41-61/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/61/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":61,
+        "name":"Danger Sense"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/possession/41-64/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/64/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":64,
+        "name":"Possession"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/sand-manipulation/41-65/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/65/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":65,
+        "name":"Sand manipulation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/adaptive/41-66/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/66/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":66,
+        "name":"Adaptive"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/electronic-interaction/41-67/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/67/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":67,
+        "name":"Electronic interaction"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/animation/41-68/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/68/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":68,
+        "name":"Animation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/probability-manipulation/41-69/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/69/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":69,
+        "name":"Probability Manipulation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/super-eating/41-70/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/70/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":70,
+        "name":"Super Eating"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/precognition/41-71/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/71/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":71,
+        "name":"Precognition"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/energy-enhanced-strike/41-72/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/72/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":72,
+        "name":"Energy-Enhanced Strike"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/technopathy/41-73/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/73/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":73,
+        "name":"Technopathy"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/inertia-absorption/41-74/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/74/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":74,
+        "name":"Inertia Absorption"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/light-projection/41-75/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/75/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":75,
+        "name":"Light Projection"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/holographic-projection/41-76/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/76/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":76,
+        "name":"Holographic Projection"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/reality-manpulation/41-77/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/77/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":77,
+        "name":"Reality Manpulation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/swordsmanship/41-78/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/78/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":78,
+        "name":"Swordsmanship"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/electronic-disruption/41-79/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/79/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":79,
+        "name":"Electronic Disruption"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/levitation/41-80/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/80/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":80,
+        "name":"Levitation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/soul-absorption/41-81/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/81/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":81,
+        "name":"Soul Absorption"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/duplication/41-82/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/82/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":82,
+        "name":"Duplication"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/emotion-control/41-83/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/83/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":83,
+        "name":"Emotion Control"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/matter-absorption/41-84/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/84/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":84,
+        "name":"Matter Absorption"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/dimensional-manipulation/41-85/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/85/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":85,
+        "name":"Dimensional Manipulation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/animal-control/41-87/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/87/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":87,
+        "name":"Animal Control"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/enhance-mutation/41-88/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/88/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":88,
+        "name":"Enhance Mutation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/omni-lingual/41-89/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/89/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":89,
+        "name":"Omni-lingual"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/postcognition/41-90/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/90/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":90,
+        "name":"Postcognition"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/shadowmeld/41-91/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/91/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":91,
+        "name":"Shadowmeld"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/energy-shield/41-92/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/92/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":92,
+        "name":"Energy Shield"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/time-travel/41-93/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/93/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":93,
+        "name":"Time Travel"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/siphon-lifeforce/41-94/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/94/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":94,
+        "name":"Siphon Lifeforce"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/sense-death/41-95/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/95/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":95,
+        "name":"Sense Death"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/darkforce-manipulation/41-96/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/96/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":96,
+        "name":"Darkforce Manipulation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/vibration-wave/41-97/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/97/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":97,
+        "name":"Vibration Wave"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/power-mimicry/41-98/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/98/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":98,
+        "name":"Power Mimicry"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/empathy/41-99/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/99/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":99,
+        "name":"Empathy"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/gravity-control/41-100/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/100/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":100,
+        "name":"Gravity control"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/darkness-manipulation/41-101/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/101/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":101,
+        "name":"Darkness Manipulation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/illusion-casting/41-102/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/102/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":102,
+        "name":"Illusion Casting"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/heat-vision/41-103/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/103/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":103,
+        "name":"Heat Vision"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/psychometry/41-104/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/104/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":104,
+        "name":"Psychometry"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/wind-bursts/41-105/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/105/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":105,
+        "name":"Wind Bursts"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/density-control/41-106/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/106/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":106,
+        "name":"Density Control"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/earth-manipulation/41-107/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/107/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":107,
+        "name":"Earth Manipulation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/marksmanship/41-108/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/108/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":108,
+        "name":"Marksmanship"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/genetic-manipulation/41-109/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/109/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":109,
+        "name":"Genetic Manipulation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/time-manipulation/41-110/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/110/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":110,
+        "name":"Time Manipulation"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/power-item/41-111/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/111/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":111,
+        "name":"Power Item"
+    }
+], "limit":100, "offset":0, "number_of_total_results":130}

@@ -1,0 +1,102 @@
+{"number_of_page_results":10, "status_code":1, "error":"OK", "results":[
+    {
+        "site_detail_url":"http://www.comicvine.com/flight/41-1/",
+        "description":"The ability to fly is possibly the most awesome, yet common power within the pantheon of superhero culture. Flight based characters have an immediate advantage over enemies and have arguably one of the only powers without a real counter. The capability to fly represents the freedom of the individual and his or her absolute control of their world.",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/1/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":1,
+        "name":"Flight"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/super-strength/41-2/",
+        "description":"Super Stength is the iconic super power. For a character to be the ultimate brute or the supreme hero super-strength is a must.  It's not surprising though since the traditional measure of manliness has always been strength, whether it be mental or physical. In this case, super-strength is the physical manifestation of a characters ability to assert himself over another.csdcsddscas",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/2/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":2,
+        "name":"Super Strength"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/super-speed/41-3/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/3/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":3,
+        "name":"Super Speed"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/agility/41-4/",
+        "description":"<p>Agility is the ability to move nimbly or quickly. It does not neccessarily go hand in hand with super speed, which measures distance traveled over time. Agility is instead reflexive and burst-like, often coming in the form of a split-second move.</p>\r\n\r\n<p>In terms of combat, agile heros always prefer a rapid succession of short, controlled strikes. This is in contrast to a brutish strength based characters who usually rely on a smaller number of more powerful attacks. Agile Hero characters are almost always defensive in nature and disposition. Evil characters focused on agility are often tricksters and thieves who gain advantages over other characters by setting odds in their favor before a fight even begins.</p>",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/4/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":4,
+        "name":"Agility"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/stamina/41-5/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/5/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":5,
+        "name":"Stamina"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/invulnerability/41-6/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/6/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":6,
+        "name":"Invulnerability"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/telepathy/41-7/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/7/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":7,
+        "name":"Telepathy"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/telekinesis/41-8/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/8/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":8,
+        "name":"Telekinesis"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/intellect/41-9/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/9/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":9,
+        "name":"Intellect"
+    },
+    {
+        "site_detail_url":"http://www.comicvine.com/teleport/41-10/",
+        "description":"",
+        "date_last_updated":"2008-06-06 11:28:15",
+        "api_detail_url":"http://api.comicvine.com/power/10/",
+        "date_added":"2008-06-06 11:28:15",
+        "aliases":"",
+        "id":10,
+        "name":"Teleport"
+    }
+], "limit":10, "offset":0, "number_of_total_results":130}
