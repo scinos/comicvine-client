@@ -9,10 +9,10 @@
     "author": "Sergio Cinos <sergio.cinos@gmail.com>",
     "repository" : {
         "type" : "git",
-        "url" : "http://bitbucket.com/cinos/comicvine-client.git"
+        "url" : "http://bitbucket.org/cinos/comicvine-client.git"
     },
     "bugs":{
-        "url":"http://bitbucket.com/cinos/comicvine-client/issues"
+        "url":"https://bitbucket.org/cinos/comicvine-client/issues"
     },
     "licenses": [
         {
