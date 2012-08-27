@@ -59,8 +59,8 @@ var ComicVine = function(config) {
         apiUrl = config.apiUrl;
     }
 
+    var urlBuilder = new UrlBuilder(apikey, apiUrl);
     var requestBuilder = new RequestBuilder(urlBuilder,request);
-    var urlBuilder = new UrlBuilder(apiUrl);
     var syncBuilder = new SyncBuilder(urlBuilder, requestBuilder , cache);
 
     backbone.sync = syncBuilder.build();
