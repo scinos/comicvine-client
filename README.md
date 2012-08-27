@@ -8,6 +8,20 @@ Features
 
 * Exports ComicVine API resources as Backbone collections, ready to be consumed.
 * Uses Redis for caching API responses.
+* Modeled resources:
+   * Characters
+   * Concepts
+   * Issues
+   * Locations
+   * Movies
+   * Objects
+   * Origins
+   * Persons
+   * Powers
+   * Publishers
+   * StoryArcs
+   * Teams
+   * Volumes
 
 Dependencies
 ============
@@ -17,8 +31,24 @@ Dependencies
 * [caching](https://github.com/mape/node-caching), used to provide a redis caching layer
 
 
+Tests
+=====
+
+The module provides a set of tests (althougt some methods doesn't have tests yet). The tests has been created using [mocha](http://visionmedia.github.com/mocha/). To run the tests:
+
+* Install mocha globally
+    $ npm install -g mocha
+    $ cd comicvine-client
+    $ mocha
+
+* If you have mocha installed as a dependency
+    $ cd comicvine-client
+    $ npm install mocha
+    $ node_modules/mocha/bin/mocha
+
+
 Usage
-========
+=====
 
 ### Initialization
 
@@ -50,11 +80,10 @@ or
          apikey: "40ffdec6b2f84ffa415b5f24d289175ae907a6a1",
 
          //Don't use cache
+         //It is *highly recommended* to not disable the cache. ComicVine API is not very fast and very verbose, so
+         //not using cache will definetly kill your performance.
          cache: false
      });
-
-
-It is **highly recommended** to not disable the cache. ComicVine API is not very fast and very verbose, so not using cache will definetly kill your performance.
 
 
 ### Get a paginated list of characters
