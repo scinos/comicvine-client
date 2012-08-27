@@ -88,7 +88,7 @@ It is **highly recommended** to not disable the cache. ComicVine API is not very
 
 ### Use API Search to find the real name of the best superhero ever
 
-    var searchCollection = new client.collections.Search("Batman","character");
+    var searchCollection = new client.Search("Batman","character");
 
     //Now searchCollection is a regular paginated collection. You can set pageSize, use .fetch(), .fetchNextPage()...
     searchCollection.fetchAll({
