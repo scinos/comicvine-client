@@ -1,7 +1,6 @@
 var should = require("should"),
     backbone = require("backbone"),
     fs = require("fs"),
-    _ = require("underscore"),
     db = require('../lib/db/index.js');
 
 describe('Models', function(){
@@ -12,9 +11,10 @@ describe('Models', function(){
         });
 
         it('should contain only instances of backbone Collections', function(){
-            _.each(db.collections, function(item) {
+            for (var col in db.collections) if (db.collections.hasOwnProperty(col)) {
+                var item = db.collections[col];
                 item.should.be.a("object").and.be.an.instanceof(backbone.Collection);
-            })
+            }
         });
     });
 
