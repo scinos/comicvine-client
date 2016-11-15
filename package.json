@@ -1,35 +1,36 @@
 {
-    "name":"comicvine-client",
-    "description":"ComicVine Client for remote API, based on Backbone",
-    "keywords": ["comicvine","comic","api","client"],
-    "version":"0.1.0",
-
-    "main": "comicvine",
-
-    "author": "Sergio Cinos <sergio.cinos@gmail.com>",
-    "repository" : {
-        "type" : "git",
-        "url" : "http://bitbucket.org/scinos/comicvine-client.git"
-    },
-    "bugs":{
-        "url":"https://bitbucket.org/scinos/comicvine-client/issues"
-    },
-    "licenses": [
-        {
-            "type": "MIT",
-            "url": "http://www.opensource.org/licenses/MIT"
-        }
-    ],
-
-    "private":false,
-    "dependencies":{
-        "backbone":"0.9.x",
-        "request":"2.10.x",
-        "caching":"0.1.x"
-    },
-
-    "devDependencies":{
-        "should":"1.1.x",
-        "mocha":"1.4.x"
+  "name": "comicvine-client",
+  "description": "ComicVine Client for remote API, based on Backbone",
+  "keywords": [
+    "comicvine",
+    "comic",
+    "api",
+    "client"
+  ],
+  "version": "0.1.1",
+  "main": "comicvine",
+  "author": "Sergio Cinos <sergio.cinos@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://bitbucket.org/scinos/comicvine-client.git"
+  },
+  "bugs": {
+    "url": "https://bitbucket.org/scinos/comicvine-client/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
     }
+  ],
+  "private": false,
+  "dependencies": {
+    "backbone": "0.9.x",
+    "request": "2.10.x",
+    "caching": "0.1.x"
+  },
+  "devDependencies": {
+    "should": "1.1.x",
+    "mocha": "1.4.x"
+  }
 }
