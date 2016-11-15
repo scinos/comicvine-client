@@ -1,7 +1,7 @@
 {
     "name":"comicvine-client",
     "description":"ComicVine Client for remote API, based on Backbone",
-    "keywords":"comicvine comic api client",
+    "keywords": ["comicvine","comic","api","client"],
     "version":"0.1.0",
 
     "main": "comicvine",
@@ -9,10 +9,10 @@
     "author": "Sergio Cinos <sergio.cinos@gmail.com>",
     "repository" : {
         "type" : "git",
-        "url" : "http://bitbucket.org/cinos/comicvine-client.git"
+        "url" : "http://bitbucket.org/scinos/comicvine-client.git"
     },
     "bugs":{
-        "url":"https://bitbucket.org/cinos/comicvine-client/issues"
+        "url":"https://bitbucket.org/scinos/comicvine-client/issues"
     },
     "licenses": [
         {
@@ -21,7 +21,7 @@
         }
     ],
 
-    "private":true,
+    "private":false,
     "dependencies":{
         "backbone":"0.9.x",
         "request":"2.10.x",
